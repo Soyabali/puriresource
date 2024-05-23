@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffeb3118" android:paddingBottom="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/scr" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_below="@id/templetopview">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:id="@id/viewgallery" android:background="@mipmap/howtoreach" android:layout_width="fill_parent" android:layout_height="200.0dip">
+                <RelativeLayout android:textSize="11.0sp" android:textColor="#ffffffff" android:id="@id/galleydisplay" android:background="@drawable/rounded_button" android:layout_width="@dimen/dp120" android:layout_height="@dimen/dp40" android:layout_marginLeft="20.0dip" android:layout_marginBottom="@dimen/dp10" android:text="About Vrindavan" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                    <ImageView android:id="@id/mic" android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:layout_marginLeft="@dimen/dp15" android:src="@drawable/downloadmap" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                    <TextView android:textSize="11.0dip" android:textColor="#ffffffff" android:id="@id/reachcity" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/city_map" android:layout_toRightOf="@id/mic" android:layout_centerVertical="true" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:background="#ffeb3118" android:padding="@dimen/dp3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/viewgallery">
+                <RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementone" />
+                        <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementtwo" android:layout_alignParentRight="true" />
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp20">
+                            <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp25" android:layout_marginRight="@dimen/dp25" android:src="@drawable/templelement2" android:layout_centerHorizontal="true" />
+                            <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="@string/by_road" />
+                            <TextView android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:id="@id/byroadtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/dp15" />
+                            <TextView android:textSize="11.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/busdetail" android:background="@drawable/rounded_button" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginTop="@dimen/dp20" android:layout_marginBottom="@dimen/dp20" android:text="@string/bus_details" />
+                            <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp20" android:layout_marginRight="@dimen/dp20" android:src="@drawable/line" android:layout_centerHorizontal="true" />
+                            <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="@string/by_train" />
+                            <TextView android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:id="@id/bytraintext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/dp15" />
+                            <TextView android:textSize="11.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/traindetail" android:background="@drawable/rounded_button" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginTop="@dimen/dp20" android:layout_marginBottom="@dimen/dp20" android:text="@string/train_details" />
+                            <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp20" android:layout_marginRight="@dimen/dp20" android:src="@drawable/line" android:layout_centerHorizontal="true" />
+                            <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="@string/by_air" />
+                            <TextView android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:id="@id/byairtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/dp15" />
+                            <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp20" android:layout_marginRight="@dimen/dp20" android:layout_marginBottom="@dimen/dp20" android:src="@drawable/templeelement3" android:layout_centerHorizontal="true" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

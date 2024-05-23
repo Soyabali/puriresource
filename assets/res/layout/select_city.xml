@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/selectcitylayout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/select_city_border" android:paddingLeft="@dimen/dp25" android:paddingTop="@dimen/dp20" android:paddingRight="@dimen/dp25" android:paddingBottom="@dimen/dp20" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp40" android:layout_marginTop="@dimen/dp20" android:layout_marginRight="@dimen/dp35">
+        <Button android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/selectmathura" android:background="@drawable/city_corner" android:layout_width="fill_parent" android:layout_height="@dimen/dp40" android:text="@string/mathura" android:textAllCaps="false" />
+        <Button android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/selectvrindavan" android:background="@drawable/city_corner" android:layout_width="fill_parent" android:layout_height="@dimen/dp40" android:layout_marginTop="@dimen/dp10" android:text="@string/vrindavan" android:textAllCaps="false" />
+        <Button android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/selectgoverdhan" android:background="@drawable/city_corner" android:layout_width="fill_parent" android:layout_height="@dimen/dp40" android:layout_marginTop="@dimen/dp10" android:text="@string/goverdhan" android:textAllCaps="false" />
+        <Button android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/selectbarsana" android:background="@drawable/city_corner" android:layout_width="fill_parent" android:layout_height="@dimen/dp40" android:layout_marginTop="@dimen/dp10" android:text="@string/barsana" android:textAllCaps="false" />
+        <Button android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/selectgokul" android:background="@drawable/city_corner" android:layout_width="fill_parent" android:layout_height="@dimen/dp40" android:layout_marginTop="@dimen/dp10" android:text="@string/gokul" android:textAllCaps="false" />
+    </LinearLayout>
+    <ImageView android:id="@id/cancel" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:layout_marginTop="@dimen/dp10" android:layout_marginRight="@dimen/dp30" android:src="@drawable/canceldialog" android:layout_alignParentRight="true" />
+</RelativeLayout>

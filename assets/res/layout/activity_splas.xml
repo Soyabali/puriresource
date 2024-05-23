@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/splashlayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/appbackground" android:scaleType="fitXY" />
+    <RelativeLayout android:gravity="center" android:background="#70eb3118" android:padding="@dimen/dp20" android:layout_width="fill_parent" android:layout_height="180.0dip" android:layout_marginBottom="@dimen/dp170" android:layout_alignParentBottom="true">
+        <TextView android:textSize="@dimen/dp20" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="BRAJ DARSHAN" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/logoframe" />
+    </RelativeLayout>
+</RelativeLayout>

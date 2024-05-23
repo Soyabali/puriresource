@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffeb3118" android:paddingBottom="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/hoteltop" layout="@layout/app_bar" />
+    <ScrollView android:id="@id/scrt" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_below="@id/hoteltop">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:id="@id/viewgallery" android:layout_width="fill_parent" android:layout_height="@dimen/dp200">
+                <ImageView android:id="@id/hotelinfoimg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@mipmap/imageblank" android:scaleType="fitXY" />
+            </RelativeLayout>
+            <RelativeLayout android:background="#ffeb3118" android:padding="@dimen/dp3" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_below="@id/viewgallery">
+                <RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp5" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementone" />
+                        <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementtwo" android:layout_alignParentRight="true" />
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp20">
+                            <ImageView android:layout_width="@dimen/dp200" android:layout_height="@dimen/dp30" android:src="@drawable/templeelement1" android:layout_centerHorizontal="true" />
+                            <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:id="@id/hotel_iname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="Vrindavan" />
+                            <LinearLayout android:gravity="center" android:orientation="vertical" android:background="#ffe8ecf2" android:padding="@dimen/dp20" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dp20">
+                                <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:id="@id/hratetext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hotel_rates" />
+                                <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10">
+                                    <TextView android:textSize="11.0dip" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/high" />
+                                    <TextView android:textSize="11.0dip" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp2" android:text="@string/Rs" />
+                                    <TextView android:textSize="11.0dip" android:textColor="#ffeb3118" android:id="@id/highrate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="8500.0" />
+                                    <TextView android:textSize="11.0dip" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="-" />
+                                    <TextView android:textSize="11.0dip" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/low" />
+                                    <TextView android:textSize="11.0dip" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp2" android:text="@string/Rs" />
+                                    <TextView android:textSize="11.0dip" android:textColor="#ffeb3118" android:id="@id/lowrate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5000.0" />
+                                </LinearLayout>
+                                <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:id="@id/ratetext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="@string/ratings" />
+                                <RatingBar android:id="@id/ratehotel" android:layout_width="wrap_content" android:layout_height="11.0dip" android:layout_marginTop="@dimen/dp5" android:progressDrawable="@drawable/hotel_rating" android:rating="3.0" style="?android:attr/ratingBarStyleIndicator" />
+                                <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:id="@id/addresstext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="@string/address" />
+                                <TextView android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:gravity="center" android:id="@id/hoteladdress" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp5" android:maxLines="2" />
+                            </LinearLayout>
+                            <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp15" android:src="@drawable/templelement2" android:layout_centerHorizontal="true" />
+                            <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/about_hotel" />
+                            <RelativeLayout android:id="@id/infoview" android:layout_width="fill_parent" android:layout_height="170.0dip">
+                                <WebView android:id="@id/hotelshader" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/readmore" />
+                                <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/shader" android:scaleType="fitXY" android:layout_above="@id/readmore" />
+                                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/readmore" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                                    <TextView android:textSize="@dimen/dp11" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/read_more" />
+                                    <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:layout_margin="@dimen/dp5" android:src="@drawable/readmore" />
+                                </LinearLayout>
+                            </RelativeLayout>
+                            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/read_less_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                <WebView android:id="@id/hotel_detail_web" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dp10" />
+                                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/readlessdesp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                                    <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/readless" />
+                                    <TextView android:textSize="@dimen/dp11" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp5" android:text="@string/read_less" />
+                                </LinearLayout>
+                            </LinearLayout>
+                            <TextView android:textColor="#ffeb3118" android:gravity="center" android:id="@id/mapclickview" android:background="#ffe8ecf2" android:padding="@dimen/dp15" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dp20" android:text="@string/click_on_map" />
+                            <RelativeLayout android:id="@id/map_layout" android:layout_width="fill_parent" android:layout_height="200.0dip" android:layout_marginLeft="2.0dip" android:layout_marginTop="@dimen/dp10" android:layout_marginRight="2.0dip" android:layout_marginBottom="2.0dip">
+                                <com.google.android.gms.maps.MapView android:id="@id/hotelmap" android:layout_width="fill_parent" android:layout_height="200.0dip" />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </RelativeLayout>
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

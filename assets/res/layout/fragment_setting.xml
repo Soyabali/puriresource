@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#ffeb3118" android:paddingLeft="@dimen/dp3" android:paddingRight="@dimen/dp3" android:paddingBottom="6.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp3" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_below="@id/viewgallery">
+        <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementone" />
+            <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementtwo" android:layout_alignParentRight="true" />
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/dp15" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10">
+                <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp25" android:layout_marginRight="@dimen/dp25" android:src="@drawable/templelement2" android:layout_centerHorizontal="true" />
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp35">
+                    <ImageView android:id="@id/languageicon" android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/language" />
+                    <TextView android:textSize="@dimen/dp13" android:textColor="#ff585858" android:id="@id/setlanguage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/set_language" android:layout_toRightOf="@id/languageicon" />
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/selecthindi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+                        <ImageView android:id="@id/hindiselection" android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/unsellect" />
+                        <TextView android:textSize="@dimen/dp13" android:textColor="#ff585858" android:id="@id/hinditext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/hindi" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/selectenglish" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/dp20" android:layout_toLeftOf="@id/selecthindi">
+                        <ImageView android:id="@id/englishselection" android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/select" />
+                        <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/englishtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/english" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <View android:background="#ffdcdcdc" android:layout_width="fill_parent" android:layout_height="@dimen/dp1" android:layout_marginTop="@dimen/dp20" />
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp20">
+                    <ImageView android:id="@id/shareicon" android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/shareicon" android:layout_centerVertical="true" />
+                    <TextView android:textSize="@dimen/dp13" android:textColor="#ff585858" android:id="@id/sharewithfrnds" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/share_friends" android:layout_toRightOf="@id/shareicon" android:layout_centerVertical="true" />
+                    <ImageView android:id="@id/facebookicon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:layout_marginRight="@dimen/dp15" android:src="@drawable/facebookicon" android:layout_toLeftOf="@id/twittericon" />
+                    <ImageView android:id="@id/twittericon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:src="@drawable/twittericon" android:layout_alignParentRight="true" />
+                </RelativeLayout>
+                <View android:background="#ffdcdcdc" android:layout_width="fill_parent" android:layout_height="@dimen/dp1" android:layout_marginTop="@dimen/dp20" />
+                <RelativeLayout android:id="@id/termconditions" android:paddingTop="@dimen/dp20" android:paddingBottom="@dimen/dp20" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/term" android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/termcondition" android:layout_centerVertical="true" />
+                    <TextView android:textSize="@dimen/dp13" android:textColor="#ff585858" android:id="@id/termconditiontext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/terms_condition" android:layout_toRightOf="@id/term" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:background="#ffdcdcdc" android:layout_width="fill_parent" android:layout_height="@dimen/dp1" />
+                <RelativeLayout android:id="@id/aboutusview" android:paddingTop="@dimen/dp20" android:paddingBottom="@dimen/dp20" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/about" android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/aboutusicon" android:layout_centerVertical="true" />
+                    <TextView android:textSize="@dimen/dp13" android:textColor="#ff585858" android:id="@id/aboutustext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="@string/about_us" android:layout_toRightOf="@id/about" android:layout_centerVertical="true" />
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/dp13" android:textColor="#ff585858" android:gravity="center" android:id="@id/version_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:layout_marginBottom="@dimen/dp20" android:text="@string/version" android:layout_above="@id/belowtemp" />
+        <ImageView android:id="@id/belowtemp" android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp25" android:layout_marginRight="@dimen/dp25" android:layout_marginBottom="@dimen/dp20" android:src="@drawable/templeelement3" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</ScrollView>

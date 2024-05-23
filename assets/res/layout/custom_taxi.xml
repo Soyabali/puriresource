@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="90.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="90.0dip">
+        <ImageView android:id="@id/driverpic" android:background="#ff333333" android:layout_width="90.0dip" android:layout_height="fill_parent" android:layout_marginLeft="1.0dip" android:layout_marginTop="1.0dip" android:layout_marginBottom="1.0dip" android:src="@mipmap/imageblank" android:scaleType="fitXY" android:layout_centerVertical="true" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:layout_marginRight="@dimen/dp20" android:layout_toRightOf="@id/driverpic" android:layout_centerVertical="true">
+            <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/drivername" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Baljit" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ffeb3118" android:layout_width="@dimen/dp40" android:layout_height="wrap_content" android:text="@string/seats" />
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/taxiseats" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4+1" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ffeb3118" android:layout_width="@dimen/dp40" android:layout_height="wrap_content" android:text="@string/fare" />
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/rs" />
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/taxifare" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp1" android:text=" 12 per KM" />
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementtop" android:layout_alignParentRight="true" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementbottom" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

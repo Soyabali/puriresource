@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffeb3118" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/weatherbackground" android:background="@drawable/mostly_sunny" android:layout_width="fill_parent" android:layout_height="@dimen/dp150">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/weatherimg" android:layout_width="@dimen/dp70" android:layout_height="@dimen/dp70" android:layout_marginLeft="@dimen/dp20" android:src="@drawable/mostly_sunny_sun" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp20" android:layout_marginRight="@dimen/dp20">
+            <TextView android:textSize="@dimen/dp20" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/today" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp20" android:textColor="#ffffffff" android:id="@id/weatherdegree" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ffffffff" android:id="@id/minmax" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="-" />
+            </LinearLayout>
+            <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:id="@id/weathercondition" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" -" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:id="@id/htext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/humidity" />
+                <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:id="@id/humidityvalue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" android:layout_toRightOf="@id/htext" />
+                <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:id="@id/windvalue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" android:layout_toLeftOf="@id/kmh" />
+                <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:id="@id/kmh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/kmh" android:layout_alignParentRight="true" />
+                <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wind" android:layout_toLeftOf="@id/windvalue" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <ListView android:id="@id/weatherlist" android:background="#ffffffff" android:visibility="visible" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/dp3" android:scrollingCache="false" android:divider="#ffeb3118" android:dividerHeight="@dimen/dp3" />
+</LinearLayout>

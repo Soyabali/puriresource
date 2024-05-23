@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffeb3118" android:paddingBottom="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/scr" android:background="#ffe8ecf2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/dp3">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_below="@id/viewgallery">
+                <RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp5" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementone" />
+                        <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementtwo" android:layout_alignParentRight="true" />
+                        <ImageView android:id="@id/elementcomplain" android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp30" android:layout_marginTop="@dimen/dp10" android:layout_marginRight="@dimen/dp30" android:src="@drawable/templelement2" android:layout_centerHorizontal="true" />
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dp25" android:layout_below="@id/elementcomplain">
+                            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                                    <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/nameicon" />
+                                    <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp5" android:text="@string/your_name" />
+                                </LinearLayout>
+                                <EditText android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:id="@id/editname" android:background="@drawable/complain_edittext" android:paddingLeft="@dimen/dp10" android:paddingRight="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="@dimen/dp45" android:layout_marginTop="@dimen/dp10" android:singleLine="true" android:inputType="textNoSuggestions" />
+                            </LinearLayout>
+                            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp15">
+                                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                                    <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/emailicon" />
+                                    <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp5" android:text="@string/email_address" />
+                                </LinearLayout>
+                                <EditText android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:id="@id/editemail" android:background="@drawable/complain_edittext" android:paddingLeft="@dimen/dp10" android:paddingRight="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="@dimen/dp45" android:layout_marginTop="@dimen/dp10" android:singleLine="true" android:inputType="textNoSuggestions" />
+                            </LinearLayout>
+                            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp15">
+                                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                                    <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/phoneicon" />
+                                    <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp5" android:text="@string/phone_number" />
+                                </LinearLayout>
+                                <EditText android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:id="@id/editphone" android:background="@drawable/complain_edittext" android:paddingLeft="@dimen/dp10" android:paddingRight="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="@dimen/dp45" android:layout_marginTop="@dimen/dp10" android:singleLine="true" android:inputType="phone|textNoSuggestions" />
+                            </LinearLayout>
+                            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp15">
+                                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                                    <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/complainicon" />
+                                    <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp5" android:text="@string/complain" />
+                                </LinearLayout>
+                                <EditText android:textSize="@dimen/dp13" android:textColor="#ff6b7481" android:gravity="top" android:id="@id/editcomplain" android:background="@drawable/complain_edittext" android:padding="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="@dimen/dp140" android:layout_marginTop="@dimen/dp10" android:inputType="textNoSuggestions" />
+                            </LinearLayout>
+                            <TextView android:textSize="11.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/submitcomplain" android:background="@drawable/rounded_button" android:layout_width="fill_parent" android:layout_height="@dimen/dp40" android:layout_marginTop="@dimen/dp20" android:layout_marginBottom="@dimen/dp10" android:text="@string/submit_complain" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+                            <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:layout_marginTop="@dimen/dp10" android:layout_marginBottom="@dimen/dp20" android:src="@drawable/templeelement3" android:layout_centerHorizontal="true" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

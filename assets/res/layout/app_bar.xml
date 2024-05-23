@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/colorPrimary" android:paddingRight="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="50.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/menuIcon" android:padding="@dimen/dp5" android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_marginLeft="@dimen/dp10" android:src="@drawable/menu" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/backto" android:padding="@dimen/dp15" android:visibility="gone" android:layout_width="@dimen/dp50" android:layout_height="@dimen/dp50" android:src="@drawable/back" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/searching" android:visibility="gone" android:layout_width="25.0dip" android:layout_height="25.0dip" android:src="@drawable/search" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/mapicon" android:padding="@dimen/dp5" android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:src="@drawable/map" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+        <ImageView android:id="@id/imageView4" android:layout_width="60.0dip" android:layout_height="wrap_content" android:src="@drawable/header_line1" />
+        <TextView android:textSize="13.0sp" android:textColor="#ffffffff" android:id="@id/titleTextview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:text="@string/title" />
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/imageView5" android:layout_width="60.0dip" android:layout_height="wrap_content" android:src="@drawable/header_line2" />
+    </LinearLayout>
+</RelativeLayout>

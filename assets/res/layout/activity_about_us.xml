@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#ffeb3118" android:paddingLeft="@dimen/dp3" android:paddingRight="@dimen/dp3" android:paddingBottom="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/aboutustop" layout="@layout/app_bar" />
+        <RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp3" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_below="@id/aboutustop">
+            <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementone" />
+                <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementtwo" android:layout_alignParentRight="true" />
+                <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_marginTop="@dimen/dp50">
+                    <TextView android:textSize="@dimen/dp20" android:textColor="#ffeb3118" android:id="@id/brjtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="BRAJ DARSHAN" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/logoframe" />
+                </RelativeLayout>
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/descriptionabout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dp20" android:layout_alignParentBottom="true">
+                    <TextView android:textSize="@dimen/dp13" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/powered_by" android:layout_above="@id/belowtemp" />
+                    <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:layout_marginRight="@dimen/dp10" android:src="@drawable/line" android:layout_above="@id/synerimg" />
+                    <ImageView android:id="@id/synerimg" android:layout_width="70.0dip" android:layout_height="30.0dip" android:layout_marginTop="@dimen/dp3" android:src="@mipmap/synerlogo" android:layout_above="@id/synertext" android:layout_centerHorizontal="true" />
+                    <TextView android:textSize="@dimen/dp13" android:id="@id/synertext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dp10" android:text="Synergy Telematics Pvt.Ltd" android:layout_above="@id/belowtemp" android:layout_centerHorizontal="true" />
+                    <TextView android:textSize="@dimen/dp13" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="@string/developed_by" android:layout_above="@id/belowtemp" />
+                    <ImageView android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:layout_marginRight="@dimen/dp10" android:src="@drawable/line" android:layout_above="@id/synerimg" />
+                    <ImageView android:id="@id/amsytimg" android:visibility="gone" android:layout_width="70.0dip" android:layout_height="20.0dip" android:layout_marginTop="@dimen/dp3" android:src="@drawable/amsytlogo" android:layout_above="@id/synertext" android:layout_centerHorizontal="true" />
+                    <TextView android:textSize="@dimen/dp13" android:id="@id/amsyt" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dp10" android:text="Amsyt Technologies Pvt.Ltd" android:layout_above="@id/belowtemp" android:layout_centerHorizontal="true" />
+                    <ImageView android:id="@id/belowtemp" android:layout_width="fill_parent" android:layout_height="@dimen/dp30" android:src="@drawable/templeelement3" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

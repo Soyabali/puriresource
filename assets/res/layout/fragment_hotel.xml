@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffeb3118" android:paddingBottom="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <HorizontalScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:id="@id/hoteltopview" android:background="#ffe8ecf2" android:paddingLeft="@dimen/dp10" android:paddingRight="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/hotelview" android:paddingLeft="@dimen/dp20" android:paddingTop="@dimen/dp10" android:paddingRight="@dimen/dp20" android:paddingBottom="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/hotelicon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:src="@drawable/hotel" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ffeb3118" android:id="@id/hoteltext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hotels" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/restaurantview" android:paddingLeft="@dimen/dp20" android:paddingTop="@dimen/dp10" android:paddingRight="@dimen/dp20" android:paddingBottom="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/restauranticon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:src="@drawable/restaurantsfade" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ff6b7481" android:id="@id/restauranttext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/restaurants" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/parkingview" android:paddingLeft="@dimen/dp20" android:paddingTop="@dimen/dp10" android:paddingRight="@dimen/dp20" android:paddingBottom="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/parking_icon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:src="@drawable/parkingfade" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ff6b7481" android:id="@id/parkingtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/parking" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/taxiview" android:paddingLeft="@dimen/dp20" android:paddingTop="@dimen/dp10" android:paddingRight="@dimen/dp20" android:paddingBottom="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/taxiicon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:src="@drawable/taxifade" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ff6b7481" android:id="@id/taxitext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/taxi" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/toiletview" android:paddingLeft="@dimen/dp20" android:paddingTop="@dimen/dp10" android:paddingRight="@dimen/dp20" android:paddingBottom="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/toileticon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:src="@drawable/toiletfade" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ff6b7481" android:id="@id/toilettext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/toilets" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/autogasview" android:paddingLeft="@dimen/dp20" android:paddingTop="@dimen/dp10" android:paddingRight="@dimen/dp20" android:paddingBottom="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/autogasicon" android:layout_width="@dimen/dp25" android:layout_height="@dimen/dp25" android:src="@drawable/autogasfade" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ff6b7481" android:id="@id/autogastext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/auto_gas" />
+            </LinearLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
+    <LinearLayout android:orientation="horizontal" android:id="@id/taxiselection" android:background="#ffffffff" android:padding="@dimen/dp15" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/gettaxistands" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/taxistands_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/taxi_stands" />
+                <View android:id="@id/standsdivide" android:background="#ffeb3118" android:layout_width="fill_parent" android:layout_height="@dimen/dp1" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/gettaxis" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp13" android:textColor="#ff333333" android:id="@id/taxistext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/taxis" />
+                <View android:id="@id/taxisdivide" android:background="#ffeb3118" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:gravity="center" android:id="@id/nodata" android:background="#ffeb3118" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/nodata_available" />
+    <ListView android:id="@id/hotellist" android:background="#ffeb3118" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/dp3" android:divider="#ffeb3118" android:dividerHeight="@dimen/dp3" />
+    <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:gravity="center" android:id="@id/views" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="No Record Found" android:layout_below="@id/hoteltopview" />
+</LinearLayout>

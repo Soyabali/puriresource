@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffeb3118" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/citybg" android:paddingLeft="@dimen/dp15" android:paddingRight="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="@dimen/dp150">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/imageView2" android:layout_width="150.0dip" android:layout_height="90.0dip" android:src="@drawable/cityname" android:scaleType="fitXY" />
+            <TextView android:textSize="@dimen/dp15" android:textColor="#ffffffff" android:id="@id/cityname" android:paddingRight="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="VRINDAVAN" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center_horizontal" android:id="@id/changecitybtn" android:background="@drawable/rounded_button" android:paddingLeft="@dimen/dp15" android:paddingTop="@dimen/dp10" android:paddingRight="@dimen/dp15" android:paddingBottom="@dimen/dp10" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp15">
+            <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:id="@id/citytext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/select_city" />
+            <ImageView android:layout_width="@dimen/dp11" android:layout_height="@dimen/dp11" android:layout_marginLeft="@dimen/dp10" android:src="@drawable/citydown" android:layout_toRightOf="@id/citytext" android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ListView android:id="@id/templelist" android:background="#ffeb3118" android:visibility="gone" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/dp3" android:scrollingCache="false" android:divider="#ffeb3118" android:dividerHeight="@dimen/dp3" />
+    <View android:id="@id/mapdevide" android:background="#fff8bb37" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <com.google.android.gms.maps.MapView android:id="@id/templelocation" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

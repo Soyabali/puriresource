@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#ffeb3118" android:paddingBottom="@dimen/dp5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/viewgallery" android:layout_width="fill_parent" android:layout_height="@dimen/dp200">
+            <android.support.v4.view.ViewPager android:id="@id/citypager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <ImageView android:id="@id/cityprev" android:layout_width="@dimen/dp35" android:layout_height="@dimen/dp35" android:src="@drawable/pre" android:scaleType="fitXY" android:layout_centerVertical="true" />
+            <ImageView android:id="@id/citynext" android:layout_width="@dimen/dp35" android:layout_height="@dimen/dp35" android:src="@drawable/next" android:scaleType="fitXY" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <LinearLayout android:textSize="11.0sp" android:textColor="#ffffffff" android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/vgdisp" android:background="@drawable/rounded_button" android:paddingLeft="@dimen/dp10" android:paddingRight="@dimen/dp20" android:layout_width="wrap_content" android:layout_height="@dimen/dp40" android:layout_marginBottom="@dimen/dp10" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:layout_marginLeft="@dimen/dp10" android:src="@drawable/gallery" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <TextView android:textSize="11.0dip" android:textColor="#ffffffff" android:gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/dp10" android:text="@string/view_gallery" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/dp3" android:layout_marginTop="@dimen/dp3" android:layout_marginRight="@dimen/dp3" android:layout_below="@id/viewgallery">
+            <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementone" />
+            <ImageView android:layout_width="@dimen/dp30" android:layout_height="@dimen/dp30" android:layout_margin="@dimen/dp10" android:src="@drawable/cityelementtwo" android:layout_alignParentRight="true" />
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp20">
+                <ImageView android:layout_width="@dimen/dp200" android:layout_height="@dimen/dp30" android:src="@drawable/templeelement1" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="@dimen/dp15" android:textColor="#ffeb3118" android:id="@id/cityname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp10" android:text="Vrindavan" />
+                <RelativeLayout android:id="@id/infoview" android:layout_width="fill_parent" android:layout_height="190.0dip">
+                    <WebView android:id="@id/webView1" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/readmore" />
+                    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/shader" android:scaleType="fitXY" android:layout_above="@id/readmore" />
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/readmore" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                        <TextView android:textSize="@dimen/dp11" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/read_more" />
+                        <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:layout_margin="@dimen/dp5" android:src="@drawable/readmore" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/read_less_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <WebView android:id="@id/webView_detail" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dp10" />
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/readlessinfo" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <ImageView android:layout_width="@dimen/dp15" android:layout_height="@dimen/dp15" android:src="@drawable/readless" />
+                        <TextView android:textSize="@dimen/dp11" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp5" android:text="@string/read_less" />
+                    </LinearLayout>
+                </LinearLayout>
+                <TextView android:textSize="11.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/citymap" android:background="@drawable/rounded_button" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginTop="@dimen/dp20" android:layout_marginBottom="@dimen/dp20" android:text="@string/city_map" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</ScrollView>

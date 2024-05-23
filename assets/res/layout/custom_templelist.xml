@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="80.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="80.0dip">
+        <com.albero.webimage.imageloader.FetchableImageView android:id="@id/timg" android:layout_width="@dimen/dp90" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/dp1" android:layout_marginTop="@dimen/dp1" android:layout_marginBottom="@dimen/dp1" android:src="@mipmap/imageblank" android:scaleType="fitXY" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/templename" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp20" android:text="Prem Mandir" android:layout_toRightOf="@id/timg" android:layout_centerVertical="true" />
+        <ImageView android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_marginRight="@dimen/dp20" android:src="@drawable/arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementtop" android:layout_alignParentRight="true" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementbottom" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffeb3118" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/hoteltop" layout="@layout/app_bar" />
+    <TextView android:textSize="@dimen/dp13" android:textColor="#ffffffff" android:id="@id/visit" android:padding="@dimen/dp10" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="There is no direct train between New Delhi and Vrindavan. You can take Bhopal Shtbdi from New Delhi to Mathura then take a taxi from Mathura to Vrindavan." />
+    <ListView android:id="@id/trainlist" android:background="#ffeb3118" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/dp3" android:scrollingCache="false" android:divider="#ffeb3118" android:dividerHeight="@dimen/dp3" />
+</LinearLayout>

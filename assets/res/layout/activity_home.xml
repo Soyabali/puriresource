@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@id/drawer_layout" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/app_bar_home" />
+    <android.support.design.widget.NavigationView android:layout_gravity="start" android:id="@id/nav_view" android:fitsSystemWindows="true" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center" android:background="#fff8bb37" android:layout_width="fill_parent" android:layout_height="160.0dip">
+                <ImageView android:id="@id/logo" android:layout_width="180.0dip" android:layout_height="120.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/brjlogo" android:tint="#ffffffff" />
+            </LinearLayout>
+            <View android:background="#ffeb3118" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+            <ListView android:id="@id/lst_menu_items" android:padding="@dimen/activity_vertical_margin" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" android:dividerHeight="10.0dip" />
+        </LinearLayout>
+    </android.support.design.widget.NavigationView>
+</android.support.v4.widget.DrawerLayout>

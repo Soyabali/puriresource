@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="@dimen/dp200">
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/cityelementone" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/cityelementup" android:layout_alignParentBottom="true" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementtop" android:layout_alignParentRight="true" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementbottom" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp30" android:layout_marginRight="@dimen/dp20" android:layout_toRightOf="@id/timg" android:layout_centerVertical="true">
+            <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/busname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Shree Krishna Bus Service" />
+            <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/bustype" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp5" android:text="Seater sleeper non Ac" android:singleLine="true" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp5">
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:layout_width="@dimen/dp100" android:layout_height="wrap_content" android:text="@string/boarding_time" />
+                    <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/boardingtime" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Mail/Exp" android:singleLine="true" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp50">
+                    <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drop_time" />
+                    <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/droptime" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Mail/Exp" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:layout_width="@dimen/dp100" android:layout_height="wrap_content" android:text="@string/boarding_point" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp5">
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/pointone" android:layout_width="@dimen/dp100" android:layout_height="wrap_content" android:text="Mail/Exp" android:singleLine="true" />
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/pointonedate" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp50" android:text="Mail/Exp" android:singleLine="true" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp5">
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/pointtwo" android:layout_width="@dimen/dp100" android:layout_height="wrap_content" android:text="Mail/Exp" android:singleLine="true" />
+                <TextView android:textSize="@dimen/dp10" android:textColor="#ff6b7481" android:id="@id/pointtwodate" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp50" android:text="Mail/Exp" android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementtop" android:layout_alignParentRight="true" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementbottom" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

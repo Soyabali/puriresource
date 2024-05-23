@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffe8ecf2" android:padding="@dimen/dp3" android:layout_width="fill_parent" android:layout_height="80.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/temple_border" android:layout_width="fill_parent" android:layout_height="80.0dip">
+        <RelativeLayout android:id="@id/timg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true">
+            <com.albero.webimage.imageloader.FetchableImageView android:id="@id/weatherback" android:layout_width="@dimen/dp90" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/dp1" android:layout_marginTop="@dimen/dp1" android:layout_marginBottom="@dimen/dp1" android:src="@drawable/partlysunny" android:scaleType="fitXY" />
+            <com.albero.webimage.imageloader.FetchableImageView android:id="@id/weatherfront" android:layout_width="@dimen/dp40" android:layout_height="@dimen/dp40" android:layout_marginLeft="@dimen/dp1" android:layout_marginTop="@dimen/dp1" android:layout_marginBottom="@dimen/dp1" android:src="@drawable/clear" android:scaleType="fitXY" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp20" android:layout_toRightOf="@id/timg" android:layout_centerVertical="true">
+            <TextView android:textSize="@dimen/dp13" android:textColor="#ffeb3118" android:id="@id/dayname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Tuesday" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp15" android:textColor="#ff6b7481" android:id="@id/wdegree" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="37" />
+                <TextView android:textSize="@dimen/dp9" android:textColor="#ff6b7481" android:id="@id/minmaxw" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp5" android:text="37-40" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ffeb3118" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/condition" />
+                <TextView android:textSize="@dimen/dp11" android:textColor="#ff6b7481" android:id="@id/weathercondition" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp10" android:text="Partly Sunny" />
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementtop" android:layout_alignParentRight="true" />
+        <ImageView android:layout_width="@dimen/dp20" android:layout_height="@dimen/dp20" android:layout_margin="@dimen/dp5" android:src="@drawable/listelementbottom" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>
