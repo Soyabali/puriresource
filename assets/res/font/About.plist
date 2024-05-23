@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>Name</key>
+		<string>Vrindavan</string>
+		<key>byRoad</key>
+		<string>Vrindavan is situated on Delhi-Agra NH-2. the various buses runs between the Agra and Delhi. temple is 7 km. away from National Highway. Getting to Temple is very easy as there are frequent tempos and rickshaw available throughout the day. Mathura is just 12 km away. frequent buses, tempos and taxies runs between Mathura and Vrindavan.</string>
+		<key>byAir</key>
+		<string>The nearest airport is Agra just 67 km away from Vrindavan. The nearest international airport is Delhi, which is connected to almost every important city in the world with major airlines. There are regular flights to other important tourist destinations of India such as Delhi, Mumbai, Bangalore, and Chennai etc.</string>
+		<key>byTrain</key>
+		<string>The major railway station nearby is Mathura on the Delhi-Chennai and Delhi-Mumbai main line. Several express and passenger trains connect Mathura from other major cities of India like Delhi, Mumbai, Pune, Chennai, Bangalore, Hyderabad, Calcutta, Gwalior, Dehradun, Indore, and Agra. Though Vrindavan itself is a railway station. A rail bus runs between Vrindavan and Mathura 5 round in a day.</string>
+		<key>about</key>
+		<string>Vrindavan is a town in the Mathura district of Uttar Pradesh, India. It is the site where according to Hinduism, Lord Krishna spent his childhood days. The town is about 11 km away from Mathura, Krishna&apos;s birthplace on the Agra-Delhi highway. 
+
+Vrindavan has an ancient past, associated with Hindu history, and is an important Hindu pilgrimage site. One of its oldest surviving temples is the Govinda Dev temple, built in 1590, with the town founded earlier in the same century. The essence of Vrindavan was lost over time until the 16th century, when it was rediscovered by Chaitanya Mahaprabhu. In the year 1515, Chaitanya Mahaprabhu visited Vrindavana, with the purpose of locating the lost holy places associated with Lord Sri Krishna&apos;s transcendent pastimes. Chaitanya wandered through the different sacred forests of Vrindavana in a spiritual trance of divine love. It was believed that by His divine spiritual power, He was able to locate all the important places of Krishna&apos;s pastimes in and around Vrindavana. Mira Bai left the kingdom of Mewar and went on pilgrimages. In her last 14 years, Meera lived in a temple called Pracheen Meerabai in Vrindavan. Meera Bai is the most famous female Hindu spiritual poetess, whose compositions are still popular throughout North India.
+
+In the last 250 years, the extensive forests of Vrindavan have been subjected to urbanization, first by local Rajas and in recent decades by apartment developers. The forest cover has been whittled away to only a few remaining spots, and the local wildlife, including peacocks, cows, monkeys and a variety of bird species has been virtually eliminated. A few peacocks are left in the city but monkeys and cows can be seen almost everywhere.</string>
+		<key>lat</key>
+		<real>27.565</real>
+		<key>long</key>
+		<real>77.6593</real>
+		<key>cityImages</key>
+		<array>
+			<string>city_history1</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpeg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.JPG</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.JPG</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.JPG</string>
+			<string>city_history_17.jpg</string>
+			<string>city_history_18.JPG</string>
+			<string>city_history_19.jpg</string>
+			<string>city_history_20.jpg</string>
+			<string>city_history_21.JPG</string>
+			<string>city_history_22.jpg</string>
+			<string>city_history_23.jpg</string>
+			<string>city_history_24.jpg</string>
+			<string>city_history_25.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_0.png</string>
+				<key>video</key>
+				<string>video_0.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_1.png</string>
+				<key>video</key>
+				<string>video_1.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_2.png</string>
+				<key>video</key>
+				<string>video_2.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_3.png</string>
+				<key>video</key>
+				<string>video_3.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_4.png</string>
+				<key>video</key>
+				<string>video_4.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_5.png</string>
+				<key>video</key>
+				<string>video_5.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_6.png</string>
+				<key>video</key>
+				<string>video_6.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_7.png</string>
+				<key>video</key>
+				<string>video_7.mp4</string>
+			</dict>
+		</array>
+		<key>trainDetail</key>
+		<array>
+			<dict>
+				<key>sNo</key>
+				<string>11112</string>
+				<key>name</key>
+				<string>Sushasan Express</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>01:00 am</string>
+				<key>arriveTime</key>
+				<string>03:00 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Atari - Jabalpur SpecialFare Special</string>
+				<key>sNo</key>
+				<string>01708</string>
+				<key>type</key>
+				<string>EXP</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>02:00 am</string>
+				<key>arriveTime</key>
+				<string>04:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Udhampur - Kota Weekly Express</string>
+				<key>sNo</key>
+				<string>19806</string>
+				<key>type</key>
+				<string>EXP</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>03:40 am</string>
+				<key>arriveTime</key>
+				<string>06:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Chhattisgarh Express</string>
+				<key>sNo</key>
+				<string>18238</string>
+				<key>type</key>
+				<string>EXP</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>04:40 am</string>
+				<key>arriveTime</key>
+				<string>06:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 15m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Punjab Mail</string>
+				<key>sNo</key>
+				<string>12138</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>07:37 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 22m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Delhi Hazrat Nizamuddin - Kota SpecialFare SF Special</string>
+				<key>sNo</key>
+				<string>09810</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>08:05 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hazrat Nizamuddin - CSMT Kolhapur SF Express</string>
+				<key>sNo</key>
+				<string>12148</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Millennium Express</string>
+				<key>sNo</key>
+				<string>12646</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Delhi Hazrat Nizamuddin - Mysuru Swarna Jayanti SF Express</string>
+				<key>sNo</key>
+				<string>12782</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hazrat Nizamuddin – Visakhapatnam Swarna Jayanti Express</string>
+				<key>sNo</key>
+				<string>12804</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>H.Nizamuddin - Trivandrum Swarna Jayanti Express</string>
+				<key>sNo</key>
+				<string>12644</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>New Delhi - Bhopal Habibganj Shatabdi Express</string>
+				<key>sNo</key>
+				<string>12002</string>
+				<key>type</key>
+				<string>Shatabdi Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>06:00 am</string>
+				<key>arriveTime</key>
+				<string>07:23 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Udyan Abha Toofan Express</string>
+				<key>sNo</key>
+				<string>13008</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>07:00 am</string>
+				<key>arriveTime</key>
+				<string>10:07 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Taj Express</string>
+				<key>sNo</key>
+				<string>12280</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>07:05 am</string>
+				<key>arriveTime</key>
+				<string>08:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Old Delhi - Agra Cantt. Passenger (UnReserved)</string>
+				<key>sNo</key>
+				<string>51902</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>07:30 am</string>
+				<key>arriveTime</key>
+				<string>11:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 55m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Golden Temple Mail (PT)</string>
+				<key>sNo</key>
+				<string>12904</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>07:35 am</string>
+				<key>arriveTime</key>
+				<string>09:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hirakud (Hirakund) Express</string>
+				<key>sNo</key>
+				<string>18508</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>08:10 am</string>
+				<key>arriveTime</key>
+				<string>10:33am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Kongu Express</string>
+				<key>sNo</key>
+				<string>12648</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Samata Express</string>
+				<key>sNo</key>
+				<string>12808</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Mangala Lakshadweep Express</string>
+				<key>sNo</key>
+				<string>12618</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>depTime</key>
+				<string>09:15 am</string>
+				<key>arriveTime</key>
+				<string>11:08 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Amritsar-Indore Bi Weekly Express</string>
+				<key>sNo</key>
+				<string>19326</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>11:53 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>H. Nizamuddin - Thiruvananthapuram Express (via Kottayam)</string>
+				<key>sNo</key>
+				<string>22654</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>12:10 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Jhelum Express</string>
+				<key>sNo</key>
+				<string>11078</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>10:15 am</string>
+				<key>arriveTime</key>
+				<string>12:35 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Jammu Tawi - Mumbai Bandra (T.) SpecialFare AC SF Special</string>
+				<key>sNo</key>
+				<string>09022</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>10:30 am</string>
+				<key>arriveTime</key>
+				<string>12:55 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Kerala Express (PT)</string>
+				<key>sNo</key>
+				<string>12626</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>11:25 am</string>
+				<key>arriveTime</key>
+				<string>01:18 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Kalinga Utkal Express (PT)</string>
+				<key>sNo</key>
+				<string>18478</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>12:10 pm</string>
+				<key>arriveTime</key>
+				<string>01:15 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Patalkot Express</string>
+				<key>sNo</key>
+				<string>14624</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:20 pm</string>
+				<key>arriveTime</key>
+				<string>03:17 pm</string>
+				<key>distance</key>
+				<string>154</string>
+				<key>travelTime</key>
+				<string>2h 57m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Delhi Sarai Rohilla - Ashok Nagar Special (UnReserved)</string>
+				<key>sNo</key>
+				<string>04906</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:30 am</string>
+				<key>arriveTime</key>
+				<string>03:10 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Delhi Hazrat Nizamuddin - Kota JanShatabdi Express</string>
+				<key>sNo</key>
+				<string>12060</string>
+				<key>type</key>
+				<string>Jan ShatabdiExp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>01:15 pm</string>
+				<key>arriveTime</key>
+				<string>03:15 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sachkhand Express</string>
+				<key>sNo</key>
+				<string>12716</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>01:20 pm</string>
+				<key>arriveTime</key>
+				<string>05:30 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Firozpur - Mumbai Central Janta Express</string>
+				<key>sNo</key>
+				<string>19024</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>01:25 am</string>
+				<key>arriveTime</key>
+				<string>05:00 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 35m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Dehradun-Indore Express</string>
+				<key>sNo</key>
+				<string>14318</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ujjaini Express</string>
+				<key>sNo</key>
+				<string>14310</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 05m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Gujarat Sampark Kranti Express</string>
+				<key>sNo</key>
+				<string>12918</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>01:55 pm</string>
+				<key>arriveTime</key>
+				<string>04:03 pm</string>
+				<key>distance</key>
+				<string>134km</string>
+				<key>travelTime</key>
+				<string>2h 08m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Thu</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Shridham SF Express</string>
+				<key>sNo</key>
+				<string>12191</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>02:05 pm</string>
+				<key>arriveTime</key>
+				<string>04:08 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 3m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Andaman Express</string>
+				<key>sNo</key>
+				<string>16032</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>05:03pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Katra - Jabalpur (Durgavati) Express</string>
+				<key>sNo</key>
+				<string>11450</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>07:03 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Katra - Kota Weekly Express</string>
+				<key>sNo</key>
+				<string>19804</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>New Delhi</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>06:00 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Goa Express (PT)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>Exp</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Slip/Delhi Hazrat Nizamuddin-Londa-Hubballi Goa Link Express (17306) (PT)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>Hazrat Nizamuddin</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Jammu Tawi - Indore Weekly SF Express</string>
+				<key>sNo</key>
+				<string>22942</string>
+				<key>type</key>
+				<string>SF</string>
+				<key>from</key>
+				<string>Safdargung/DSJ</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>139 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+		</array>
+		<key>busDetail</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>India Impact Tour &amp; Travels</string>
+				<key>type</key>
+				<string>AC SEATER</string>
+				<key>brdingTime</key>
+				<string>06:00 AM</string>
+				<key>dropTime</key>
+				<string>10:00 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>Karol Bagh Metro</string>
+					<string>06:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>Jay Nagar 4th block TN</string>
+					<string>06:30 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>Madiwala</string>
+					<string>06:45 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>National Holiday</string>
+				<key>type</key>
+				<string>AC SEATER</string>
+				<key>brdingTime</key>
+				<string>06:55 AM</string>
+				<key>dropTime</key>
+				<string>10:20 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>R. K. Ashram Metro Station</string>
+					<string>07:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>INA METRO STATION</string>
+					<string>07:15 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>Ashram Chowk	</string>
+					<string>07:25 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Panwar Tour &amp; Travels</string>
+				<key>type</key>
+				<string>NON_AC SEATER SLEEPER</string>
+				<key>brdingTime</key>
+				<string>02:00 PM</string>
+				<key>dropTime</key>
+				<string>05:00 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>Anand vihar</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>Kalapna holiday travels near Anand vihar </string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string></string>
+					<string></string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>R S Yadav Travels</string>
+				<key>type</key>
+				<string>AC SEATER SLEEPER</string>
+				<key>brdingTime</key>
+				<string>08:01 PM</string>
+				<key>dropTime</key>
+				<string>
+10:51 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>RK ashram</string>
+					<string>08:02 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>Akshardham</string>
+					<string>08:51 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>Opp Anand Vihar Metro</string>
+					<string>09:11 pm</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>Name</key>
+		<string>Mathura</string>
+		<key>byRoad</key>
+		<string>Mathura is well connected by road to the rest of Uttar Pradesh and India. NH 2 (Delhi-Howrah) Highway passes through the city and connects to National Highway 3 (to Mumbai), a part of which is known as Mathura Road. NH-11 (Agra to Bikaner). SH-33 (Bareilly to Mathura via Badaun ,Ujhani, Kasganj ,Soron, Sikandra Rao, Hathras)NH-93 (Moradabad) are also prominent arterial highways. Yamuna Expressway also connects to Mathura and in fact shortest way to reach Mathura by road.</string>
+		<key>byAir</key>
+		<string>Mathura is roughly 65 km away from the domestic airport in Kheria, Agra. One can hire a taxi or a bus from the airport to reach the holy city. Even the international airport of New Delhi is at a distance of around 145kms from Mathura. One can get taxi/train from the airport to reach the holy city.</string>
+		<key>byTrain</key>
+		<string>Mathura is well connected with the major rail routes of the country. Train travelling is considered affordable, comfortable and a convenient way to reach Mathura. Mathura being connected by both western and central railways, most of the major trains from the mega cities make a halt at Mathura railway junction. One can always get public transport to reach the destination from station.</string>
+		<key>about</key>
+		<string>Mathura is a city in the North Indian state of Uttar Pradesh. It is located approximately 50 kilometres north of Agra, and 145 kilometres south-east of Delhi; about 11 kilometres from the town of Vrindavan, and 22 kilometres from Govardhan. It is the administrative centre of Mathura District of Uttar Pradesh. During the ancient period, Mathura was an economic hub, located at the junction of important caravan routes. Mathura is the birthplace of Krishna at the centre of Braj or Brij-bhoomi, called Shri Krishna Janma-Bhoomi.
+
+Mathura has an ancient history and also homeland and birthplace of Krishna who was born in yadu dynasty. According to the Archaeological Survey of India plaque at the Mathura Museum, the city is mentioned in the oldest Indian epic, the Ramayana. In the epic, the Ikshwaku prince Shatrughna slays a demon called Lavanasura and claims the land. Afterwards, the place came to be known as Madhuvan as it was thickly wooded, then Madhupura and later Mathura. Mathuran art and culture reached its zenith under the Kushan dynasty which had Mathura as one of their capitals, the other being Purushapura (Peshawar). The dynasty had kings with the names of Kujula Kadphises, Kanishka, Huvishka and Vasudeva.</string>
+		<key>cityImages</key>
+		<array>
+			<string>city_history2</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.jpg</string>
+			<string>city_history_17.jpg</string>
+			<string>city_history_18.jpg</string>
+			<string>city_history_19.jpg</string>
+			<string>city_history_20.jpg</string>
+			<string>city_history_21.jpg</string>
+			<string>city_history_22.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>lat</key>
+		<real>27.4924</real>
+		<key>long</key>
+		<real>77.6737</real>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>Name</key>
+		<string>Govardhan</string>
+		<key>byRoad</key>
+		<string>Govardhan is situated on Delhi-Agra NH-2. the various buses runs between the Agra and Delhi. temple is 7 km. away from National Highway. Getting to Temple is very easy as there are frequent tempos and rickshaw available throughout the day. Mathura is just 12 km away. frequent buses, tempos and taxies runs between Mathura and Vrindavan.</string>
+		<key>byAir</key>
+		<string>The nearest airport is Agra just 82 km away from Govardhan. The nearest international airport is Delhi, which is connected to almost every important city in the world with major airlines. There are regular flights to other important tourist destinations of India such as Delhi, Mumbai, Bangalore, and Chennai etc.</string>
+		<key>byTrain</key>
+		<string>The nearest railway station is at Mathura, which is 26 km away from Govardhan. From here, you can take a public transport bus or hire a taxi to reach Govardhan.</string>
+		<key>about</key>
+		<string>Govardhan is famous for the Holy Govardhan Hill. There are many temples in this town namely Shri Haridev ji Temple, Daan-Ghati Temple and Mukharbind Temple . The town is also famous for its 21 kilometers long Parikrama of the famous Govardhan hill. The parikrama procession is held in very high religious belief. It&apos;s said that Lord Krishna held Govardhan Hill on his little finger to save the town from wrath of the god of rains Indra.
+
+The town also houses Maanasi-Ganga, a close-ended lake. This is another place for the devotees visiting this town. On the banks of this lake, there are quite a few temples, prominent among them the Mukharbind temple. Being close ended, the lake had to cope with widespread pollution. After a cleaning effort by localites, the situation has vastly improved.
+
+One of the most important day in Govardhan is Guru Poornima (Also called &quot;Mudia Poono&quot;). On this day, Millions of devotees come to Govardhan for parikrama.</string>
+		<key>cityImages</key>
+		<array>
+			<string>city_history3</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.jpg</string>
+			<string>city_history_17.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>lat</key>
+		<real>27.4986</real>
+		<key>long</key>
+		<real>77.46729000000001</real>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>Name</key>
+		<string>Barsana</string>
+		<key>byRoad</key>
+		<string>Barsana is situated on Delhi-Agra NH-2. the various buses runs between the Agra and Delhi. temple is 7 km. away from National Highway. Getting to Temple is very easy as there are frequent tempos and rickshaw available throughout the day. Mathura is just 12 km away. frequent buses, tempos and taxies runs between Mathura and Vrindavan.</string>
+		<key>byAir</key>
+		<string>The nearest airport is Agra just 102 km away from Barsana. The nearest international airport is Delhi, which is connected to almost every important city in the world with major airlines. There are regular flights to other important tourist destinations of India such as Delhi, Mumbai, Bangalore, and Chennai etc.</string>
+		<key>byTrain</key>
+		<string>Nearest railway station to Barsana is Kosi Kalan at a distance of 10 kms. However Mathura at a distance of 50km is where several superfast trains stop by. Kosi Kalan and Mathura are on broad gauge railway line of North Central railways.</string>
+		<key>about</key>
+		<string>It is a village near Mathura. Stories from the Hindu tradition relating to the deity, Krishna indicate that his favorite gopi, known as Radha, spent her childhood in Barsana. The town is thus a site of pilgrimage for many followers of Vaishnavism, and especially Gaudiya Vaishnavism which reveres Radha as the most worshippable Goddess, or Shakti.
+The town comes alive every Holi around March, when the Lath mar Holi is played here. Tourist from all over flock the city for what is a truly remarkable sight. Now Holi of Barsana has been included in the national heritage and is being proposed to be included in world heritage. It has an average elevation of 182 metres. It is 20 kilometers from Govardhan and 40 kilometers from Mathura. It is one of the most famous and religious centre in Brijbhoomi. Barsana is known for a fervent form of Holi known as the Lath-maar Holi. It takes the form of a procession coming down from Radharani temple. Men from Nand gaon impersonating Krishna, come to play Holi with the ladies of Barsana who play the role of Radha- Lord Krishna&apos;s Consort. The legend has it that Radha and her friend gopis decided to teach a lesson to Krishna for stealing their clothes at a bathing ghat. In remembrance of the friendly revenge the ladies of Barsana charge at men with well oiled lathis who shield themselves from the blows using leather shields amidst clouds of colour and myrrah.</string>
+		<key>cityImages</key>
+		<array>
+			<string>city_history4</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>lat</key>
+		<real>27.6464</real>
+		<key>long</key>
+		<real>77.3768</real>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>Name</key>
+		<string>Gokul</string>
+		<key>byRoad</key>
+		<string>Gokul is situated on Delhi-Agra NH-2. the various buses runs between the Agra and Delhi. temple is 7 km. away from National Highway. Getting to Temple is very easy as there are frequent tempos and rickshaw available throughout the day. Mathura is just 12 km away. frequent buses, tempos and taxies runs between Mathura and Vrindavan.</string>
+		<key>byAir</key>
+		<string>The nearest airport is Agra just 59 km away from Gokul. The nearest international airport is Delhi, which is connected to almost every important city in the world with major airlines. There are regular flights to other important tourist destinations of India such as Delhi, Mumbai, Bangalore, and Chennai etc.</string>
+		<key>byTrain</key>
+		<string>The major railway station nearby is Mathura on the Delhi-Chennai and Delhi-Mumbai main line. Several express and passenger trains connect Mathura from other major cities of India like Delhi, Mumbai, Pune, Chennai, Bangalore, Hyderabad, Calcutta, Gwalior, Dehradun, Indore, and Agra. Though Vrindavan itself is a railway station. A rail bus runs between Vrindavan and Mathura 5 round in a day.</string>
+		<key>about</key>
+		<string>When we talk about Braj Bhoomi, we also think about Gokul, where Lord Krishna spent his childhood and did Balleelas with his Gopis. Nandigram is also sometimes referred as Gokul. Surrounded by beautiful gardens and trees, this place has its own history. It is believed that Lord Krishna used to travel from Gokul to Vrindavan to meet Radha.
+
+Today Gokul exhibits the house of Nand Rai and the places there gives the epic description of Lord Krishna&apos;s childhood. With several temples, goshalas, acharyas, and devotees present, this is the place which is full of devotion and love that we wonder in this materialistic world.</string>
+		<key>cityImages</key>
+		<array>
+			<string>city_history5</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.jpg</string>
+			<string>city_history_17.jpg</string>
+			<string>city_history_18.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>lat</key>
+		<real>27.4362</real>
+		<key>long</key>
+		<real>77.7209</real>
+	</dict>
+</array>
+</plist>

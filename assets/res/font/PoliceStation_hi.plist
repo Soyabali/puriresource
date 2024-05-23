@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>id</key>
+        <integer>302</integer>
+        <key>cid</key>
+        <integer>5</integer>
+        <key>latitude</key>
+        <real>27.7911188</real>
+        <key>longitude</key>
+        <real>77.4383019</real>
+        <key>image</key>
+        <string>image</string>
+        <key>name</key>
+        <string>कोसी कलां पुलिस स्टेशन</string>
+        <key>address</key>
+        <string>एसएच 44, कोसी कलां, उत्तर प्रदेश 281403</string>
+        <key>contactNo</key>
+        <string>05662232233</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>302</integer>
+        <key>cid</key>
+        <integer>5</integer>
+        <key>latitude</key>
+        <real>27.5003396</real>
+        <key>longitude</key>
+        <real>77.68100560000001</real>
+        <key>image</key>
+        <string>image</string>
+        <key>name</key>
+        <string>थाना कोतवाली</string>
+        <key>address</key>
+        <string>कोतवाली रोड, चौबे पैरा, मथुरा, उत्तर प्रदेश 281001</string>
+        <key>contactNo</key>
+        <string>05662405979</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>302</integer>
+        <key>cid</key>
+        <integer>5</integer>
+        <key>latitude</key>
+        <real>27.3863253</real>
+        <key>longitude</key>
+        <real>77.6894904</real>
+        <key>image</key>
+        <string>image</string>
+        <key>name</key>
+        <string>थाना रिफाइनरी पुलिस स्टेशन</string>
+        <key>address</key>
+        <string>बाबूरी गारबी, उत्तर प्रदेश 281005</string>
+        <key>contactNo</key>
+        <string>05662845440</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>302</integer>
+        <key>cid</key>
+        <integer>5</integer>
+        <key>latitude</key>
+        <real>27.5272</real>
+        <key>longitude</key>
+        <real>77.674947</real>
+        <key>image</key>
+        <string>image</string>
+        <key>name</key>
+        <string>जमुनापार पुलिस स्टेशन</string>
+        <key>address</key>
+        <string>मथुरा-वृंदावन मार्ग, गौरवकेन्द्र, मथुरा, उत्तर प्रदेश 281003</string>
+        <key>contactNo</key>
+        <string>05662450088</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>302</integer>
+        <key>cid</key>
+        <integer>5</integer>
+        <key>latitude</key>
+        <real>27.4944487</real>
+        <key>longitude</key>
+        <real>77.4634691</real>
+        <key>image</key>
+        <string>image</string>
+        <key>name</key>
+        <string>पुलिस स्टेशन गोवर्धन</string>
+        <key>address</key>
+        <string>गोवर्धन, उत्तर प्रदेश 281502</string>
+        <key>contactNo</key>
+        <string>05662815412</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>302</integer>
+        <key>cid</key>
+        <integer>5</integer>
+        <key>latitude</key>
+        <real>27.4757</real>
+        <key>longitude</key>
+        <real>77.693011</real>
+        <key>image</key>
+        <string>image</string>
+        <key>name</key>
+        <string>महिला पुलिस थाना</string>
+        <key>address</key>
+        <string>आगरा रोड, मथुरा छावनी, मथुरा, उत्तर प्रदेश 281001</string>
+        <key>contactNo</key>
+        <string>9431700003</string>
+    </dict>
+    <dict>
+		<key>id</key>
+		<integer>300</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>latitude</key>
+		<real>27.5792037</real>
+		<key>longitude</key>
+		<real>77.7008057</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>वृंदावन पुलिस स्टेशन</string>
+		<key>address</key>
+		<string>गांधी पार्क के पास, भक्तिवेदांत स्वामी मार्ग, गौरा नगर कालोनी, वृंदावन, उत्तर प्रदेश - 281121</string>
+		<key>contactNo</key>
+		<string>9454403953</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>301</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>latitude</key>
+		<real>27.4944487</real>
+		<key>longitude</key>
+		<real>77.4634691</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>गोवर्धन पुलिस स्टेशन</string>
+		<key>address</key>
+		<string>मथुरा छावनी, मथुरा, उत्तर प्रदेश - 281001</string>
+		<key>contactNo</key>
+		<string>9454403940</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.7911188</real>
+		<key>longitude</key>
+		<real>77.4383019</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>बरसाना पुलिस स्टेशन</string>
+		<key>address</key>
+		<string>खजान दिगंबर वाली गली, कोसी कलन, उत्तर प्रदेश 281403</string>
+		<key>contactNo</key>
+		<string>9454403937</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.5006259</real>
+		<key>longitude</key>
+		<real>77.653825</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>कृष्णा नगर पुलिस स्टेशन</string>
+		<key>address</key>
+        <string>एनएच2, भूतेश्वर रोड, मथुरा, उत्तर प्रदेश - 281004</string>
+		<key>contactNo</key>
+		<string>0945440385</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.460984</real>
+		<key>longitude</key>
+		<real>77.671387</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>नरोली पुलिस स्टेशन</string>
+		<key>address</key>
+		<string>एनएच2, प्रिय नगरी, मथुरा, उत्तर प्रदेश 281006</string>
+		<key>contactNo</key>
+		<string>9454403946</string>
+	</dict>
+		<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.501278</real>
+		<key>longitude</key>
+		<real>77.678754</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>भरतपुर गेट पुलिस चौकी</string>
+		<key>address</key>
+		<string>दरेसी रोड, रतनकुंड, मथुरा, उत्तर प्रदेश</string>
+		<key>contactNo</key>
+		<string>05644223782</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.509411</real>
+		<key>longitude</key>
+		<real>77.671559</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>पुलिस स्टेशन गोविन्द पूरा</string>
+		<key>address</key>
+		<string>मथुरा-वृन्दावन मार्ग, रतनकुंड, मथुरा, उत्तर प्रदेश</string>
+		<key>contactNo</key>
+		<string>05652423000</string>
+	</dict>
+	</array>
+</plist>

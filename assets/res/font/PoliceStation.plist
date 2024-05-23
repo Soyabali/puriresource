@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.7911188</real>
+		<key>longitude</key>
+		<real>77.4383019</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Kosi Kalan Police Station</string>
+		<key>address</key>
+		<string>SH 44, Kosi Kalan, Uttar Pradesh 281403</string>
+		<key>contactNo</key>
+		<string>05662232233</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.5003396</real>
+		<key>longitude</key>
+		<real>77.68100560000001</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Thana Kotwali</string>
+		<key>address</key>
+		<string>Kotwali Rd, Choubey Para, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string>05662405979</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.3863253</real>
+		<key>longitude</key>
+		<real>77.6894904</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Thana Refinery Police Station</string>
+		<key>address</key>
+		<string>Baburi Garbi, Uttar Pradesh 281005</string>
+		<key>contactNo</key>
+		<string>05662845440</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.5272</real>
+		<key>longitude</key>
+		<real>77.674947</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Jamunapar Police Station </string>
+		<key>address</key>
+		<string>Mathura-Vrindavan Marg, Garravkendra, Mathura, Uttar Pradesh 281003</string>
+		<key>contactNo</key>
+		<string>05662450088</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4944487</real>
+		<key>longitude</key>
+		<real>77.4634691</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Police Station Goverdhan</string>
+		<key>address</key>
+		<string>Govardhan, Uttar Pradesh 281502</string>
+		<key>contactNo</key>
+		<string>05662815412</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4757</real>
+		<key>longitude</key>
+		<real>77.693011</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Mahila Police Thana</string>
+		<key>address</key>
+		<string>Agra Road, Mathura Cantonment, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string>9431700003</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>300</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>latitude</key>
+		<real>27.5792037</real>
+		<key>longitude</key>
+		<real>77.7008057</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Vrindavan Police Station</string>
+		<key>address</key>
+		<string>Near Gandhi Park, Bhaktivedanta Swami Marg, Gaura Nagar Colony, Vrindavan, Uttar Pradesh 281121</string>
+		<key>contactNo</key>
+		<string>9454403953</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>301</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>latitude</key>
+		<real>27.4944487</real>
+		<key>longitude</key>
+		<real>77.4634691</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Govardhan Police Station</string>
+		<key>address</key>
+		<string>Mathura Cantonment, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string>9454403940</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.7911188</real>
+		<key>longitude</key>
+		<real>77.4383019</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Barsana Police Station</string>
+		<key>address</key>
+		<string>Khajan Digamber Wali Gali, Kosi Kalan, Uttar Pradesh 281403, India</string>
+		<key>contactNo</key>
+		<string>9454403937</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.5006259</real>
+		<key>longitude</key>
+		<real>77.653825</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Krishna Nagar Police Station</string>
+		<key>address</key>
+		<string>NH2-Bhuteshwar Road, Mathura, Uttar Pradesh,281004</string>
+		<key>contactNo</key>
+		<string>0945440385</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.460984</real>
+		<key>longitude</key>
+		<real>77.671387</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Naroli Police Station</string>
+		<key>address</key>
+		<string>NH2, Priya Nagari, Mathura, Uttar Pradesh 281006, India</string>
+		<key>contactNo</key>
+		<string>9454403946</string>
+	</dict>
+		<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.501278</real>
+		<key>longitude</key>
+		<real>77.678754</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Bharatpur gate police chowki</string>
+		<key>address</key>
+		<string>Daresi Road, Ratankund, Mathura, Uttar Pradesh, India</string>
+		<key>contactNo</key>
+		<string>05644223782</string>
+	</dict>
+		<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.509411</real>
+		<key>longitude</key>
+		<real>77.671559</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Govind Pura Police Station </string>
+		<key>address</key>
+		<string>Mathura-Vrindavan Marg, Ratankund, Mathura, Uttar Pradesh, India</string>
+		<key>contactNo</key>
+		<string>05652423000</string>
+	</dict>
+</array>
+</plist>

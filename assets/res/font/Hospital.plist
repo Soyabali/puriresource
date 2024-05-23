@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.53467</real>
+		<key>longitude</key>
+		<real>77.659318</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Nayati Multi Super Specialty Hospital</string>
+		<key>address</key>
+		<string>Next to CNG Pump, NH-2, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string>05652565565</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4720718</real>
+		<key>longitude</key>
+		<real>77.6950604</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>District Hospital </string>
+		<key>address</key>
+		<string>Civil Lines, Mathura Cantonment, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string>05652501655</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4906443</real>
+		<key>longitude</key>
+		<real>77.67637670000001</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Brij Nursing Home</string>
+		<key>address</key>
+		<string>SH 80, Mayur Vihar, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string>05662232673</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4251426</real>
+		<key>longitude</key>
+		<real>77.694658</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Mathura Refinery Hospital</string>
+		<key>address</key>
+		<string>Mathura Refinery Nagar, Refinery Nagar, Uttar Pradesh 281006</string>
+		<key>contactNo</key>
+		<string>05652480090</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.5187383</real>
+		<key>longitude</key>
+		<real>77.6730845</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>MA Saraswati Hospital</string>
+		<key>address</key>
+		<string>Jaisingh Pura, Near Birla Temple, Mathura Ho, Mathura - 281001</string>
+		<key>contactNo</key>
+		<string>05653200541</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4934169</real>
+		<key>longitude</key>
+		<real>77.6730166</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Sushila Hospital</string>
+		<key>address</key>
+		<string>In Front Of BSA College, Mathura, Mathura - 281005</string>
+		<key>contactNo</key>
+		<string>05652461795</string>
+	</dict>
+</array>
+</plist>

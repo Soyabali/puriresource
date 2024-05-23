@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>300</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>latitude</key>
+		<real>27.574842</real>
+		<key>longitude</key>
+		<real>77.673768</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>Vrindavan taxi stand</string>
+		<key>address</key>
+		<string>NH2-Bhuteshwar Rd, Kishor Pura, Vrindavan, Uttar Pradesh 281121</string>
+		<key>contactNo</key>
+		<string>9873978705</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>301</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.4846</real>
+		<key>longitude</key>
+		<real>77.683486</real>
+		<key>image</key>
+		<string></string>
+		<key>name</key>
+		<string>Army Taxi Stand</string>
+		<key>address</key>
+		<string>Mathura Cantonment, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>latitude</key>
+		<real>27.493656</real>
+		<key>longitude</key>
+		<real>77.68570099999999</real>
+		<key>image</key>
+		<string></string>
+		<key>name</key>
+		<string>Taxi Stand</string>
+		<key>address</key>
+		<string>Antapara, Mathura, Uttar Pradesh 281001</string>
+		<key>contactNo</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

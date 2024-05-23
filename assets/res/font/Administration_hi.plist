@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.500641</real>
+		<key>longitude</key>
+		<real>77.6538270</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>जिला मजिस्ट्रेट</string>
+		<key>address</key>
+		<string></string>
+		<key>contactNo</key>
+		<string>05652403200</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.500641</real>
+		<key>longitude</key>
+		<real>77.6538270</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>अतिरिक्त जिला मजिस्ट्रेट</string>
+		<key>address</key>
+		<string></string>
+		<key>contactNo</key>
+		<string>05652403285</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.500641</real>
+		<key>longitude</key>
+		<real>77.6538270</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>अतिरिक्त जिला मजिस्ट्रेट (शहर)</string>
+		<key>address</key>
+		<string></string>
+		<key>contactNo</key>
+		<string>05652403839</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.500641</real>
+		<key>longitude</key>
+		<real>77.65382700000001</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>सिटी मजिस्ट्रेट</string>
+		<key>address</key>
+		<string></string>
+		<key>contactNo</key>
+		<string>05652403916</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.500641</real>
+		<key>longitude</key>
+		<real>77.6538270</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>मुख्य डिवीजन अधिकारी</string>
+		<key>address</key>
+		<string></string>
+		<key>contactNo</key>
+		<string>05652409632</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Bankey Bihari Temple</string>
+		<key>description</key>
+		<string>This Bankey Bihari Temple was established by Swami Haridas (Lalita Sakhi in Dvapara Yuga), a guru of the famous singer Tansen. Once on the request of his disciples Swami Haridas ji sang the following verse in Nidhivan in Vrindavan &quot; Mai ri sahaj jori pragat bhai ju rang ki gaur syam ghan damini jaisen. Pratham hun ahuti ab hun aagen hun rahihai na tarihai taisain.. Ang ang ki ujraii sugharaii chaturaii sunderta aisain.. Shri Haridas ke swami syama kunjbihari sam vais vaisain..&quot; On singing the verse the Celestial couple Shyama shyam (Radha Krishna)appeared in front of him and his devotees and on the request of Shri Swami ji the couple merged into one and the idol of Banke bihari appeared there(the same idol seen in the temple). The idol was established in Nidhivan.</string>
+		<key>address</key>
+		<string>Bihari ji Gate no. 2 Entrance (Back Dore), Bankebihari Colony, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.579823</real>
+		<key>longitude</key>
+		<real>77.69051399999999</real>
+		<key>summerM</key>
+		<string>07:55 am to 11:55 pm</string>
+		<key>summerE</key>
+		<string>05:30 pm to 09:30 pm</string>
+		<key>winterM</key>
+		<string>08:55 am to 12:55 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string>08:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_0</string>
+			<string>temple_1.jpg</string>
+			<string>temple_2.jpg</string>
+			<string>temple_3.jpeg</string>
+			<string>temple_4.jpg</string>
+			<string>temple_5.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_0.png</string>
+				<key>video</key>
+				<string>video_0.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_1.png</string>
+				<key>video</key>
+				<string>video_1.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>ISKCON Vrindavan</string>
+		<key>description</key>
+		<string>The International Society for Krishna Consciousness (ISKCON) was founded by His Divine Grace A.C. Bhaktivedanta Swami (Shrila Prabhupada) in the West in 1966. ISKCON belongs to Gaudiya (refers to Bengal) Vaishnavism, a devotional tradition based on the teachings of Bhagavad-gita and Srimad-Bhagavatam.
+The precepts and practices of ISKCON were taught and codified by the 15th century saint and religious reformer Shri Chaitanya Mahaprabhu (1486-1532), his brother Nityananda Prabhu and six of his principle associates, the Goswamis of Vrindavana (Sanatana, Rupa, Jiva, Gopal Bhatta, Raghunatha Dasa and Raghunatha Bhatta.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Raman reiti, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5720812</real>
+		<key>longitude</key>
+		<real>77.6774386</real>
+		<key>summerM</key>
+		<string>04:00 am to 12:45 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm to 08:30 pm</string>
+		<key>winterM</key>
+		<string>04:00 am to 12:45 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm to 08:15 pm</string>
+		<key>aarti</key>
+		<string>07:00 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_1</string>
+			<string>temple_2.jpg</string>
+			<string>temple_3.jpg</string>
+			<string>temple_4.jpg</string>
+			<string>temple_5.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_1.png</string>
+				<key>video</key>
+				<string>video_1.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_2.png</string>
+				<key>video</key>
+				<string>video_2.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Prem Mandir</string>
+		<key>description</key>
+		<string>Prem Mandir is a religious and spiritual complex situated on a 54-acre site on the outskirts of Vrindavan,Mathura is one of the newest temples dedicated to Shri Krishna. The temple structure was established by spiritual guru Kripalu Maharaj. The main structure built in marble looks incredibly beautiful and is an educational monument that reflects the true history of Sanatana Dharma. Figures of Shri Krishna and his followers depicting important events surrounding the Lord’s existence cover the main temple.
+The foundation stone laid on January 2001 and the inauguration ceremony took place from 15 February to 17 February 2012. The temple was opened to public on 17 February. The cost was 150 crore rupees ($23 million). The presiding deity are Shri Radha Govind (Radha Krishn) and Shri Sita Ram. A 73,000 square feet, pillar-less, dome shaped satsang hall is being constructed next to Prem Mandir, which will accommodate 25,000 people at a time.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Raman reiti, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5720522</real>
+		<key>longitude</key>
+		<real>77.67210609</real>
+		<key>summerM</key>
+		<string>08:30 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm to 08:30 pm</string>
+		<key>winterM</key>
+		<string>08:30 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string>11:45 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_2</string>
+			<string>temple_3.jpg</string>
+			<string>temple_4.JPG</string>
+			<string>temple_5.JPG</string>
+			<string>temple_6.jpg</string>
+			<string>temple_7.jpg</string>
+			<string>temple_8.jpg</string>
+			<string>temple_9.jpg</string>
+			<string>temple_10.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_2.png</string>
+				<key>video</key>
+				<string>video_2.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_3.png</string>
+				<key>video</key>
+				<string>video_3.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Vrindavan Chandrodaya Mandir</string>
+		<key>description</key>
+		<string>Vrindavan Chandrodaya Mandir is the world’s tallest temple under-construction at Vrindavan, Mathura, India. At cost of ₹300 crore (US$45 million) it will be one of the most expensively built temple in world by ISKCON. The temple has a footprint of about 5 acres and rises to a height of about 700 feet (213 meters or 70 floors) and a built-up area of 5,40,000 sq. ft. The temple is planned to be vibrant with festivals and religious activities throughout the year. A look-alike of the verdant forests of Vrindavan will be recreated around this magnificent temple. It will be spread over a sprawling 26 acres, it will consist of the twelve forests (dvadashakanana) of Braj, with varieties of lush vegetation, green pastures, elegant vistas of fruit bearing trees, flower laden creepers serenaded by bird songs, clear water lakes with lotuses and lilies and waterfalls that tumble from small artificial hillocks – all recreated from descriptions in the SrimadBhagavatam and other source books of Lord Sri Krishna – to transport the visitors to Krishna’s times in Vrindavan. The project is set in 62 acres of land and will include 12 acres for parking and a helipad.
+The Vrindavan Chandrodaya Mandir is not just another sacred edifice of concrete, stone and glass. This project is dedicated to play a larger role in shaping the future of this country. Vrindavan Chandrodaya Mandir will not only house a temple for the worship of Lord Sri Krishna, but will also become a centre for disseminating the profound message of the Bhagavad Gita and Srimad Bhagavatam, delivered in a modern context. The design of the temple complex – a fusion of the modern and traditional Indian temple architecture – symbolises this aspiration, to present eternal wisdom from the source books of Krishna, in a way that is relevant to the modern day.
+Vrindavan Chandrodaya Mandir is a tallest temple in the world and constructed in the cost of 300 crore. This Hindu temple is one of the famous Hindu temples in India. The height of the temple is about 700 feet and the area covered is 5, 40000 square feet. There is footprint of about 5 acres. The 26 acres consist of twelve forests with wide varieties of vegetation, green pastures, elegant vistas of fruit bearing trees, flower laden creepers serenaded by bird songs, clear water lakes with lotuses and lilies and waterfalls that tumble from small artificial hillocks.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Sunrakh Bangar, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5677756</real>
+		<key>longitude</key>
+		<real>77.644932</real>
+		<key>summerM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>1:00 pm to 8:00 pm</string>
+		<key>winterM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>1:00 pm to 8:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_3</string>
+			<string>temple_4.jpg</string>
+			<string>temple_5.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_3.png</string>
+				<key>video</key>
+				<string>video_3.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Radha Raman Mandir</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami - Rangji Temple Rd, Keshi Ghat, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>description</key>
+		<string>Radha Raman means the lover (ramana) of Srimati Radha. The temple was established over 500 years ago by Gopala Bhatta Goswami. At the age of thirty, Gopala Bhatta Gosvami came to Vrindavana. After Chaitanya Mahaprabhu&apos;s disappearance Gopala Bhatta Gosvami felt intense separation from the Lord. To relieve his devotee from the pangs of separation, the Lord instructed Gopala Bhatta in a dream &quot;If you want my darshan then make a trip to Nepal&quot;.</string>
+		<key>latitude</key>
+		<real>27.5855729</real>
+		<key>longitude</key>
+		<real>77.6991185</real>
+		<key>summerM</key>
+		<string>05:00 am to 12:15 pm</string>
+		<key>summerE</key>
+		<string>06:00 pm to 09:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am to 12:15 pm</string>
+		<key>winterE</key>
+		<string>06:00 pm to 09:00 pm</string>
+		<key>aarti</key>
+		<string>04:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_4</string>
+			<string>temple_5.jpg</string>
+			<string>temple_6.JPG</string>
+			<string>temple_7.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_4.png</string>
+				<key>video</key>
+				<string>video_4.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>5</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Pagal Baba Temple</string>
+		<key>description</key>
+		<string>This temple was built by followers of a saint the Late Pagal Baba. Devotees say they feel a positive vibe throughout the temple which is reminiscent of the spirit of its creator. The ten storey high Pagal Baba Temple is a landmark structure in Vrindavan. Its resplendent white exteriors are supplemented with excessively adorned interiors. The temple is famous for its puppet exhibition in the ground floor. The puppets play act scenes from the two great epics of India, Mahabharata and Ramayana.</string>
+		<key>address</key>
+		<string>Mathura-Vrindavan Marg, Vatsalya Gram, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.559422</real>
+		<key>longitude</key>
+		<real>77.67956030000001</real>
+		<key>summerM</key>
+		<string>07:30 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm to 08:00 pm</string>
+		<key>winterM</key>
+		<string>08:30 am to 12:00 am</string>
+		<key>winterE</key>
+		<string>04:30 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_5</string>
+			<string>temple_6.jpg</string>
+			<string>temple_7.jpg</string>
+			<string>temple_8.JPG</string>
+			<string>temple_9.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_5.png</string>
+				<key>video</key>
+				<string>video_5.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_6.png</string>
+				<key>video</key>
+				<string>video_6.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>6</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Shri Radha Damodar Mandir</string>
+		<key>description</key>
+		<string>Sri Sri Radha Damodar Mandir is an ancient temple established by Madhav Gaudiya Sampradaya. It was established by Srila Jiva Goswami in the year 1542 C.E. The deities here were served by Srila Jiva Goswami. Sri Radha Damodar deities were manifested by Srila Rupa Goswami, who gave them to his dear disciple and nephew-Jiva Goswami for service and worship. Later due to the terror of the muslim king Aurengzeb, Sri Radha Damodar were sifted to Jaipur for sometime and when the social conditions became favorable were brought back to Sri Dham Vrindavan in the year 1739 C.E. These deities have been served here since then. In Jaipur however a counterpart (pratibhu) of the deity was installed.</string>
+		<key>address</key>
+		<string>Parikrama Marg, Gotam Nagar, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.583743</real>
+		<key>longitude</key>
+		<real>77.695729</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_6</string>
+			<string>temple_7.jpg</string>
+			<string>temple_8.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>7</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Shri Ranganath Temple</string>
+		<key>description</key>
+		<string>This temple is dedicated to Sri Ranganatha (Lord Vishnu), as is the famous temple in Sri Rangam. Also worshiped here is Lakshmi, the consort of Lord Vishnu. There are many side temples including ones dedicated to the Alwars (Tamil Nadu Vaishnava saints), Sesa-sayi Ananta Sayanam with Lord Vishnu reclining on him, and Tirupati Balaji.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami - Rangji Temple Rd, Keshi Ghat, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5822443</real>
+		<key>longitude</key>
+		<real>77.7026398</real>
+		<key>summerM</key>
+		<string>05:00 am to 11:00 am</string>
+		<key>summerE</key>
+		<string>04:00 pm to 08:00 pm</string>
+		<key>winterM</key>
+		<string>05:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>03:00 pm to 07:00 pm</string>
+		<key>aarti</key>
+		<string>06:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_7</string>
+			<string>temple_8.jpg</string>
+			<string>temple_9.jpg</string>
+			<string>temple_10.jpg</string>
+			<string>temple_11.jpg</string>
+			<string>temple_12.jpg</string>
+			<string>temple_13.jpg</string>
+			<string>temple_14.jpg</string>
+			<string>temple_15.jpg</string>
+			<string>temple_16.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>8</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>GovindJi Temple</string>
+		<key>description</key>
+		<string>Sri Sri Radha Damodar Mandir is an ancient temple established by Madhav Gaudiya Sampradaya. It was established by Srila Jiva Goswami in the year 1542 C.E. The deities here were served by Srila Jiva Goswami. Sri Radha Damodar deities were manifested by Srila Rupa Goswami, who gave them to his dear disciple and nephew-Jiva Goswami for service and worship. Later due to the terror of the muslim king Aurengzeb, Sri Radha Damodar were sifted to Jaipur for sometime and when the social conditions became favorable were brought back to Sri Dham Vrindavan in the year 1739 C.E. These deities have been served here since then. In Jaipur however a counterpart (pratibhu) of the deity was installed.</string>
+		<key>address</key>
+		<string>Pathak Coaching Rd, Patthar Pura, Gopinath Bagh, Vrindaban Khadar, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.581457</real>
+		<key>longitude</key>
+		<real>77.699529</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_8</string>
+			<string>temple_9.jpg</string>
+			<string>temple_10.jpg</string>
+			<string>temple_11.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>9</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Astha Sakhi Temple</string>
+		<key>description</key>
+		<string>The temple is centuries old and is the first Indian temple that is dedicated to the divine couple and their Ashta Sakhi’s - the eight “friends” of Radha who were intimately involved in her love play with the Lord Krishna. Mention of the Ashta Sakhis are found in the ancient texts of Ramayan and the Srimad Bhagvat.
+
+The temple is called – Shree Radha Ras Behari Ashta Sakhi Mandir and it is home to the divine Ras Leela of Lord Krishna and Radharani. It is located in close proximity to the Banke Behari mandir.</string>
+		<key>address</key>
+		<string>Madan Mohan Banke Bihari Path, Bankebihari Colony, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5799502</real>
+		<key>longitude</key>
+		<real>77.6885319</real>
+		<key>summerM</key>
+		<string>05:30 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm to 08:30 pm</string>
+		<key>winterM</key>
+		<string>06:00 am to 12:30 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string>11:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_9</string>
+			<string>temple_10.JPG</string>
+			<string>temple_11.jpg</string>
+			<string>temple_12.jpg</string>
+			<string>temple_13.png</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>10</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Jaipur Temple</string>
+		<key>description</key>
+		<string>The Jaipur Temple, Vrindavan is one of the many primary attractions in Vrindavan. It is one of the most popular temples in Vrindavan. Of the various Holy Places in Vrindavan it is one which is frequented by a large number of devotees. But the name Jaipur Temple in Vrindavan is quite illusive; this is because of the fact that, it is not located in the city of Jaipur but is located in Vrindavan.</string>
+		<key>address</key>
+		<string>NH2-Bhuteshwar Road, Kishor Pura, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.572492</real>
+		<key>longitude</key>
+		<real>77.69047500000001</real>
+		<key>summerM</key>
+		<string>05:05 am to 11:30 pm</string>
+		<key>summerE</key>
+		<string>05:40 pm to 09:30 pm</string>
+		<key>winterM</key>
+		<string>05:05 am to 11:30 pm</string>
+		<key>winterE</key>
+		<string>05:40 pm to 09:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_10</string>
+			<string>temple_11.jpg</string>
+			<string>temple_12.jpg</string>
+			<string>temple_13.jpg</string>
+			<string>temple_14.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>11</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Sneh Bihari Temple</string>
+		<key>description</key>
+		<string>Situated in the heart of Vrindavan is a renowned temple known as Shri Radha Sneh Bihari Mandir, which is based on Haridasiya Sampradhay. About 250 years ago there existed a small temple established by a scholar of Haridasiya Grhasti traditions, Shri Snehi Lal Goswami, the 10th generation Goswami of Swami Shri Haridas. Goswamiji was a true devotee and a shayan bhog seva adhikari of the world renowned, Shri Banke Bihari Mandir.
+
+One day during his seva, he had a strong desire to obtain a child just like Bihariji. That very night, Bihariji appeared in his dream and told him to locate an area in his gaushala. An area situated on the land, underneath a specific dark colored cow. There he said, he would find a very special blessing where all these emotions would be fulfilled. Shri Snehilal Goswamiji quickly went to that location and to his surprise, on that very spot, he obtained a beautiful &quot;Shri Vigraha&quot; that was identical to Shri Banke Bihariji himself. This divine vigraha was given the name: Thakur Shri Radha Sneh Bihariji Maharaj. Soon after, a small temple was created and inaugurated to enshrine this beautiful form of Bihariji himself.
+
+Shri Snehilal Goswamiji lived many years in the service of Thakurji, experiencing his grace from day to day. He one day left his body peacefully and went on to a higher abode. At this point his nephew, Shri Giridharlal Goswamiji Maharaj, a renowned sanskrit scholar known mainly for his Shrimad Bhagwat narrations. took on the responsibilities to oversee the temple and seva of the Lord.</string>
+		<key>address</key>
+		<string>Kaliya Dah Bankebihari Road, Bankebihari Colony, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5787781</real>
+		<key>longitude</key>
+		<real>77.68969060000001</real>
+		<key>summerM</key>
+		<string>07:55 am to 11:55 pm</string>
+		<key>summerE</key>
+		<string>05:30 pm to 09:30 pm</string>
+		<key>winterM</key>
+		<string>08:55 am to 12:55 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_11</string>
+			<string>temple_12.JPG</string>
+			<string>temple_13.JPG</string>
+			<string>temple_14.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>12</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Shah Ji Temple</string>
+		<key>description</key>
+		<string>The temple is also known as the Shahji temple, Tera Kamba (twisted pillars) temple and the Saha Bihari Lal Temple.It is known as the twisted pillars temple, because the pillars in this temple are made of beautiful white twisted marble. This is a very artistic temple. It is made of the highest quality white marble. This temple was built in 1835 by the brothers: Shah Kundan Lall and Shah Fundan Lall.</string>
+		<key>address</key>
+		<string>Nidhivan Temple Rd, Gotam Nagar, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5840535</real>
+		<key>longitude</key>
+		<real>77.6973778</real>
+		<key>summerM</key>
+		<string>08:00 am to 11:00 pm</string>
+		<key>summerE</key>
+		<string>05:30 pm to 07:30 pm</string>
+		<key>winterM</key>
+		<string>08:00 am to 11:00 pm</string>
+		<key>winterE</key>
+		<string>05:30 pm to 07:30 pm</string>
+		<key>aarti</key>
+		<string>05:30 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_12</string>
+			<string>temple_13.jpg</string>
+			<string>temple_14.jpg</string>
+			<string>temple_15.jpeg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>13</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Radha Vallabh Temple</string>
+		<key>description</key>
+		<string>Radhavallabha is a Vaishnava denomination which began with the Vaishnava theologian Hith Harivansh Mahaprabhu. This theology and Harivansh&apos;s leadership created the Radhavallabha sect. Radhavallabha Theology emphasizes devotion to Radharani. Shri Radhavallabh ji Temple in Vrindaban , Mathura is a very famous temple of the same preaching.This temple is among the most famous 7 temples of Thakur of Vrindavan including Sri Radhavallabh ji, Shri Govind Dev ji, Shri Bankey Bihari Ji and four others. In this temple, there is no deity of Radharani, but a crown has been placed next to Krishna to signify her presence.</string>
+		<key>address</key>
+		<string>Radha Vallabh Temple Rd, Gotam Nagar, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5806896</real>
+		<key>longitude</key>
+		<real>77.6915703</real>
+		<key>summerM</key>
+		<string>07:00 am to 12:00 am</string>
+		<key>summerE</key>
+		<string>06:30 pm to 09:00 pm</string>
+		<key>winterM</key>
+		<string>07:00 am to 12:00 am</string>
+		<key>winterE</key>
+		<string>06:30 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string>05:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_13</string>
+			<string>temple_14.jpg</string>
+			<string>temple_15.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>14</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Madan Mohan Mandir</string>
+		<key>description</key>
+		<string>Madan Mohan Temple is located near the Kali Ghat was built by Kapur Ram Das of Multan. This is the oldest temple in Vrindavan. The temple is closely associated with the saint Chaitanya Mahaprabhu. The original image of Lord Madan Gopal was shifted from the shrine to Karauli in Rajasthan for safe keeping during Mugal Emperor Aurangzeb’s rule. Today, a replica of the image is worshiped at the temple.
+Advaita Acarya discovered the original Deity of Madana-Mohan at the base of an old vata tree, when he visited Vrindavana. He found this Deity at Advaita Vata, which is the place where he did his bhajana. This place is just below the hill on which the Madana-Mohan temple is located. He entrusted the worship of Madana-Mohan to his disciple, Purusottama Chaube, who then gave the Deity to Sanatana Gosvami. Worshiped along with Madana-Mohan are Radharani and Lalita, who were sent to Vrindavana by Purusottama Jena, the son of Maharaja Prataparudra. This temple is closely associated with the saint Chaitanya Mahaprabhu, was a monk and social reformer eastern India in the 16th century … which is the incarnation of the Supreme Lord Krishna in the iron age of Kaliyuga and spreading the congregational chanting of the holy names.</string>
+		<key>address</key>
+		<string>Parikrama Marg, Kaliya Ghat, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5801855</real>
+		<key>longitude</key>
+		<real>77.68759849</real>
+		<key>summerM</key>
+		<string>06:00 am to 11:00 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm to 09:30 pm</string>
+		<key>winterM</key>
+		<string>07:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm to 08:00 pm</string>
+		<key>aarti</key>
+		<string>04:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_14</string>
+			<string>temple_15.jpg</string>
+			<string>temple_16.jpg</string>
+			<string>temple_17.jpg</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>15</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Radha Gopinath Mandir</string>
+		<key>description</key>
+		<string>During the oppression of Aurangzeb, the original deities of Gopinathji, Radhika and Jahnava also proceeded to Jaipurtogether with other deities. The Pratibhu Vigrahas now preside in the temple built by Nand Kumar Vasu. Jahnava Thakurani is seated on the left side of Gopinath, and Lalita Sakhi and a small deity of Radhika are seated on His right. The deity of Mahaprabhu Shri Gaurasundara is in a separate chamber. In 1632 AD, the original temple was built by Ray Singh, the son of the king of Bikaner, Maharaja Kalyanamala of the Rathaur dynasty. Aurangzeb destroyed this temple. The Pratibhu Vigrahas were established in 1748 AD, and the new temple was built in 1819 AD. Near the new temple to the east is the samadhi of Madhu Pandita. Close to the famous Vanshivat, on the bank of the Yamuna, Shri Paramanand Bhattacharya and Madhu Pandita used to worship Shri Radha-Krishna Yugala with extreme renunciation.
+Once, the current of the Yamuna cut into her bank and a very beautiful deity of Shri Gopinath were revealed from under the sand. In the morning, when the devotee Paramananda came to the Yamuna to bathe, he found this exceptional deity who stole his heart. He entrusted the service of Shri Gopinath to Shri Madhu Pandita. First, Shri Gopinath resided near Vanshivat, but later on a magnificent new temple was constructed elsewhere and His service and worship continued there.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami - Rangji Temple Rd, Keshi Ghat, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5858634</real>
+		<key>longitude</key>
+		<real>77.6995513</real>
+		<key>summerM</key>
+		<string>05:00 am to 01:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm to 09:05 pm</string>
+		<key>winterM</key>
+		<string>05:00 am to 01:00 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm to 09:05 pm</string>
+		<key>aarti</key>
+		<string>05:30 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_15</string>
+			<string>temple_16.jpg</string>
+			<string>temple_17.jpg</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+			<string>temple_20.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>16</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Garud Govind Ji Temple</string>
+		<key>description</key>
+		<string>Garud is the ride of Bhagvaan Vishnu, the son of Kashyap and Aditi (a daughter of Daksh), and Indra’s younger brother. Garuda plays an important role in Krishna Avatar in which Krishna and Satyabhama ride on Garuda to kill Narakasura. On another occasion, Lord Hari rides on Garuda to save the devotee Elephant Gajendra.
+The Garud Govind Temple is one amongst the holiest and oldest temples of Lord Krishna in the world.Sri Garud Govin Ji is here with Maa Laxmi Ji. Both dieties are over 5000 years old. The dieties of Lord Garud Govind Ji and Maa Laxmi Ji were made and established by Sri Vajranabh in the direction of Sri Gargacharya.Sri Vajranabh was the great grandson of Lord Krishna. Lord Govind Ji is riding on the back of Garud Ji with a miracle look of “twelve arms” here.Thats why thakurji is famous by the name of “Sri Garud Govind Ji”. Sri Garud Govind Temple is world famous for “Kaal Sarp Dosh Anushthan”.
+Garud is the son of Maharshi Kashyap and Vinataa (a daughter of Daksh). Indra and Vishnu are the sons of Kashyap too but from Aditi. Kashyap’s another wife Diti gave birth to Daitya. And yet his another wife Kadru gave birth to Naag. It should be known that Daksh married his 13 daughters to Kashyap. Vinataa had one son Garud, and Kadru had 60,000 Naags as her sons.
+The historic Garud Govind temple is located in Vrindavan and has an exceptional beautiful statue of Krishna installed on a garud (eagle). It takes us back to almost 5000 years. As per the mythology it says that the child Krishna was here and Chati Pujan ceremony was held here. One of the great lord’s friends would be the garuda and he would climb upon his shoulder.</string>
+		<key>address</key>
+		<string>NH2, Chhatikara, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5606053</real>
+		<key>longitude</key>
+		<real>77.6264055</real>
+		<key>summerM</key>
+		<string>06:30 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm to 05:30 pm</string>
+		<key>winterM</key>
+		<string>06:30 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm to 05:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_16</string>
+			<string>temple_17.jpg</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+			<string>temple_20.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>17</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Tekari Rani Temple</string>
+		<key>description</key>
+		<string>Vrindavan well-known for its pilgrimage value for the Hindu religion is categorized as one of the most distinguished places which are very well-known for its religious tourism. Devotees who are into worshipping Lord Krishna and Radharani always make it a point to come and visit this calm and serene atmosphere of the city. All the courageous stories of Lord Krishna and Radharani that one has read all his life has only prevailed in this pilgrimage city.
+Located near the Mathura Road and very close to Tekari Rani Ghat near the banks of the river Yamuna, Tekari Rani temple needs no introduction. It was built by the Queen of Tekari. It indeed is one of the finest monuments in Vrindavan which were built into Rajasthan architecture. The legend has it that it 200 years ago when the Queen of Tekari was on her way to visit Vrindavan she was attacked by some dacoits who wanted to rob her of her belongings.
+The temple complex built is vast and immensely extraordinary. There also exists a palace near to the temple which is surrounded by women’s quarters. There exist many appealing gardens of various trees along with a dazzling hall with deities of Lord Krishna and Radharani.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5839584</real>
+		<key>longitude</key>
+		<real>77.7064383</real>
+		<key>summerM</key>
+		<string>04:30 am to 12:30 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm to 08:45 pm</string>
+		<key>winterM</key>
+		<string>04:30 am to 12:30 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm to 08:00 pm</string>
+		<key>aarti</key>
+		<string>04:30 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_17</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+			<string>temple_20.jpg</string>
+			<string>temple_21.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>18</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Seva Kunj</string>
+		<key>description</key>
+		<string>Sewa Kunj also known as Nikunj Van is a van (forest); it has a mandir for Shree RadhaKrishn. It is believed that RadhaKrishn visit here every night. The nij mandir is decorated for them and all necessary items placed here for the night. This small mandir is decorated with all leelas painted on the walls which are very pretty.
+This sacred place is known as Sewa Kunj because it is believed Shree Krishn did sewa for Shreemati Radharani here. This leela is depicted in paintings which show Shree Krishn combing Radharani’s hair, helping her get ready for the Raas Leela.
+Some paintings also show Radhavihariji massaging Radharani’s charan when she gets tired during the Raas leela. These paintings are a depiction from the shloks found in the sacred Hindu scriptures.
+The short trees as you will notice in the picture gallery always grow towards the ground, meaning that they always stand bowing to the Divine couple. Though in the day this place is flooded with monkeys, as soon as it nears evening they all leave the place empty; no living being stays in the area which is shut totally for the night.
+There is a Kund here known as Lalita Kund. Here are some pictures from my many visits to the divine Sewa Kunj – Nikunj Van at Vrindavan Dham. I do hope you enjoy going through them.</string>
+		<key>address</key>
+		<string>Sewa Kunj Rd, Gotam Nagar, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5824583</real>
+		<key>longitude</key>
+		<real>77.69494709</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_18</string>
+			<string>temple_19.JPG</string>
+			<string>temple_20.png</string>
+			<string>temple_21.png</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>19</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Nidhivan Temple</string>
+		<key>description</key>
+		<string>Nidhivan is one of the most famous, religious and mysterious place in the paavan city of India that is vrindavan. It has many interesting stories or myths. This van (park) is surrounded with small trees all around the van and is home of monkeys. !!Jai shree Krishna!! When nothing was there; there was always the presence of almighty god. Even after the world disaster; when everything wills extinct god will be always there and that will be the re-start of a new era.
+It is believed that the water level rose in order to touch the sacred feet of small shree Krishna. It was raining a lot so to protect god from rain; shaeshnag appeared as an umbrella. It was all the leela of leeladhar to save world from sins.
+Shree Krishna is shown is dark or bluish in colour. In portraits and idols, he is shown with a flute and eating butter. Butter milk was the favourite edible of Shree Krishna. A beautiful feather of peacock is always there on his head. He is always there in yellow dhoti; that’s why he is also known as “Pitambar”.
+“Nidhivan temple” is a sacred temple of Bankey Bihari which is situated at Vrindavan. The wholesome part of nidhivan temple is surrounded with huge bushy forests. The name has been with the same inscription only; Nidhi means Treasure and van means forest. So it means a place which looks like forest but is the biggest treasure in human world.
+Nidivan a very sacred in the religious city of Vrindavan, mysterious religious service. Recognize that the Lord Krishna and Sreeradha Nidivan Arddharatri today are staying within the LS. LS After sleeping in the coliseum Nidivan campus setting. Rang Mahal offerings today (butter candy) per day are kept. The bed is put to bed. Morning beds view appears that the course was a night to relax and offerings is also assumed. Spread over nearly two half acre of trees Nidivan USP will not direct any of these tree trunks and branches of trees and a turn down the frontage to be woven together .</string>
+		<key>address</key>
+		<string>Nidhivan Temple Rd, Gotam Nagar, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5842224</real>
+		<key>longitude</key>
+		<real>77.69852520000001</real>
+		<key>summerM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm to 08:00 pm</string>
+		<key>winterM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm to 08:00 pm</string>
+		<key>aarti</key>
+		<string>07:00 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_19</string>
+			<string>temple_20.jpg</string>
+			<string>temple_21.jpg</string>
+			<string>temple_22.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>20</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Imlitala Mandir</string>
+		<key>description</key>
+		<string>Imli Tala means tamarind tree. It is the place which represents the intense love in separation between Lord Radha and Krishna. There is an old Imli (Tamarind) tree present at the place since Dwapar Yuga, when Lord Krishna performed his pastimes. The Old tamarind tree died in early 19th century. Now only a branch of that tree grows here. Under the tree there is a small shrine having the deity of Chaitanya Mahaprabhu in meditating pose.
+Imli Tala, in short, is the place which epitomizes the intense love in separation between Radha and Krishna. In simple English language, Imli Tala means Tamarind tree. Imli Tala is the place, where Shrimati Radharani left the Sharad Purnima rasa dance, leaving Krishna searching for her in intense feelings of separation. Previously Imli Tala used to be near a ghat on the banks of the Yamuna but over the years Yamuna has changed its course and is now flowing at a distance from Imli Tala.</string>
+		<key>address</key>
+		<string>Parikrama Marg, Gotam Nagar, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5835424</real>
+		<key>longitude</key>
+		<real>77.6942718</real>
+		<key>summerM</key>
+		<string>05:30 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>04:00 pm to 08:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm to 08:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_20</string>
+			<string>temple_21.jpg</string>
+			<string>temple_22.jpg</string>
+			<string>temple_23.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>21</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Gopeshwar Mahadev Vrindavan</string>
+		<key>description</key>
+		<string>This is the oldest temple in Vrindavan. Gopesvara Mahadeva is Lord Siva, who came to Vrindavan to become a gopi of Krishna. Here Vrinda Devi blessed him and allowed him to enter the rasa dance of Lord Krishna. Ever since, all Vaisnavas pray first for his mercy to become a servant of the servant of the gopis. Vajranabha, the great grandson of Krishna, also installed the Siva-linga in this temple. Every morning from 4 am to noon, thousands of people pour Yamuna water over the linga. It is said that the big pipal tree here is a kalpavriksa tree and will fulfil all desires.
+Gopeshwar Mahadev Temple, sanctifying the beautiful land of Vrindavan is dedicated to the Gopeshwar form of Lord Shiva. The temple is situated near Vamshivat in Vrindavan. Huge number of devotees comes here to pay their obeisances to the Lord. Anyone who wishes to experience the bliss Raas Leela provides must pray to Gopeshwar for inducing him into Sakhibhav.
+According to legends in the town, Lord Shiva is considered the first Vaishnav ever and the guru of all Vaishnays, because he is a devotee of Lord Vishnu, of whom, Lord Krishna is an avatar. In fact, it is believed that the relation between the two is mutual. While Shiva is devoted to Vishnu. Vishnu too, is a devotee of Shiva. Some highly regarded sages also say that these two are the same. Shiva and Vishnu are two forces of the same universe, the creator and the destroyer. This temple is also the symbol of the two sexual forces, and their entwined nature. In this temple, devotees worship the feminine form of Lord Shiva.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Keshi Ghat, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5853218</real>
+		<key>longitude</key>
+		<real>77.70309829</real>
+		<key>summerM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm to 09:00 pm</string>
+		<key>winterM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm to 09:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_21</string>
+			<string>temple_22.JPG</string>
+			<string>temple_23.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>22</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Jugal Kishore Temple</string>
+		<key>description</key>
+		<string>Jugal Kishore Temple was built by Raja Hindu pat Singh, the fourth Bundela King of Panna, during his reign from 1758 to 1778.
+According to the legends, the idol placed in the garbha griha of this Hindu temple has been brought from Brindavana through Orcha. The ornaments and attire of the lord reflect the Bundelkhandi style. The temple has all the architectural features of Bundela temples including a Natya (Dancing Hall) mandapa, Bhog mandapa and a Pradakshna path (Circumbulation Path).
+Jugal Kisore Temple (Kesi ghata temple) is one of the oldest temples of Vrindavan, completed in 1627. After Akbar’s visit to Vrindavan in the year 1570, he gave permission for four temples to be built by the Gaudiya Vaisnavas, which were Madana-mohana, Govindaji, Gopinatha and Jugal Kisore. It is sometimes called the Kesi ghata temple, as it is located next to this ghat. Kesi Ghat is a place where Lord Krishna had killed Kesi, the horse demon.
+During the rule of King Akbar in 1570 Gaudiya Vaishnava community from Vrindavan asked permission to establish some temples in Vrindavan. King Akbar permitted four temples in Vrindavan – Mandan Mohan Temple, Govind Dev Temple, Jugal Kishore Temple and Shri Gopinath Temple. But latter on King Aurangzeb attacked three out of these four temples and original deities were move to somewhere else. Only Jugal Kishore Temple remained in Vrindavan with its original temple and original deity.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Lalit Bagh, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5822658</real>
+		<key>longitude</key>
+		<real>77.7047056</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_22</string>
+			<string>temple_23.jpg</string>
+			<string>temple_24.jpg</string>
+			<string>temple_25.jpg</string>
+			<string>temple_26.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>23</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Shri Krishna Janmabhumi</string>
+		<key>description</key>
+		<string>Sri Krishna Janmabhoomi temple is the most sought after devout centers in Mathura. Its predominance over the other holy spots are due to the belief that the temple stands on the same place where lord Krishna was born to Devaki and Vasudev. Numerous articles excavated from the site bare testimony to the legendary story of Sri Krishna’a birth. This Temple is not only an important temple of Mathura but also of India. Built in 1814, this Temple is situated in the heart of the city of Mathura. Janmbhoomi Temple that is currently managed by the followers of the Vallabhacharya sect is the most visited temple in Mathura. Located in the eastern part of Mathura, not far from the Yamuna River, the temple is architecturaly very interesting. According to historians, the prison cell, popularly known as &apos;Garbha Griha&apos; ( Sanctum Sanitorium ) , in the temple premise is the exact place where lord Krishna was born. The stone walled cell is reminiscent of the cruelty of King Kansa. Many statues and sculptures of the bygone era were found on excavating the site. The prison cell was gradually turned into the present beautiful temple. Lakhs of devotees throng the temple during Janmashtami. The festivities and celebrations during the festival is famous all over India. Celebrations begin during mid night with the birth of Lord Krishna.</string>
+		<key>address</key>
+		<string>Janam Bhumi, Mathura, Uttar Pradesh 281001, India</string>
+		<key>latitude</key>
+		<real>27.5047271</real>
+		<key>longitude</key>
+		<real>77.66967769</real>
+		<key>summerM</key>
+		<string>05.00 am to 12.00 pm</string>
+		<key>summerE</key>
+		<string>02.00 pm to 08.00 pm</string>
+		<key>winterM</key>
+		<string>05.00 am to 12.00 pm</string>
+		<key>winterE</key>
+		<string>02.00 pm to 08.00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_23</string>
+			<string>temple_24.jpg</string>
+			<string>temple_25.jpg</string>
+			<string>temple_26.jpg</string>
+			<string>temple_27.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_29.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>24</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Shri Dwarkadhish Ji Mandir</string>
+		<key>description</key>
+		<string>The temple was constructed in 1814 and is located at a central place in the city of Mathura. It can be visited between 7:00 AM to 8:30 PM all throughout the year. The presiding deity of the temple is Lord Krishna. The Dwarkadheesh Temple in Mathura is considered to be one of most visited temples in the city. The architecture of the temple is very interesting with beautiful carvings and paintings. Festivals like Holi, Janmashtami and Diwali are celebrated with lot of pomp and grandeur in the temple. During these occasions loads of tourists visit the temple to receive the blessings of the Lord. Presently the management and administration of the temple is looked after by the followers of the Vallabhacharya sect. .</string>
+		<key>address</key>
+		<string>Dwarkadhish Ki Bjaria, Choubey Para, Mathura, Uttar Pradesh 281001</string>
+		<key>latitude</key>
+		<real>27.5052547</real>
+		<key>longitude</key>
+		<real>77.6848655</real>
+		<key>summerM</key>
+		<string>06:30 am to 10:30 am</string>
+		<key>summerE</key>
+		<string>04:00 pm to 07:30 pm</string>
+		<key>winterM</key>
+		<string>06:30 am to 11:00 am</string>
+		<key>winterE</key>
+		<string>03:30 pm to 7:00 pm</string>
+		<key>aarti</key>
+		<string>05:20 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_24</string>
+			<string>temple_25.jpg</string>
+			<string>temple_26.jpg</string>
+			<string>temple_27.png</string>
+			<string>temple_28.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>25</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Birla Temple (Gita Mandir)</string>
+		<key>description</key>
+		<string>The Gita Mandir has been built by the business masters of India, the Birla Group (also known as birla temple ) and has the texts of the holy scripture Gita inscribed on its walls. The temple is an example of exquisite craftsmanship that has marvelous paintings of the Gods and Goddesses. The main chamber of the temple has an ornamented idol of Lord Krishna accompanied by Lakshmi, Narayana, ram and Sita. The temple is open for offering prayers all through the day and at the occasion of Janmashtmi and Holi, the temple is magnificently decorated and lighted.</string>
+		<key>address</key>
+		<string>Mathura-Vrindavan Marg, Garravkendra, Mathura, Uttar Pradesh 281003.</string>
+		<key>latitude</key>
+		<real>27.528276</real>
+		<key>longitude</key>
+		<real>77.6746859</real>
+		<key>summerM</key>
+		<string>05:00 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm to 09:00 pm</string>
+		<key>winterM</key>
+		<string>05:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>05:00 pm to 09:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_25</string>
+			<string>temple_26.JPG</string>
+			<string>temple_27.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_29.jpg</string>
+			<string>temple_30.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>26</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Vishram Ghat</string>
+		<key>description</key>
+		<string>Vishram Ghat is a ghat, a bath and worship place, on the banks of river Yamuna in Mathura, India. It is the main ghat of Mathura and is central to 25 other ghats. The traditional parikrama starts and ends at Vishram Ghat. Lord Krishna is said to have rested at this place after killing Kansa. It is at Vishram Ghat that the traditional parikrama starts and ends.
+
+The Vishram ghat is lined with elegant temple and some of Mathura&apos;s most important shrines are found here - the Mukut Temple, Radha-Damodar, Murli Manohar, Neelkantheshwar, Yamuna-Krishna, Langali Hanuman and Narasimha temples. The baithak of the great Vaishnava, Shri Chaitanya, is also near by. The aarti held at the Vishram Ghat each evening is not to be missed, for the little oil lamps that are floated on the river set the placid water asparkle with a myriad flickering lights. History tells us that this important site was ravaged and patronized in equal measure over the ages, It was badly damaged during the early invasions but two Vaishnavite saints, Keshav Kashmiri and Vallabhacharya restored its sanctity during the time of Sikander Lodhi. It received lavish patronage during the tolerant rule of Akbar when the temples were repaired and embellished but again time and events took their toll.</string>
+		<key>address</key>
+		<string>Gol Pada, Mathura, Uttar Pradesh 281001</string>
+		<key>latitude</key>
+		<real>27.504857</real>
+		<key>longitude</key>
+		<real>77.6863369</real>
+		<key>summerM</key>
+		<string>12:00 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm to 12:00 am</string>
+		<key>winterM</key>
+		<string>12:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>03:00 pm to 8:30 pm</string>
+		<key>aarti</key>
+		<string>07:00 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_26</string>
+			<string>temple_27.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_29.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>28</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Keshav Dev Temple</string>
+		<key>description</key>
+		<string>A magnificent temple for paying obeisance to Lord Shri Krishna was constructed by Seth Ramkrishnaji Dalmia in memory of his pious mother, Smt. Jadia Devi Dalmia. It is believed by the devotees that a darshan of the long-haired Keshavadevji, who is the complete incarnation of Vishnu, Rasa and love, can earn the blessings of the Lord. It is their unshakable belief that a darshan of Lord Keshavadevji can fulfil wishes and wash away the sins of the devotees. Today, this temple has become a centre of attraction for visitors from India and abroad.</string>
+		<key>address</key>
+		<string>Janam bhoomi Marg, Janam Bhumi, Mathura, Uttar Pradesh 281003, India</string>
+		<key>latitude</key>
+		<real>27.5055368</real>
+		<key>longitude</key>
+		<real>77.6684683</real>
+		<key>summerM</key>
+		<string>05:00 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm to 09:30 pm</string>
+		<key>winterM</key>
+		<string>05:30 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_28</string>
+			<string>temple_29.JPG</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>29</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Potra Kund</string>
+		<key>description</key>
+		<string>A beautifully designed and well maintained water tank preserved by arechelogoical survery of India, Potra kund is a red sand stone tank structure situated next to Krishna Janmabhumi.
+According to local belief , Potra kund used to be a part King Kansa&apos;s prison and was used by biological parents of lord krishna ( Vasudev &amp; mother devki ) for bathing and washing clothes ( clothes are also locally called potre in Brij Region ). Later on it was used as temple water tank for various religious and temple activities.
+Potra kund is made red sand stone and with a step structure, where visitors can get down inside the tank and can feel its beauty and serenity. ASI and Mathura City Administration are currently planning to beautify and repair it to restore its lost glory.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Lalit Bagh, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.5042093</real>
+		<key>longitude</key>
+		<real>77.66775029</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_29</string>
+			<string>temple_30.jpg</string>
+			<string>temple_31.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>30</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Antim Kevali Digamber Jain Mandir</string>
+		<key>description</key>
+		<string>The Mathura Chaurasi is a Jain temple and is one of the few places of worship in Mathura which is dedicated to Jain culture and faith.
+
+Amid the Bharat and Airavat Kshtera of Madhyalok Utsarpini and Avsarpini makes the timeline into different circles. The first kevali who initiated the moksha parampara of the present yug in chaturtha kaal was Anantvirya Bhagvan Bhaubali. Then 24 Tirthankars followed the salvation path and attained Nirvana. Jambu swami became the Last Kevali of Chaturtha kaal who was disciple of Gandhar Sudharmacharya to Mahavir. The only Vaishya Vanshiya Jambukumar attained the ultimate nirvana at age of 84 in the lush green place of uttar pradesh known as Mathura which at that time was surrounded by dense 84 forests. From the day it is known as Chaurasi and the pious land became sacred to all of Jain religion.</string>
+		<key>address</key>
+		<string>NH2, Krishna Nagar, Mathura, Uttar Pradesh 281004</string>
+		<key>latitude</key>
+		<real>27.5050246</real>
+		<key>longitude</key>
+		<real>77.65468629</real>
+		<key>summerM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm to 09:30 pm</string>
+		<key>winterM</key>
+		<string>06:00 am to 12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm to 09:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_30</string>
+			<string>temple_31.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>31</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Govardhan Parikrama</string>
+		<key>description</key>
+		<string>Govardhan famous for Holy Govardhan Hill.There are many temple in this town Haridev Mandir, Daan-Ghati Mandir and Mukharbind. The temple god is another form of Lord Krishna. The town is also famous for its 21 kilometre long Parikrama of the a very old hill called Govardhan. The parikrama procession is held in very high religious belief.</string>
+		<key>address</key>
+		<string>Chhata Govardhan Rd, Deeg Adda, Govardhan, Uttar Pradesh 281502, India</string>
+		<key>latitude</key>
+		<real>27.4948669</real>
+		<key>longitude</key>
+		<real>77.4630044</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_31</string>
+			<string>temple_32.jpg</string>
+			<string>temple_33.jpg</string>
+			<string>temple_34.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>32</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Giriraj Temple</string>
+		<key>description</key>
+		<string>Daan-Ghati is one of the two main temple structures in Govardhan, near Mathura, India. The other temple structure is called Dasvisa.
+
+Daan Ghati is a temple where the deity is actually in the form of a rock. The deity is said to be going down in earth by a few millimeters every year. Local people who have been witnessing this confirm this fact, though there is no scientific proof for the same.
+
+Over time, this temple has slowly taken over the place of main shrine of the town. Added to the fact, there has been quite a bit of commercialization of the temple structure. With ever growing touristic importance of the place, the commercial interests are growing and at times conflicts as well.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg, Lalit Bagh, Vrindavan, Uttar Pradesh 281121, India</string>
+		<key>latitude</key>
+		<real>27.509133</real>
+		<key>longitude</key>
+		<real>77.668615</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_32</string>
+			<string>temple_33.jpg</string>
+			<string>temple_34.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>33</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Shri Radha Kund</string>
+		<key>description</key>
+		<string>Shri Radha Kund, which is said to be the holiest of holy spots and the special scene of Radha and Krishna’s divine pastimes. Thousands of people come to Radha Kund to bathe in the two holy kunds (Radha Kund and Shyamkund) and to light lamps which are placed all around them both</string>
+		<key>address</key>
+		<string>Radha Kund, Uttar Pradesh 281504, India</string>
+		<key>latitude</key>
+		<real>27.525278</real>
+		<key>longitude</key>
+		<real>77.491389</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_33</string>
+			<string>temple_34.jpg</string>
+			<string>temple_35.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>34</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Manasi Ganga</string>
+		<key>description</key>
+		<string>Mana means &quot;mind&quot; and Ganga is another name for the Ganges River. Manasi Ganga Kunda is traditionally the starting and ending point of the circumambulation of Govardhana Hill. In the Mathura-mahatmya it is recommended that one bathe in Manasi Ganga and then take darshan of Hrideva before beginning here. This kunda is considered a million times more potent than the Ganges River, because by bathing in the Ganges River one gets liberation and by bathing here one gets &quot;Krishna prema,&quot; love of Krishna. 
+
+It is a good-size lake located in the town of Govardhana. It is in the center of Govardhana Hill. Manasi Ganga used to be a very large lake, but as Govardhana Hill is getting smaller, Manasi Ganga is also getting smaller in the same proportion.</string>
+		<key>address</key>
+		<string>Govardhan, Uttar Pradesh 281502</string>
+		<key>latitude</key>
+		<real>27.4979319</real>
+		<key>longitude</key>
+		<real>77.46528619</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_34</string>
+			<string>temple_35.jpg</string>
+			<string>temple_36.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>35</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Kusum Sarovar</string>
+		<key>description</key>
+		<string>Kusuma Sarovara, a beautiful sandstone monument, is a 25-minute walk from Radha Kunda. Kusuma means “flower,” and here the gopis would pick flowers for Krishna. Kusuma Sarovara is the best swimming spot in Braja. After you go to Radha Kunda you could spend a relaxing hour here. It is a peaceful place, which not many people visit. During Lord Caitanya’s time this place was known as Sumanah Sarovara. It is stated in the Caitanya Caritamrita that Lord Caitanya took bath here. The ghatas at this kunda and the buildings above the kunda were built by Jawa hir Singh, the king of Bharatpur around 1764, in honor of his father Raja Suraj Mall. Suraj Mall attacked the Mughal King of Delhi and was killed in the battle. His son Jawa hir Singh then attacked Delhi and killed the Mughal king. On the upper level are three tombs. The main tomb of Raja Suraj Mall has beautiful paintings on its ceiling depicting the pastimes of Krishna and the lotus feet of Krishna engraved on the floor. There are also some paintings of Raja Suraj Mall in his court. The other tombs are those of his two queens, Kishori and Hansiya. There are beautiful paintings on the ceiling of these two tombs. There is also a Giriraja Temple here</string>
+		<key>address</key>
+		<string>Govardhan Brahmnan, Uttar Pradesh 281504, India</string>
+		<key>latitude</key>
+		<real>27.5120117</real>
+		<key>longitude</key>
+		<real>77.47826360000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_35</string>
+			<string>temple_36.jpg</string>
+			<string>temple_37.jpg</string>
+			<string>temple_38.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>36</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Radha Rani Temple</string>
+		<key>description</key>
+		<string>Shriji , a beloved name for Radha , the daughter of this land and intimate companion to Krishna. It is one of the oldest temples in Barsana which is approximated to be built 5000 years ago on the Bhanugarh hill top. Temple&apos;s another name is Ladli Lal ji temple means beloved Radha&apos;s temple. This red stone temple was renovated and restored by Narayan Bhatt, a Vaishnavite. The temple was built during the reign of Akbar who was secular king , believes in equality of religions. Thus the temple architecture gives a clear shadow of the Mughal era architecture. Specialities of the temple are the sculpture inside the temple and magnificent paintings on the walls of the temple. Radha was daughter of Vrishbhanu whose temple is built at the beginning, on the way to hilltop temple. Shriji Temple is a landmark destination of Mathura tourism which every devotee should traverse.</string>
+		<key>address</key>
+		<string>Barsana Mathura, Uttar Pradesh 281405, India</string>
+		<key>latitude</key>
+		<real>27.6463577</real>
+		<key>longitude</key>
+		<real>77.3768099</real>
+		<key>summerM</key>
+		<string>05:00 am to 02:30 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm to 09:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am to 02:30 pm</string>
+		<key>winterE</key>
+		<string>05:00 pm to 08:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_36</string>
+			<string>temple_37.jpg</string>
+			<string>temple_38.jpg</string>
+			<string>temple_39.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>37</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Maan mandir</string>
+		<key>description</key>
+		<string>The place where Shrimati Radharani would go into seclusion in Her transcendental loving anger towards Krishna. At Maan Mandir Krishna pleads, weeps and cries like a beggar to gain the favor of His beloved Shrimati Radharani. Within the temple, there is a small tunnel leading to a dark chamber which is said to be the place where Radharani would go and sit.</string>
+		<key>address</key>
+		<string>Barsana Mathura, Uttar Pradesh 281405, India</string>
+		<key>latitude</key>
+		<real>27.6433899</real>
+		<key>longitude</key>
+		<real>77.3653954</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_37</string>
+			<string>temple_38.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>38</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Dan Bihari Temple</string>
+		<key>description</key>
+		<string>As the name suggests, Dan- Bihari, Dan stands for donates and Bihari stands for Krishna, the temple has a famous story associated with donation. Once a poor Brahmin could not arrange the money for her daughter&apos;s mairrage and remember Krishna in grief. Shree Krishna arranged the gold equivalent to the weight of Radha and donated it to the poor Brahmin.</string>
+		<key>address</key>
+		<string>Barsana Mathura, Uttar Pradesh 281405, India</string>
+		<key>latitude</key>
+		<real>27.6463789</real>
+		<key>longitude</key>
+		<real>77.3700625</real>
+		<key>summerM</key>
+		<string>07.45 a.m to 12.00 p.m</string>
+		<key>summerE</key>
+		<string>05.30 p.m to 09.30 p.m</string>
+		<key>winterM</key>
+		<string>08.45 a.m to 01.00 p.m</string>
+		<key>winterE</key>
+		<string>04.30 p.m to 08.30 p.m</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_38</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>39</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Kushal Bihari Temple</string>
+		<key>description</key>
+		<string>The beautiful temple of Kushal Bihari was built by a Rajput king who was an ardent devotee of Radha-Krishna. The sculpture inside the temple is carved out of sandstone having slinky and beautiful designs. A graceful and lovely idol of Shri Radha is being placed at the centre of the premises. Before inaugurating the temple, it is believed that Radha came to King&apos;s dream and asked him not to proceed with inauguration as it is not original place which belongs to Radha or ladliji. Thus, king built another temple for Ladliji or Radhaji on her place of origin and in the Kushal Bihari temple still you can see beautiful idols of Krishna, Radha and their allies in beautiful postures. This is one of the most beauteous places in the Mathura tourism and one should visit it during the tour to Barsana.</string>
+		<key>address</key>
+		<string>Barsana Mathura, Uttar Pradesh 281405, India</string>
+		<key>latitude</key>
+		<real>27.6469919</real>
+		<key>longitude</key>
+		<real>77.3702395</real>
+		<key>summerM</key>
+		<string>04:30 am to 12:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm to 09:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am to 12:30 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm to 08:00 pm</string>
+		<key>aarti</key>
+		<string>12:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_39</string>
+			<string>temple_40.jpg</string>
+			<string>temple_41.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>40</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Shri Thakurani Ghat</string>
+		<key>description</key>
+		<string>Thakurani Ghat is a popular Ghat in Gokul where Shri Vallabhacharya received Darshan of Shri Yamuna Maharani. The followers of Lord Vishnu especially those from the Vallabha Sampraday hold this place in very high regard even today.</string>
+		<key>address</key>
+		<string>Gokul, Mahaban Bangar, Uttar Pradesh 281303, India</string>
+		<key>latitude</key>
+		<real>27.4390954</real>
+		<key>longitude</key>
+		<real>77.7181743</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_40</string>
+			<string>temple_41.jpg</string>
+			<string>temple_42.jpg</string>
+			<string>temple_43.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>41</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Nand Bhawan Gokul</string>
+		<key>description</key>
+		<string>The divine Architect Vishwakarma had built Nanda Bhavan 5000 years ago. Located on a hill, it was the house of Nanda, foster father of Lord Krishna. It was in this house that a young Krishna and his brother Balarama were brought up while his birth parents were imprisoned by King Kamsa in Vrindavan</string>
+		<key>address</key>
+		<string>Gokul, Mahaban Bangar, Uttar Pradesh 281303, India</string>
+		<key>latitude</key>
+		<real>27.4381752</real>
+		<key>longitude</key>
+		<real>77.71759803</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_41</string>
+			<string>temple_42.jpg</string>
+			<string>temple_43.jpg</string>
+			<string>temple_44.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>42</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Raman Reti Gokul</string>
+		<key>description</key>
+		<string>Raman Reti is the sand in which Lord Krishna played as a child. In more recent times, about 200 years ago, the famous Saint, Swami Gyandasji did a severe penance at Raman Reti for 12 years. Pleased with his devotion, The Lord appeared before him and today you can find a Ramanbihariji Mandir at that spot. Today devotees roll over the sand here and seek the blessings of Lord Krishna.</string>
+		<key>address</key>
+		<string>Mahaban Khadar, Uttar Pradesh 281305, India</string>
+		<key>latitude</key>
+		<real>27.427686</real>
+		<key>longitude</key>
+		<real>77.7282041</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_42</string>
+			<string>temple_43.jpg</string>
+			<string>temple_44.jpg</string>
+			<string>temple_45.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>43</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Vitthalnath Temple</string>
+		<key>description</key>
+		<string>Vitthalnath is one of the prominent temples of Gokul. Gokul was an integral part of the Bhakti Movement and Vallabhacharya was the prominent leader who had a visualization of Lord Krishna. He visited Gokul to guide people on the path of devotion and himself fell in love with the place. He spent hours sitting on the banks of the Yamuna and reading Shrimad Bhagvatam.</string>
+		<key>address</key>
+		<string>Gokul, Mahaban Bangar, Uttar Pradesh 281303, India</string>
+		<key>latitude</key>
+		<real>27.4361785</real>
+		<key>longitude</key>
+		<real>77.72088530000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_43</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>44</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Brahmanda Ghat</string>
+		<key>description</key>
+		<string>It is the place where Lord Krishna performed his pastime of showing the whole universe inside his mouth to his foster mother Yashoda. According to the legend, once all the Gopas came to mother Yashoda and informed her that her son Krishna has eaten mud. Mother Yashoda got angry at the deed of Krishna and accompanied Gopas to the place where Krishna was playing, so as to scold him. On reaching she enquired Krishna if he has eaten mud but Krishna denied saying that all the Gopas are lying and he never ate mud. Then Yashoda enquired the truth from Lord Balram who confirmed that Krishna had eaten mud. On asking Krishna again denied that he had not eaten mud. To prove the truth, Yashoda asked Krishna to open his mouth and show if he has not eaten mud. When Krishna opened his small mouth, mother Yashoda was stunned at the sight of the whole universe revolving inside the mouth of Krishna. After having the view of such a sight inside the mouth of her Krishna she lost her senses. A beautiful temple commemorating this pastime is built on the bank of this Ghat and is named as Brahmanda Bihari temple.</string>
+		<key>address</key>
+		<string>Gokul, Mahaban Bangar, Uttar Pradesh 281303, India</string>
+		<key>latitude</key>
+		<real>27.4361785</real>
+		<key>longitude</key>
+		<real>77.72088530000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_44</string>
+			<string>temple_45.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>45</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Gokulnath Temple</string>
+		<key>description</key>
+		<string>Gokulnath is the most important temple to visit in Gokul. The temple&apos;s service was handed over to Gokul Nathji by Shri Gosainiji. This temple has various possessions of Gosain Vithal Nathji and Acharya Mahaprabhu preserved here such as shawls, necklaces, signatures and slippers etc.</string>
+		<key>address</key>
+		<string>Gokul, Mahaban Bangar, Uttar Pradesh 281303, India</string>
+		<key>latitude</key>
+		<real>27.4361785</real>
+		<key>longitude</key>
+		<real>77.72088530000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_45</string>
+			<string>temple_46.jpg</string>
+			<string>temple_47.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+</array>
+</plist>

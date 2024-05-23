@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.53467</real>
+		<key>longitude</key>
+		<real>77.659318</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>न्याटी मल्टी सुपर स्पेशलिटी अस्पताल</string>
+		<key>address</key>
+		<string>सीएनजी पम्प के पास, NH2, मथुरा, उत्तर प्रदेश 281001</string>
+		<key>contactNo</key>
+		<string>05652565565</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4720718</real>
+		<key>longitude</key>
+		<real>77.6950604</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>जिला अस्पताल</string>
+		<key>address</key>
+		<string>सिविल लाइन्स, मथुरा कैंटोनमेंट, मथुरा, उत्तर प्रदेश 281001</string>
+		<key>contactNo</key>
+		<string>05652501655</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4906443</real>
+		<key>longitude</key>
+		<real>77.67637670</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>बृज नर्सिंग होम</string>
+		<key>address</key>
+		<string>सएच 80, मयूर विहार, मथुरा, उत्तर प्रदेश 281001</string>
+		<key>contactNo</key>
+		<string>05662232673</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4251426</real>
+		<key>longitude</key>
+		<real>77.694658</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>मथुरा रिफाइनरी अस्पताल</string>
+		<key>address</key>
+		<string>मथुरा रिफाइनरी नगर, रिफाइनरी नगर, मथुरा, उत्तर प्रदेश 281006</string>
+		<key>contactNo</key>
+		<string>05652480090</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.5187383</real>
+		<key>longitude</key>
+		<real>77.6730845</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>मां सरस्वती अस्पताल</string>
+		<key>address</key>
+		<string>जयसिंह पूरा, बिड़ला मंदिर के पास, मथुरा, उत्तर प्रदेश 281001</string>
+		<key>contactNo</key>
+		<string>05653200541</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>302</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>latitude</key>
+		<real>27.4934169</real>
+		<key>longitude</key>
+		<real>77.6730166</real>
+		<key>image</key>
+		<string>image</string>
+		<key>name</key>
+		<string>सुशीला अस्पताल</string>
+		<key>address</key>
+		<string>बीएसए कॉलेज के सामने, मथुरा, उत्तर प्रदेश 281005</string>
+		<key>contactNo</key>
+		<string>05652461795</string>
+	</dict>
+</array>
+</plist>

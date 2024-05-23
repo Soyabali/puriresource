@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>500</string>
+		<key>name</key>
+		<string>Sulabh</string>
+		<key>distancefrom</key>
+		<string>150 meter from pagal baba temple</string>
+		<key>address</key>
+		<string>Atalla Chungi Vrindavan, Mathura-Vrindavan Marg, Vrindavan, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.568393</real>
+		<key>longitude</key>
+		<real>77.689127</real>
+	</dict>
+</array>
+</plist>

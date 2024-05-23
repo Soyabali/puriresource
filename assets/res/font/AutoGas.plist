@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>100</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Vrindavan Petrol Pump</string>
+		<key>address</key>
+		<string>Mathura-Vrindavan Marg, Vrindavan, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.56296509</real>
+		<key>longitude</key>
+		<real>77.68434753</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>101</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Indian Oil Petrol Pump</string>
+		<key>address</key>
+		<string>Bhuteshwar Rd, Manoharpura, Mathura, Uttar Pradesh 281004</string>
+		<key>latitude</key>
+		<real>27.496509</real>
+		<key>longitude</key>
+		<real>77.670644</real>
+		<key>image</key>
+		<array>
+			<string>indianOil_101</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>102</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Jagdish Service Station</string>
+		<key>address</key>
+		<string>549, NH2, Krishna Nagar, Mathura, Uttar Pradesh 281004</string>
+		<key>latitude</key>
+		<real>27.49759111</real>
+		<key>longitude</key>
+		<real>77.65296411</real>
+		<key>image</key>
+		<array>
+			<string>autoges_102</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>103</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>BPCL Chaturvedi Filling Station</string>
+		<key>address</key>
+		<string>NH2, Chaudhary Digamber Singh Nagar, Mathura, Uttar Pradesh 281004</string>
+		<key>latitude</key>
+		<real>27.4683023</real>
+		<key>longitude</key>
+		<real>77.66022479999999</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>104</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Bharat Petroleum Petrol Pump</string>
+		<key>address</key>
+		<string>NH2, Chaudhary Digamber Singh Nagar, Mathura, Uttar Pradesh 281004</string>
+		<key>latitude</key>
+		<real>27.46739253</real>
+		<key>longitude</key>
+		<real>77.66051989</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>105</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Nand Service Station</string>
+		<key>address</key>
+		<string>NH2, Refinery Nagar, Ronchi Khadar, Uttar Pradesh 281006</string>
+		<key>latitude</key>
+		<real>27.42719068</real>
+		<key>longitude</key>
+		<real>77.69698519000001</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>106</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>HP Petrol Pump</string>
+		<key>address</key>
+		<string>NH2-Bhuteshwar Rd, Chowk Bazar, Mathura, Uttar Pradesh 281003</string>
+		<key>latitude</key>
+		<real>27.5120997</real>
+		<key>longitude</key>
+		<real>77.67300356</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>107</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HP PETROL PUMP - BOHRE LAL CHAND FILLING STATION</string>
+		<key>address</key>
+		<string>Goverdhan Brahmanan Sonkh Road Goverdhan, Mathura, Uttar Pradesh 281502</string>
+		<key>latitude</key>
+		<real>27.489147</real>
+		<key>longitude</key>
+		<real>77.46656299999999</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>108</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HP Petrol Pump</string>
+		<key>address</key>
+		<string>MDR 143W, Goverdhan Brahmnan, Uttar Pradesh 281502</string>
+		<key>latitude</key>
+		<real>27.48923623</real>
+		<key>longitude</key>
+		<real>77.46684764</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>109</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HP Petrol Pump - HP Sarveshwar Filling Station</string>
+		<key>address</key>
+		<string>Jamunamata Goverdhan Road, Agra, Uttar Pradesh 281502</string>
+		<key>latitude</key>
+		<real>27.48983048</real>
+		<key>longitude</key>
+		<real>77.49683775</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>106</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HP Petrol Pump</string>
+		<key>address</key>
+		<string>NH2-Bhuteshwar Rd, Chowk Bazar, Mathura, Uttar Pradesh 281003</string>
+		<key>latitude</key>
+		<real>27.5120997</real>
+		<key>longitude</key>
+		<real>77.67300356</real>
+		<key>image</key>
+		<array>
+			<string>pumpImage</string>
+		</array>
+	</dict>
+</array>
+</plist>

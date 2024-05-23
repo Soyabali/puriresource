@@ -1,0 +1,5970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>Name</key>
+		<string>वृंदावन</string>
+		<key>byRoad</key>
+		<string>वृंदावन दिल्ली-आगरा राष्ट्रीय राजमार्ग 2 पर स्थित है। विभिन्न बसों आगरा और दिल्ली के बीच चलता है। मंदिर 7 किमी दूर है। दूर राष्ट्रीय राजमार्ग से। मंदिर के लिए हो रही है बहुत आसान के रूप में वहाँ अक्सर टेम्पो और रिक्शा दिन भर में उपलब्ध हैं। मथुरा सिर्फ 12 किमी दूर है। अक्सर बसों, टेम्पो और टैक्सियां मथुरा और वृंदावन के बीच चलती है।</string>
+		<key>byAir</key>
+		<string>निकटतम हवाई अड्डा आगरा वृंदावन से सिर्फ 67 किमी दूर है। निकटतम अंतरराष्ट्रीय हवाई अड्डे के दिल्ली, जो प्रमुख एयरलाइनों के साथ दुनिया में लगभग हर महत्वपूर्ण शहर से जुड़ा है। ऐसे में दिल्ली, मुंबई, बेंगलूर, चेन्नई और आदि के रूप में भारत के अन्य महत्वपूर्ण पर्यटन स्थलों के लिए नियमित उड़ानें हैं</string>
+		<key>byTrain</key>
+		<string>निकटतम हवाई अड्डा आगरा वृंदावन से सिर्फ 67 किमी दूर है। निकटतम अंतरराष्ट्रीय हवाई अड्डे के दिल्ली, जो प्रमुख एयरलाइनों के साथ दुनिया में लगभग हर महत्वपूर्ण शहर से जुड़ा है। ऐसे में दिल्ली, मुंबई, बेंगलूर, चेन्नई और आदि के रूप में भारत के अन्य महत्वपूर्ण पर्यटन स्थलों के लिए नियमित उड़ानें हैं</string>
+		<key>about</key>
+		<string>वृंदावन उत्तर प्रदेश, भारत के मथुरा जिले में एक शहर है। यह साइट है जहाँ हिंदू धर्म के अनुसार भगवान कृष्ण बिताए अपने बचपन के दिनों का है। शहर मथुरा, आगरा-दिल्ली राजमार्ग पर कृष्ण के जन्म स्थान से लगभग 11 किमी दूर है।
+
+वृंदावन एक प्राचीन अतीत, हिंदू इतिहास के साथ जुड़ा हुआ है, और एक महत्वपूर्ण हिन्दू तीर्थ स्थल है। इसकी सबसे पुराना जीवित मंदिरों में से एक गोविंदा देव मंदिर, शहर इसी सदी में पहले की स्थापना के साथ 1590 में बनाया गया है। वृंदावन का सार है, 16 वीं सदी तक समय के साथ खो गया था जब यह चैतन्य महाप्रभु द्वारा फिर से खोज की गई थी। साल 1515 में, चैतन्य महाप्रभु, वृन्दावन दौरा भगवान श्री कृष्ण की लीलाओं उत्कृष्ट साथ जुड़े खो पवित्र स्थानों का पता लगाने के उद्देश्य के साथ। चैतन्य दिव्य प्रेम का एक आध्यात्मिक मदहोशी में वृन्दावन के विभिन्न पवित्र जंगलों के माध्यम से फिरते। यह माना जाता है कि उनकी दिव्य आध्यात्मिक शक्ति के द्वारा, वह और वृन्दावन के चारों ओर कृष्ण की लीलाओं के सभी महत्वपूर्ण स्थानों का पता लगाने में सक्षम था। मीरा बाई मेवाड़ के राज्य छोड़ दिया और तीर्थ पर चला गया। उसे पिछले 14 वर्षों में, मीरा एक मंदिर वृंदावन में प्राचीन मीराबाई कहा जाता है में रहते थे। मीरा बाई सबसे प्रसिद्ध महिला हिंदू आध्यात्मिक कवयित्री, जिनकी रचनाओं अभी भी उत्तर भारत भर में लोकप्रिय हो रहा है।
+
+पिछले 250 वर्षों में, वृंदावन के व्यापक जंगलों पहले स्थानीय राजाओं द्वारा और अपार्टमेंट डेवलपर्स द्वारा हाल के दशकों में, शहरीकरण के अधीन कर दिया गया है। वन आवरण केवल कुछ ही शेष स्थानों के लिए दूर कर दिया गया है, और स्थानीय वन्य जीवन, मोर, गाय, बंदरों और पक्षी प्रजातियों में से एक किस्म सहित लगभग सफाया कर दिया गया है। कुछ मोर शहर में छोड़ दिया जाता है, लेकिन बंदरों और गायों लगभग हर जगह देखा जा सकता है।</string>
+		<key>lat</key>
+		<real>27.565</real>
+		<key>long</key>
+		<real>77.6593</real>
+		<key>cityImages</key>
+		<array>
+			<string>city_history1</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpeg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.JPG</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.JPG</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.JPG</string>
+			<string>city_history_17.jpg</string>
+			<string>city_history_18.JPG</string>
+			<string>city_history_19.jpg</string>
+			<string>city_history_20.jpg</string>
+			<string>city_history_21.JPG</string>
+			<string>city_history_22.jpg</string>
+			<string>city_history_23.jpg</string>
+			<string>city_history_24.jpg</string>
+			<string>city_history_25.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_0.png</string>
+				<key>video</key>
+				<string>video_0.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_1.png</string>
+				<key>video</key>
+				<string>video_1.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_2.png</string>
+				<key>video</key>
+				<string>video_2.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_3.png</string>
+				<key>video</key>
+				<string>video_3.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_4.png</string>
+				<key>video</key>
+				<string>video_4.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_5.png</string>
+				<key>video</key>
+				<string>video_5.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_6.png</string>
+				<key>video</key>
+				<string>video_6.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_7.png</string>
+				<key>video</key>
+				<string>video_7.mp4</string>
+			</dict>
+		</array>
+		<key>trainDetail</key>
+		<array>
+			<dict>
+				<key>sNo</key>
+				<string>11112</string>
+				<key>name</key>
+				<string>सुशासन एक्सप्रेस</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:00 am</string>
+				<key>arriveTime</key>
+				<string>03:00 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अटारी - जबलपुर स्पेशल किराया स्पेशल</string>
+				<key>sNo</key>
+				<string>01708</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:00 am</string>
+				<key>arriveTime</key>
+				<string>04:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उधमपुर - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19806</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>03:40 am</string>
+				<key>arriveTime</key>
+				<string>06:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>छत्तीसगढ़ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18238</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>04:40 am</string>
+				<key>arriveTime</key>
+				<string>06:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 15m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंजाब मेल</string>
+				<key>sNo</key>
+				<string>12138</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>07:37 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 22m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली के हजरत निजामुद्दीन - कोटा स्पेशल किराया एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09810</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>08:05 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - सी एस एम टी कोल्हापुर एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12148</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मिलेनियम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12646</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - मैसूर स्वर्ण जयंती एक्सप्रेस एस एफ</string>
+				<key>sNo</key>
+				<string>12782</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - विशाखापट्टनम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - त्रिवेंद्रम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12644</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>नई दिल्ली - भोपाल शताब्दी एक्सप्रेस हबीबगंज</string>
+				<key>sNo</key>
+				<string>12002</string>
+				<key>type</key>
+				<string>Shatabdi एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>06:00 am</string>
+				<key>arriveTime</key>
+				<string>07:23 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उद्यान आभा तूफान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>13008</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:00 am</string>
+				<key>arriveTime</key>
+				<string>10:07 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>ताज एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12280</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:05 am</string>
+				<key>arriveTime</key>
+				<string>08:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पुरानी दिल्ली - आगरा कैंट। पैसेंजर (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>51902</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:30 am</string>
+				<key>arriveTime</key>
+				<string>11:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 55m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोल्डन टेंपल मेल (पी टी)</string>
+				<key>sNo</key>
+				<string>12904</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:35 am</string>
+				<key>arriveTime</key>
+				<string>09:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हीराकुंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18508</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>08:10 am</string>
+				<key>arriveTime</key>
+				<string>10:33am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कोंगु एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12648</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>समता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12808</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मंगला लक्षद्वीप एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12618</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>depTime</key>
+				<string>09:15 am</string>
+				<key>arriveTime</key>
+				<string>11:08 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अमृतसर-इंदौर द्वि साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19326</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>11:53 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - तिरुवनंतपुरम एक्सप्रेस (कोट्टायम के माध्यम से)</string>
+				<key>sNo</key>
+				<string>22654</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>12:10 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>झेलम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11078</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:15 am</string>
+				<key>arriveTime</key>
+				<string>12:35 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - मुंबई बांद्रा (टी) विशेष किराया एसी एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09022</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:30 am</string>
+				<key>arriveTime</key>
+				<string>12:55 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>केरल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12626</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>11:25 am</string>
+				<key>arriveTime</key>
+				<string>01:18 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कलिंग उत्कल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>18478</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>12:10 pm</string>
+				<key>arriveTime</key>
+				<string>01:15 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पाताल कोट एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14624</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:20 pm</string>
+				<key>arriveTime</key>
+				<string>03:17 pm</string>
+				<key>distance</key>
+				<string>154</string>
+				<key>travelTime</key>
+				<string>2h 57m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली सराय रोहिल्ला - अशोक नगर विशेष (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>04906</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:30 am</string>
+				<key>arriveTime</key>
+				<string>03:10 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - कोटा जनशताब्दी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12060</string>
+				<key>type</key>
+				<string>Jan Shatabdiएक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:15 pm</string>
+				<key>arriveTime</key>
+				<string>03:15 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>सचखंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12716</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:20 pm</string>
+				<key>arriveTime</key>
+				<string>05:30 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>फिरोजपुर - मुंबई सेंट्रल जनता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19024</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:25 am</string>
+				<key>arriveTime</key>
+				<string>05:00 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 35m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>देहरादून-इंदौर एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14318</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उज्जैनी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14310</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 05m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गुजरात संपर्क क्रांति एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12918</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:55 pm</string>
+				<key>arriveTime</key>
+				<string>04:03 pm</string>
+				<key>distance</key>
+				<string>134km</string>
+				<key>travelTime</key>
+				<string>2h 08m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Thu</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>श्रीधाम एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12191</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:05 pm</string>
+				<key>arriveTime</key>
+				<string>04:08 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 3m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अंडमान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>16032</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>05:03pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - जबलपुर (दुर्गावती) एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11450</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>07:03 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>06:00 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोवा एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पर्ची / दिल्ली हजरत निजामुद्दीन-लोंडा-हुबली गोवा लिंक एक्सप्रेस (17306) (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - इंदौर साप्ताहिक एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>22942</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>Safdargung/DSJ</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>139 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+		</array>
+		<key>busDetail</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>भारत प्रभाव टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:00 AM</string>
+				<key>dropTime</key>
+				<string>10:00 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>करोल बाग मेट्रो</string>
+					<string>06:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>जयनगर 4 ब्लॉक तमिलनाडु</string>
+					<string>06:30 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>मादीवाला</string>
+					<string>06:45 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>राष्ट्रीय अवकाश</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:55 AM</string>
+				<key>dropTime</key>
+				<string>10:20 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम मेट्रो स्टेशन</string>
+					<string>07:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>आईएनए मेट्रो स्टेशन</string>
+					<string>07:15 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>आश्रम चौक</string>
+					<string>07:25 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंवार टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>गैर एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>02:00 PM</string>
+				<key>dropTime</key>
+				<string>05:00 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आनंद विहार</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>कल्पना छुट्टी आनंद विहार के पास यात्रा</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string></string>
+					<string></string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>आर एस यादव ट्रेवल्स</string>
+				<key>type</key>
+				<string>एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>08:01 PM</string>
+				<key>dropTime</key>
+				<string>
+10:51 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम</string>
+					<string>08:02 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>अक्षरधाम</string>
+					<string>08:51 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>विपरीत आनंद विहार मेट्रो</string>
+					<string>09:11 pm</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>Name</key>
+		<string>मथुरा</string>
+		<key>byRoad</key>
+		<string>मथुरा में अच्छी तरह से उत्तर प्रदेश और भारत के बाकी हिस्सों से सड़क मार्ग से जुड़ा हुआ है। राष्ट्रीय राजमार्ग 2 (दिल्ली-हावड़ा) राजमार्ग शहर के माध्यम से गुजरता है और राष्ट्रीय राजमार्ग 3 (मुंबई) के लिए, एक हिस्सा है जो की मथुरा रोड के रूप में जाना जाता है को जोड़ता है। एनएच 11 (बीकानेर आगरा)। एसएच 33 राष्ट्रीय राजमार्ग 93 (मुरादाबाद) (बदायूं, उझानी, कासगंज, सोरोन्‍न, सिकंदरा राव, हाथरस के माध्यम से बरेली मथुरा) भी प्रमुख धमनी राजमार्गों रहे हैं। यमुना एक्सप्रेस भी मथुरा से जोड़ता है और तथ्य यह सबसे छोटा रास्ता में सड़क मार्ग से मथुरा तक पहुंचने के लिए।</string>
+		<key>byAir</key>
+		<string>मथुरा खेरिया, आगरा में घरेलू हवाई अड्डे से लगभग 65 किमी दूर है। एक पवित्र शहर तक पहुंचने के लिए हवाई अड्डे से टैक्सी या बस रख सकता है। यहां तक कि नई दिल्ली के अंतरराष्ट्रीय हवाई अड्डे से मथुरा के आसपास 145 किमी की दूरी पर है। एक पवित्र शहर तक पहुंचने के लिए हवाई अड्डे से टैक्सी / ट्रेन मिल सकती है।</string>
+		<key>byTrain</key>
+		<string>मथुरा में अच्छी तरह से देश के प्रमुख रेल मार्गों के साथ जुड़ा हुआ है। ट्रेन यात्रा, सस्ती आरामदायक और मथुरा तक पहुंचने के लिए एक सुविधाजनक तरीका माना जाता है। मथुरा दोनों पश्चिमी और मध्य रेलवे द्वारा जोड़ा जा रहा है, मेगा शहरों से प्रमुख ट्रेनों के सबसे मथुरा रेलवे जंक्शन पर एक पड़ाव बनाते हैं। एक हमेशा स्टेशन से गंतव्य तक पहुंचने के लिए सार्वजनिक परिवहन प्राप्त कर सकते हैं।</string>
+		<key>about</key>
+		<string>मथुरा उत्तर प्रदेश के उत्तर भारतीय राज्य में एक शहर है। यह आगरा के उत्तर लगभग 50 किलोमीटर की दूरी पर है, और 145 किलोमीटर की दूरी पर दिल्ली के दक्षिण-पूर्व में स्थित है; वृंदावन के शहर से लगभग 11 किलोमीटर की दूरी पर है, और गोवर्धन से 22 किलोमीटर है। यह उत्तर प्रदेश के मथुरा जिले के प्रशासनिक केंद्र है। प्राचीन काल के दौरान, मथुरा एक आर्थिक हब, महत्वपूर्ण कारवां मार्गों के जंक्शन पर स्थित था। मथुरा ब्रज या बृज-भूमि का केंद्र है, श्री कृष्ण जन्म-भूमि कहा जाता है पर कृष्णा का जन्मस्थान है।
+
+मथुरा में एक प्राचीन इतिहास और भी मातृभूमि और जन्मस्थान कृष्ण की जो यदु वंश में पैदा हुआ था है। मथुरा संग्रहालय में भारतीय पुरातत्व सर्वेक्षण पट्टिका के अनुसार, शहर के सबसे पुराने भारतीय महाकाव्य रामायण में उल्लेख किया है। महाकाव्य में, इक्ष्वाकु राजकुमार शत्रुघ्न एक राक्षस लवणासुरा बुलाया और भूमि का दावा है। बाद में, जगह मधुवन रूप में जाना जाने के रूप में यह घनी, जंगली गया था तो मधुपुर और बाद में मथुरा आया था। मथुरन कला और संस्कृति कुषाण वंश के तहत अपने चरम पर है जो उनकी राजधानियों में से एक के रूप में मथुरा था, दूसरे की जा रही पुरुषापुर (पेशावर) पर पहुंच गया। राजवंश कोजोला कादफ़ीस, कनिष्क, हुविष्क और वासुदेव के नाम के साथ किंग्स था।</string>
+		<key>lat</key>
+		<real>27.4924</real>
+		<key>long</key>
+		<real>77.6737</real>
+		<key>cityImages</key>
+		<array>
+			<string>city_history2</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.jpg</string>
+			<string>city_history_17.jpg</string>
+			<string>city_history_18.jpg</string>
+			<string>city_history_19.jpg</string>
+			<string>city_history_20.jpg</string>
+			<string>city_history_21.jpg</string>
+			<string>city_history_22.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>trainDetail</key>
+		<array>
+			<dict>
+				<key>sNo</key>
+				<string>11112</string>
+				<key>name</key>
+				<string>सुशासन एक्सप्रेस</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:00 am</string>
+				<key>arriveTime</key>
+				<string>03:00 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अटारी - जबलपुर स्पेशल किराया स्पेशल</string>
+				<key>sNo</key>
+				<string>01708</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:00 am</string>
+				<key>arriveTime</key>
+				<string>04:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उधमपुर - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19806</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>03:40 am</string>
+				<key>arriveTime</key>
+				<string>06:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>छत्तीसगढ़ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18238</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>04:40 am</string>
+				<key>arriveTime</key>
+				<string>06:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 15m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंजाब मेल</string>
+				<key>sNo</key>
+				<string>12138</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>07:37 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 22m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली के हजरत निजामुद्दीन - कोटा स्पेशल किराया एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09810</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>08:05 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - सी एस एम टी कोल्हापुर एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12148</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मिलेनियम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12646</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - मैसूर स्वर्ण जयंती एक्सप्रेस एस एफ</string>
+				<key>sNo</key>
+				<string>12782</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - विशाखापट्टनम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - त्रिवेंद्रम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12644</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>नई दिल्ली - भोपाल शताब्दी एक्सप्रेस हबीबगंज</string>
+				<key>sNo</key>
+				<string>12002</string>
+				<key>type</key>
+				<string>Shatabdi एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>06:00 am</string>
+				<key>arriveTime</key>
+				<string>07:23 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उद्यान आभा तूफान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>13008</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:00 am</string>
+				<key>arriveTime</key>
+				<string>10:07 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>ताज एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12280</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:05 am</string>
+				<key>arriveTime</key>
+				<string>08:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पुरानी दिल्ली - आगरा कैंट। पैसेंजर (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>51902</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:30 am</string>
+				<key>arriveTime</key>
+				<string>11:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 55m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोल्डन टेंपल मेल (पी टी)</string>
+				<key>sNo</key>
+				<string>12904</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:35 am</string>
+				<key>arriveTime</key>
+				<string>09:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हीराकुंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18508</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>08:10 am</string>
+				<key>arriveTime</key>
+				<string>10:33am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कोंगु एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12648</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>समता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12808</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मंगला लक्षद्वीप एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12618</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>depTime</key>
+				<string>09:15 am</string>
+				<key>arriveTime</key>
+				<string>11:08 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अमृतसर-इंदौर द्वि साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19326</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>11:53 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - तिरुवनंतपुरम एक्सप्रेस (कोट्टायम के माध्यम से)</string>
+				<key>sNo</key>
+				<string>22654</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>12:10 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>झेलम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11078</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:15 am</string>
+				<key>arriveTime</key>
+				<string>12:35 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - मुंबई बांद्रा (टी) विशेष किराया एसी एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09022</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:30 am</string>
+				<key>arriveTime</key>
+				<string>12:55 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>केरल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12626</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>11:25 am</string>
+				<key>arriveTime</key>
+				<string>01:18 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कलिंग उत्कल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>18478</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>12:10 pm</string>
+				<key>arriveTime</key>
+				<string>01:15 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पाताल कोट एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14624</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:20 pm</string>
+				<key>arriveTime</key>
+				<string>03:17 pm</string>
+				<key>distance</key>
+				<string>154</string>
+				<key>travelTime</key>
+				<string>2h 57m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली सराय रोहिल्ला - अशोक नगर विशेष (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>04906</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:30 am</string>
+				<key>arriveTime</key>
+				<string>03:10 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - कोटा जनशताब्दी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12060</string>
+				<key>type</key>
+				<string>Jan Shatabdiएक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:15 pm</string>
+				<key>arriveTime</key>
+				<string>03:15 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>सचखंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12716</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:20 pm</string>
+				<key>arriveTime</key>
+				<string>05:30 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>फिरोजपुर - मुंबई सेंट्रल जनता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19024</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:25 am</string>
+				<key>arriveTime</key>
+				<string>05:00 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 35m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>देहरादून-इंदौर एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14318</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उज्जैनी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14310</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 05m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गुजरात संपर्क क्रांति एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12918</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:55 pm</string>
+				<key>arriveTime</key>
+				<string>04:03 pm</string>
+				<key>distance</key>
+				<string>134km</string>
+				<key>travelTime</key>
+				<string>2h 08m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Thu</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>श्रीधाम एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12191</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:05 pm</string>
+				<key>arriveTime</key>
+				<string>04:08 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 3m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अंडमान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>16032</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>05:03pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - जबलपुर (दुर्गावती) एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11450</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>07:03 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>06:00 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोवा एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पर्ची / दिल्ली हजरत निजामुद्दीन-लोंडा-हुबली गोवा लिंक एक्सप्रेस (17306) (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - इंदौर साप्ताहिक एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>22942</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>Safdargung/DSJ</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>139 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+		</array>
+		<key>busDetail</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>भारत प्रभाव टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:00 AM</string>
+				<key>dropTime</key>
+				<string>10:00 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>करोल बाग मेट्रो</string>
+					<string>06:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>जयनगर 4 ब्लॉक तमिलनाडु</string>
+					<string>06:30 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>मादीवाला</string>
+					<string>06:45 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>राष्ट्रीय अवकाश</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:55 AM</string>
+				<key>dropTime</key>
+				<string>10:20 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम मेट्रो स्टेशन</string>
+					<string>07:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>आईएनए मेट्रो स्टेशन</string>
+					<string>07:15 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>आश्रम चौक</string>
+					<string>07:25 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंवार टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>गैर एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>02:00 PM</string>
+				<key>dropTime</key>
+				<string>05:00 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आनंद विहार</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>कल्पना छुट्टी आनंद विहार के पास यात्रा</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string></string>
+					<string></string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>आर एस यादव ट्रेवल्स</string>
+				<key>type</key>
+				<string>एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>08:01 PM</string>
+				<key>dropTime</key>
+				<string>
+10:51 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम</string>
+					<string>08:02 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>अक्षरधाम</string>
+					<string>08:51 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>विपरीत आनंद विहार मेट्रो</string>
+					<string>09:11 pm</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>Name</key>
+		<string>गोवर्धन</string>
+		<key>byRoad</key>
+		<string>गोवर्धन दिल्ली-आगरा राष्ट्रीय राजमार्ग 2 पर स्थित है। विभिन्न बसों आगरा और दिल्ली के बीच चलता है। मंदिर 7 किमी दूर है। दूर राष्ट्रीय राजमार्ग से। मंदिर के लिए हो रही है बहुत आसान के रूप में वहाँ अक्सर टेम्पो और रिक्शा दिन भर में उपलब्ध हैं। मथुरा सिर्फ 12 किमी दूर है। अक्सर बसों, टेम्पो और टैक्सियां मथुरा और वृंदावन के बीच चलती है।</string>
+		<key>byAir</key>
+		<string>निकटतम हवाई अड्डा आगरा गोवर्धन से सिर्फ 82 किमी दूर है। निकटतम अंतरराष्ट्रीय हवाई अड्डे के दिल्ली, जो प्रमुख एयरलाइनों के साथ दुनिया में लगभग हर महत्वपूर्ण शहर से जुड़ा है। ऐसे में दिल्ली, मुंबई, बेंगलूर, चेन्नई और आदि के रूप में भारत के अन्य महत्वपूर्ण पर्यटन स्थलों के लिए नियमित उड़ानें हैं</string>
+		<key>byTrain</key>
+		<string>निकटतम रेलवे स्टेशन मथुरा, जो गोवर्धन से 26 किमी की दूरी पर है पर है। यहाँ से, आप एक सार्वजनिक परिवहन बस ले या एक टैक्सी किराया गोवर्धन तक पहुंचने के लिए कर सकते हैं।</string>
+		<key>about</key>
+		<string>गोवर्धन पवित्र गोवर्धन हिल के लिए प्रसिद्ध है। इस शहर अर्थात् श्री हरि देव जी मंदिर, दान-घाटी मंदिर और मुखर बाँध मंदिर में कई मंदिर हैं। शहर में भी अपनी 21 किलोमीटर की दूरी पर प्रसिद्ध गोवर्धन पर्वत की लंबी परिक्रमा के लिए प्रसिद्ध है। परिक्रमा जुलूस बहुत अधिक धार्मिक विश्वास में आयोजित किया जाता है। यह कहा जाता है कि भगवान कृष्ण गोवर्धन पर्वत आयोजित उसकी छोटी उंगली पर बारिश इंद्र के देवता के प्रकोप से शहर को बचाने के लिए।
+
+शहर में भी मानसी गंगा, एक क्लोज एंडेड झील घरों। यह इस शहर आने वाले श्रद्धालुओं के लिए एक और जगह है। इस झील के तट पर, वहाँ काफी कुछ मंदिरों, उनमें से प्रमुख Mukhar बाँध मंदिर हैं। करीब समाप्त किया जा रहा है, झील बड़े पैमाने पर प्रदूषण के साथ सामना करना पड़ा। स्थानीय लोग द्वारा एक सफाई के प्रयास के बाद, स्थिति बेहद सुधार हुआ है।
+
+गोवर्धन में सबसे महत्वपूर्ण दिन के एक गुरु पूर्णिमा (इसके अलावा &quot;Mudia Poono&quot; कहा जाता है) है। इस दिन पर, भक्तों के लाखों परिक्रमा के लिए गोवर्धन लिए आते हैं।</string>
+		<key>lat</key>
+		<real>27.4986</real>
+		<key>long</key>
+		<real>77.46729000000001</real>
+		<key>cityImages</key>
+		<array>
+			<string>city_history3</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.jpg</string>
+			<string>city_history_17.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>trainDetail</key>
+		<array>
+			<dict>
+				<key>sNo</key>
+				<string>11112</string>
+				<key>name</key>
+				<string>सुशासन एक्सप्रेस</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:00 am</string>
+				<key>arriveTime</key>
+				<string>03:00 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अटारी - जबलपुर स्पेशल किराया स्पेशल</string>
+				<key>sNo</key>
+				<string>01708</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:00 am</string>
+				<key>arriveTime</key>
+				<string>04:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उधमपुर - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19806</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>03:40 am</string>
+				<key>arriveTime</key>
+				<string>06:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>छत्तीसगढ़ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18238</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>04:40 am</string>
+				<key>arriveTime</key>
+				<string>06:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 15m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंजाब मेल</string>
+				<key>sNo</key>
+				<string>12138</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>07:37 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 22m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली के हजरत निजामुद्दीन - कोटा स्पेशल किराया एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09810</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>08:05 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - सी एस एम टी कोल्हापुर एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12148</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मिलेनियम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12646</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - मैसूर स्वर्ण जयंती एक्सप्रेस एस एफ</string>
+				<key>sNo</key>
+				<string>12782</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - विशाखापट्टनम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - त्रिवेंद्रम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12644</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>नई दिल्ली - भोपाल शताब्दी एक्सप्रेस हबीबगंज</string>
+				<key>sNo</key>
+				<string>12002</string>
+				<key>type</key>
+				<string>Shatabdi एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>06:00 am</string>
+				<key>arriveTime</key>
+				<string>07:23 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उद्यान आभा तूफान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>13008</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:00 am</string>
+				<key>arriveTime</key>
+				<string>10:07 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>ताज एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12280</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:05 am</string>
+				<key>arriveTime</key>
+				<string>08:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पुरानी दिल्ली - आगरा कैंट। पैसेंजर (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>51902</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:30 am</string>
+				<key>arriveTime</key>
+				<string>11:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 55m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोल्डन टेंपल मेल (पी टी)</string>
+				<key>sNo</key>
+				<string>12904</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:35 am</string>
+				<key>arriveTime</key>
+				<string>09:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हीराकुंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18508</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>08:10 am</string>
+				<key>arriveTime</key>
+				<string>10:33am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कोंगु एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12648</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>समता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12808</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मंगला लक्षद्वीप एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12618</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>depTime</key>
+				<string>09:15 am</string>
+				<key>arriveTime</key>
+				<string>11:08 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अमृतसर-इंदौर द्वि साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19326</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>11:53 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - तिरुवनंतपुरम एक्सप्रेस (कोट्टायम के माध्यम से)</string>
+				<key>sNo</key>
+				<string>22654</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>12:10 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>झेलम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11078</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:15 am</string>
+				<key>arriveTime</key>
+				<string>12:35 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - मुंबई बांद्रा (टी) विशेष किराया एसी एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09022</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:30 am</string>
+				<key>arriveTime</key>
+				<string>12:55 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>केरल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12626</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>11:25 am</string>
+				<key>arriveTime</key>
+				<string>01:18 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कलिंग उत्कल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>18478</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>12:10 pm</string>
+				<key>arriveTime</key>
+				<string>01:15 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पाताल कोट एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14624</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:20 pm</string>
+				<key>arriveTime</key>
+				<string>03:17 pm</string>
+				<key>distance</key>
+				<string>154</string>
+				<key>travelTime</key>
+				<string>2h 57m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली सराय रोहिल्ला - अशोक नगर विशेष (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>04906</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:30 am</string>
+				<key>arriveTime</key>
+				<string>03:10 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - कोटा जनशताब्दी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12060</string>
+				<key>type</key>
+				<string>Jan Shatabdiएक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:15 pm</string>
+				<key>arriveTime</key>
+				<string>03:15 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>सचखंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12716</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:20 pm</string>
+				<key>arriveTime</key>
+				<string>05:30 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>फिरोजपुर - मुंबई सेंट्रल जनता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19024</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:25 am</string>
+				<key>arriveTime</key>
+				<string>05:00 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 35m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>देहरादून-इंदौर एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14318</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उज्जैनी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14310</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 05m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गुजरात संपर्क क्रांति एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12918</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:55 pm</string>
+				<key>arriveTime</key>
+				<string>04:03 pm</string>
+				<key>distance</key>
+				<string>134km</string>
+				<key>travelTime</key>
+				<string>2h 08m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Thu</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>श्रीधाम एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12191</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:05 pm</string>
+				<key>arriveTime</key>
+				<string>04:08 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 3m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अंडमान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>16032</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>05:03pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - जबलपुर (दुर्गावती) एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11450</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>07:03 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>06:00 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोवा एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पर्ची / दिल्ली हजरत निजामुद्दीन-लोंडा-हुबली गोवा लिंक एक्सप्रेस (17306) (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - इंदौर साप्ताहिक एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>22942</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>Safdargung/DSJ</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>139 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+		</array>
+		<key>busDetail</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>भारत प्रभाव टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:00 AM</string>
+				<key>dropTime</key>
+				<string>10:00 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>करोल बाग मेट्रो</string>
+					<string>06:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>जयनगर 4 ब्लॉक तमिलनाडु</string>
+					<string>06:30 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>मादीवाला</string>
+					<string>06:45 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>राष्ट्रीय अवकाश</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:55 AM</string>
+				<key>dropTime</key>
+				<string>10:20 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम मेट्रो स्टेशन</string>
+					<string>07:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>आईएनए मेट्रो स्टेशन</string>
+					<string>07:15 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>आश्रम चौक</string>
+					<string>07:25 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंवार टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>गैर एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>02:00 PM</string>
+				<key>dropTime</key>
+				<string>05:00 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आनंद विहार</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>कल्पना छुट्टी आनंद विहार के पास यात्रा</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string></string>
+					<string></string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>आर एस यादव ट्रेवल्स</string>
+				<key>type</key>
+				<string>एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>08:01 PM</string>
+				<key>dropTime</key>
+				<string>
+10:51 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम</string>
+					<string>08:02 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>अक्षरधाम</string>
+					<string>08:51 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>विपरीत आनंद विहार मेट्रो</string>
+					<string>09:11 pm</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>Name</key>
+		<string>बरसाना</string>
+		<key>byRoad</key>
+		<string>बरसाना दिल्ली-आगरा राष्ट्रीय राजमार्ग 2 पर स्थित है। विभिन्न बसों आगरा और दिल्ली के बीच चलता है। मंदिर 7 किमी दूर है। दूर राष्ट्रीय राजमार्ग से। मंदिर के लिए हो रही है बहुत आसान के रूप में वहाँ अक्सर टेम्पो और रिक्शा दिन भर में उपलब्ध हैं। मथुरा सिर्फ 12 किमी दूर है। अक्सर बसों, टेम्पो और टैक्सियां मथुरा और वृंदावन के बीच चलती है।</string>
+		<key>byAir</key>
+		<string>निकटतम हवाई अड्डा आगरा बरसाना से सिर्फ 102 किमी दूर है। निकटतम अंतरराष्ट्रीय हवाई अड्डे के दिल्ली, जो प्रमुख एयरलाइनों के साथ दुनिया में लगभग हर महत्वपूर्ण शहर से जुड़ा है। ऐसे में दिल्ली, मुंबई, बेंगलूर, चेन्नई और आदि के रूप में भारत के अन्य महत्वपूर्ण पर्यटन स्थलों के लिए नियमित उड़ानें हैं</string>
+		<key>byTrain</key>
+		<string>बरसाना के लिए निकटतम रेलवे स्टेशन 10 किलोमीटर की दूरी पर कोसी कलां है। हालांकि मथुरा 50 किमी की दूरी पर है जहां कई सुपरफास्ट ट्रेनों द्वारा बंद करो। कोसी कलां मथुरा और उत्तर मध्य रेलवे के ब्रॉड गेज रेलवे लाइन पर हैं।</string>
+		<key>about</key>
+		<string>यह मथुरा के पास एक गांव है। देवता के संबंध में हिंदू परंपरा से कहानियां, कृष्णा संकेत मिलता है कि अपने पसंदीदा गोपी, राधा के रूप में जाना जाता है, बरसाना में उसके बचपन बिताया। शहर इस प्रकार वैष्णव, और विशेष रूप गौड़ीय वैष्णव संप्रदाय के कई अनुयायियों के लिए तीर्थयात्रा के एक साइट है जो राधा आदर के रूप में सबसे सक्षम देवी, या शक्ति की पूजा है।
+शहर जिंदा आता मार्च के आसपास हर होली, जब लट्ठमार होली यहाँ खेला जाता है। सब से अधिक पर्यटक क्या वास्तव में एक उल्लेखनीय दृष्टि है के लिए शहर के झुंड। अब बरसाना की होली राष्ट्रीय धरोहर में शामिल किया गया है और विश्व धरोहर में शामिल करने का प्रस्ताव किया जा रहा है। यह 182 मीटर की औसत ऊंचाई है। यह गोवर्धन से 20 किलोमीटर और मथुरा से 40 किलोमीटर की दूरी पर है। यह बृज भूमि में सबसे प्रसिद्ध और धार्मिक केंद्र में से एक है। बरसाना होली के एक उत्कट रूप लाठ-Maar होली के रूप में जाना जाता है के लिए जाना जाता है। यह एक जुलूस राधारानी मंदिर से नीचे आने का रूप ले लेता है। नंद गांव से पुरुषों कृष्णा नाम से कार्य करने, बरसाना की महिलाओं, जो Radha- भगवान कृष्ण की पत्नी की भूमिका निभाने के साथ होली खेलने के लिए आते हैं। किंवदंती है कि राधा और गोपियों उसके दोस्त एक स्नान घाट पर अपने कपड़े चोरी के लिए कृष्णा को सबक सिखाने का फैसला यह किया है। अनुकूल बदले की याद में अच्छी तरह तेल से सना हुआ लाठियों के साथ पुरुषों में बरसाना के प्रभार से महिलाओं, जो रंग और myrrah के बादलों के बीच चमड़े ढाल का उपयोग करते हुए वार से खुद को ढाल।</string>
+		<key>lat</key>
+		<real>27.6464</real>
+		<key>long</key>
+		<real>77.3768</real>
+		<key>cityImages</key>
+		<array>
+			<string>city_history4</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>trainDetail</key>
+		<array>
+			<dict>
+				<key>sNo</key>
+				<string>11112</string>
+				<key>name</key>
+				<string>सुशासन एक्सप्रेस</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:00 am</string>
+				<key>arriveTime</key>
+				<string>03:00 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अटारी - जबलपुर स्पेशल किराया स्पेशल</string>
+				<key>sNo</key>
+				<string>01708</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:00 am</string>
+				<key>arriveTime</key>
+				<string>04:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उधमपुर - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19806</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>03:40 am</string>
+				<key>arriveTime</key>
+				<string>06:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>छत्तीसगढ़ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18238</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>04:40 am</string>
+				<key>arriveTime</key>
+				<string>06:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 15m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंजाब मेल</string>
+				<key>sNo</key>
+				<string>12138</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>07:37 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 22m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली के हजरत निजामुद्दीन - कोटा स्पेशल किराया एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09810</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>08:05 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - सी एस एम टी कोल्हापुर एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12148</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मिलेनियम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12646</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - मैसूर स्वर्ण जयंती एक्सप्रेस एस एफ</string>
+				<key>sNo</key>
+				<string>12782</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - विशाखापट्टनम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - त्रिवेंद्रम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12644</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>नई दिल्ली - भोपाल शताब्दी एक्सप्रेस हबीबगंज</string>
+				<key>sNo</key>
+				<string>12002</string>
+				<key>type</key>
+				<string>Shatabdi एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>06:00 am</string>
+				<key>arriveTime</key>
+				<string>07:23 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उद्यान आभा तूफान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>13008</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:00 am</string>
+				<key>arriveTime</key>
+				<string>10:07 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>ताज एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12280</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:05 am</string>
+				<key>arriveTime</key>
+				<string>08:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पुरानी दिल्ली - आगरा कैंट। पैसेंजर (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>51902</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:30 am</string>
+				<key>arriveTime</key>
+				<string>11:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 55m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोल्डन टेंपल मेल (पी टी)</string>
+				<key>sNo</key>
+				<string>12904</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:35 am</string>
+				<key>arriveTime</key>
+				<string>09:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हीराकुंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18508</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>08:10 am</string>
+				<key>arriveTime</key>
+				<string>10:33am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कोंगु एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12648</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>समता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12808</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मंगला लक्षद्वीप एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12618</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>depTime</key>
+				<string>09:15 am</string>
+				<key>arriveTime</key>
+				<string>11:08 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अमृतसर-इंदौर द्वि साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19326</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>11:53 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - तिरुवनंतपुरम एक्सप्रेस (कोट्टायम के माध्यम से)</string>
+				<key>sNo</key>
+				<string>22654</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>12:10 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>झेलम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11078</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:15 am</string>
+				<key>arriveTime</key>
+				<string>12:35 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - मुंबई बांद्रा (टी) विशेष किराया एसी एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09022</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:30 am</string>
+				<key>arriveTime</key>
+				<string>12:55 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>केरल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12626</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>11:25 am</string>
+				<key>arriveTime</key>
+				<string>01:18 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कलिंग उत्कल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>18478</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>12:10 pm</string>
+				<key>arriveTime</key>
+				<string>01:15 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पाताल कोट एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14624</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:20 pm</string>
+				<key>arriveTime</key>
+				<string>03:17 pm</string>
+				<key>distance</key>
+				<string>154</string>
+				<key>travelTime</key>
+				<string>2h 57m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली सराय रोहिल्ला - अशोक नगर विशेष (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>04906</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:30 am</string>
+				<key>arriveTime</key>
+				<string>03:10 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - कोटा जनशताब्दी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12060</string>
+				<key>type</key>
+				<string>Jan Shatabdiएक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:15 pm</string>
+				<key>arriveTime</key>
+				<string>03:15 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>सचखंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12716</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:20 pm</string>
+				<key>arriveTime</key>
+				<string>05:30 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>फिरोजपुर - मुंबई सेंट्रल जनता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19024</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:25 am</string>
+				<key>arriveTime</key>
+				<string>05:00 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 35m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>देहरादून-इंदौर एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14318</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उज्जैनी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14310</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 05m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गुजरात संपर्क क्रांति एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12918</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:55 pm</string>
+				<key>arriveTime</key>
+				<string>04:03 pm</string>
+				<key>distance</key>
+				<string>134km</string>
+				<key>travelTime</key>
+				<string>2h 08m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Thu</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>श्रीधाम एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12191</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:05 pm</string>
+				<key>arriveTime</key>
+				<string>04:08 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 3m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अंडमान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>16032</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>05:03pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - जबलपुर (दुर्गावती) एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11450</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>07:03 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>06:00 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोवा एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पर्ची / दिल्ली हजरत निजामुद्दीन-लोंडा-हुबली गोवा लिंक एक्सप्रेस (17306) (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - इंदौर साप्ताहिक एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>22942</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>Safdargung/DSJ</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>139 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+		</array>
+		<key>busDetail</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>भारत प्रभाव टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:00 AM</string>
+				<key>dropTime</key>
+				<string>10:00 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>करोल बाग मेट्रो</string>
+					<string>06:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>जयनगर 4 ब्लॉक तमिलनाडु</string>
+					<string>06:30 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>मादीवाला</string>
+					<string>06:45 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>राष्ट्रीय अवकाश</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:55 AM</string>
+				<key>dropTime</key>
+				<string>10:20 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम मेट्रो स्टेशन</string>
+					<string>07:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>आईएनए मेट्रो स्टेशन</string>
+					<string>07:15 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>आश्रम चौक</string>
+					<string>07:25 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंवार टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>गैर एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>02:00 PM</string>
+				<key>dropTime</key>
+				<string>05:00 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आनंद विहार</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>कल्पना छुट्टी आनंद विहार के पास यात्रा</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string></string>
+					<string></string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>आर एस यादव ट्रेवल्स</string>
+				<key>type</key>
+				<string>एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>08:01 PM</string>
+				<key>dropTime</key>
+				<string>
+10:51 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम</string>
+					<string>08:02 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>अक्षरधाम</string>
+					<string>08:51 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>विपरीत आनंद विहार मेट्रो</string>
+					<string>09:11 pm</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>Name</key>
+		<string>गोकुल</string>
+		<key>byRoad</key>
+		<string>गोकुल दिल्ली-आगरा राष्ट्रीय राजमार्ग 2 पर स्थित है। विभिन्न बसों आगरा और दिल्ली के बीच चलता है। मंदिर 7 किमी दूर है। दूर राष्ट्रीय राजमार्ग से। मंदिर के लिए हो रही है बहुत आसान के रूप में वहाँ अक्सर टेम्पो और रिक्शा दिन भर में उपलब्ध हैं। मथुरा सिर्फ 12 किमी दूर है। अक्सर बसों, टेम्पो और टैक्सियां मथुरा और वृंदावन के बीच चलती है।</string>
+		<key>byAir</key>
+		<string>निकटतम हवाई अड्डा आगरा गोकुल से सिर्फ 59 किमी दूर है। निकटतम अंतरराष्ट्रीय हवाई अड्डे के दिल्ली, जो प्रमुख एयरलाइनों के साथ दुनिया में लगभग हर महत्वपूर्ण शहर से जुड़ा है। ऐसे में दिल्ली, मुंबई, बेंगलूर, चेन्नई और आदि के रूप में भारत के अन्य महत्वपूर्ण पर्यटन स्थलों के लिए नियमित उड़ानें हैं</string>
+		<key>byTrain</key>
+		<string>प्रमुख रेलवे स्टेशन के पास दिल्ली-चेन्नई और दिल्ली-मुंबई मुख्य लाइन पर मथुरा है। कई एक्सप्रेस और पैसेंजर ट्रेनों को दिल्ली, मुंबई, पुणे, चेन्नई, बेंगलूर, हैदराबाद, कोलकाता, ग्वालियर, देहरादून, इंदौर, और आगरा जैसे भारत के अन्य प्रमुख शहरों से मथुरा कनेक्ट। हालांकि वृंदावन अपने आप में एक रेलवे स्टेशन है। एक रेल बस वृंदावन और मथुरा के एक दिन में 5 दौर के बीच चलती है।</string>
+		<key>about</key>
+		<string>जब हम ब्रज भूमि के बारे में बात करते हैं, हम भी गोकुल, जहां भगवान कृष्ण ने अपने बचपन बिताया और उनके गोपियों के साथ बाल लीला किया था के बारे में सोचते हैं। नंदीग्राम भी कभी कभी गोकुल के रूप में जाना जाता है। सुंदर उद्यान और पेड़ों से घिरा है, इस जगह का अपना इतिहास है। यह माना जाता है कि भगवान कृष्ण वृंदावन को गोकुल से यात्रा करने के लिए राधा से मिलने के लिए इस्तेमाल किया।
+
+आज गोकुल नंद राय के घर दर्शाती है और वहाँ स्थानों भगवान कृष्ण के बचपन के महाकाव्य विवरण देता है। कई मंदिरों, गौशाला, आचार्यों, और वर्तमान भक्तों के साथ, इस जगह जो भक्ति से भरा हुआ है और प्यार है कि हम इस भौतिकवादी दुनिया में आश्चर्य है।</string>
+		<key>lat</key>
+		<real>27.4362</real>
+		<key>long</key>
+		<real>77.7209</real>
+		<key>cityImages</key>
+		<array>
+			<string>city_history5</string>
+			<string>city_history_1.jpg</string>
+			<string>city_history_2.jpg</string>
+			<string>city_history_3.jpg</string>
+			<string>city_history_4.jpg</string>
+			<string>city_history_5.jpg</string>
+			<string>city_history_6.jpg</string>
+			<string>city_history_7.jpg</string>
+			<string>city_history_8.jpg</string>
+			<string>city_history_9.jpg</string>
+			<string>city_history_10.jpg</string>
+			<string>city_history_11.jpg</string>
+			<string>city_history_12.jpg</string>
+			<string>city_history_13.jpg</string>
+			<string>city_history_14.jpg</string>
+			<string>city_history_15.jpg</string>
+			<string>city_history_16.jpg</string>
+			<string>city_history_17.jpg</string>
+			<string>city_history_18.jpg</string>
+		</array>
+		<key>cityVideos</key>
+		<array/>
+		<key>trainDetail</key>
+		<array>
+			<dict>
+				<key>sNo</key>
+				<string>11112</string>
+				<key>name</key>
+				<string>सुशासन एक्सप्रेस</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:00 am</string>
+				<key>arriveTime</key>
+				<string>03:00 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अटारी - जबलपुर स्पेशल किराया स्पेशल</string>
+				<key>sNo</key>
+				<string>01708</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:00 am</string>
+				<key>arriveTime</key>
+				<string>04:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उधमपुर - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19806</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>03:40 am</string>
+				<key>arriveTime</key>
+				<string>06:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>छत्तीसगढ़ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18238</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>04:40 am</string>
+				<key>arriveTime</key>
+				<string>06:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 15m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंजाब मेल</string>
+				<key>sNo</key>
+				<string>12138</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>07:37 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 22m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली के हजरत निजामुद्दीन - कोटा स्पेशल किराया एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09810</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:15 am</string>
+				<key>arriveTime</key>
+				<string>08:05 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - सी एस एम टी कोल्हापुर एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12148</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मिलेनियम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12646</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - मैसूर स्वर्ण जयंती एक्सप्रेस एस एफ</string>
+				<key>sNo</key>
+				<string>12782</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 1m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - विशाखापट्टनम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - त्रिवेंद्रम स्वर्ण जयंती एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12644</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>05:55 am</string>
+				<key>arriveTime</key>
+				<string>07:56 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>नई दिल्ली - भोपाल शताब्दी एक्सप्रेस हबीबगंज</string>
+				<key>sNo</key>
+				<string>12002</string>
+				<key>type</key>
+				<string>Shatabdi एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>06:00 am</string>
+				<key>arriveTime</key>
+				<string>07:23 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उद्यान आभा तूफान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>13008</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:00 am</string>
+				<key>arriveTime</key>
+				<string>10:07 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 01m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>ताज एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12280</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:05 am</string>
+				<key>arriveTime</key>
+				<string>08:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पुरानी दिल्ली - आगरा कैंट। पैसेंजर (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>51902</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>07:30 am</string>
+				<key>arriveTime</key>
+				<string>11:25 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 55m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोल्डन टेंपल मेल (पी टी)</string>
+				<key>sNo</key>
+				<string>12904</string>
+				<key>type</key>
+				<string>Mail</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>07:35 am</string>
+				<key>arriveTime</key>
+				<string>09:55 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हीराकुंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>18508</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>08:10 am</string>
+				<key>arriveTime</key>
+				<string>10:33am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 23m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कोंगु एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12648</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>समता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12808</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>08:35 am</string>
+				<key>arriveTime</key>
+				<string>10:20 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>मंगला लक्षद्वीप एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12618</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>depTime</key>
+				<string>09:15 am</string>
+				<key>arriveTime</key>
+				<string>11:08 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अमृतसर-इंदौर द्वि साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19326</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>11:53 am</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>हजरत निजामुद्दीन - तिरुवनंतपुरम एक्सप्रेस (कोट्टायम के माध्यम से)</string>
+				<key>sNo</key>
+				<string>22654</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:05 am</string>
+				<key>arriveTime</key>
+				<string>12:10 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>झेलम एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11078</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:15 am</string>
+				<key>arriveTime</key>
+				<string>12:35 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - मुंबई बांद्रा (टी) विशेष किराया एसी एस एफ स्पेशल</string>
+				<key>sNo</key>
+				<string>09022</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>10:30 am</string>
+				<key>arriveTime</key>
+				<string>12:55 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 25m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>केरल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12626</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>11:25 am</string>
+				<key>arriveTime</key>
+				<string>01:18 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>1h 53m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कलिंग उत्कल एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>18478</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>12:10 pm</string>
+				<key>arriveTime</key>
+				<string>01:15 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पाताल कोट एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14624</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:20 pm</string>
+				<key>arriveTime</key>
+				<string>03:17 pm</string>
+				<key>distance</key>
+				<string>154</string>
+				<key>travelTime</key>
+				<string>2h 57m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली सराय रोहिल्ला - अशोक नगर विशेष (अनारक्षित)</string>
+				<key>sNo</key>
+				<string>04906</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>Delhi Sarai Rohilla</string>
+				<key>depTime</key>
+				<string>12:30 am</string>
+				<key>arriveTime</key>
+				<string>03:10 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>दिल्ली हजरत निजामुद्दीन - कोटा जनशताब्दी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12060</string>
+				<key>type</key>
+				<string>Jan Shatabdiएक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:15 pm</string>
+				<key>arriveTime</key>
+				<string>03:15 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 20m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>सचखंड एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12716</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:20 pm</string>
+				<key>arriveTime</key>
+				<string>05:30 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 10m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>फिरोजपुर - मुंबई सेंट्रल जनता एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19024</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>01:25 am</string>
+				<key>arriveTime</key>
+				<string>05:00 am</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 35m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>देहरादून-इंदौर एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14318</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 5m</string>
+				<key>days</key>
+				<array>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>उज्जैनी एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>14310</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:40 pm</string>
+				<key>arriveTime</key>
+				<string>03:45 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>2h 05m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Wed</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गुजरात संपर्क क्रांति एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12918</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>01:55 pm</string>
+				<key>arriveTime</key>
+				<string>04:03 pm</string>
+				<key>distance</key>
+				<string>134km</string>
+				<key>travelTime</key>
+				<string>2h 08m</string>
+				<key>days</key>
+				<array>
+					<string>Tue</string>
+					<string>Thu</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>श्रीधाम एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>12191</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:05 pm</string>
+				<key>arriveTime</key>
+				<string>04:08 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 3m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>अंडमान एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>16032</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>05:03pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Wed</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - जबलपुर (दुर्गावती) एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>11450</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>07:03 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>2h 48m</string>
+				<key>days</key>
+				<array>
+					<string>Thu</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>कटरा - कोटा साप्ताहिक एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>19804</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>नई दिल्ली</string>
+				<key>depTime</key>
+				<string>02:15 pm</string>
+				<key>arriveTime</key>
+				<string>06:00 pm</string>
+				<key>distance</key>
+				<string>141 km</string>
+				<key>travelTime</key>
+				<string>3h 45m</string>
+				<key>days</key>
+				<array>
+					<string>Mon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>गोवा एक्सप्रेस (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>एक्सप्रेस</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पर्ची / दिल्ली हजरत निजामुद्दीन-लोंडा-हुबली गोवा लिंक एक्सप्रेस (17306) (पीटी)</string>
+				<key>sNo</key>
+				<string>12780</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>हजरत निजामुद्दीन</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>134 km</string>
+				<key>travelTime</key>
+				<string>1h 43m</string>
+				<key>days</key>
+				<array>
+					<string>Sun</string>
+					<string>Mon</string>
+					<string>Tue</string>
+					<string>Wed</string>
+					<string>Thu</string>
+					<string>Fri</string>
+					<string>Sat</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>जम्मू तवी - इंदौर साप्ताहिक एस एफ एक्सप्रेस</string>
+				<key>sNo</key>
+				<string>22942</string>
+				<key>type</key>
+				<string>सुपर फास्ट</string>
+				<key>from</key>
+				<string>Safdargung/DSJ</string>
+				<key>depTime</key>
+				<string>03:00 pm</string>
+				<key>arriveTime</key>
+				<string>06:43 pm</string>
+				<key>distance</key>
+				<string>139 km</string>
+				<key>travelTime</key>
+				<string>2h 50m</string>
+				<key>days</key>
+				<array>
+					<string>Wed</string>
+				</array>
+			</dict>
+		</array>
+		<key>busDetail</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>भारत प्रभाव टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:00 AM</string>
+				<key>dropTime</key>
+				<string>10:00 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>करोल बाग मेट्रो</string>
+					<string>06:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>जयनगर 4 ब्लॉक तमिलनाडु</string>
+					<string>06:30 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>मादीवाला</string>
+					<string>06:45 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>राष्ट्रीय अवकाश</string>
+				<key>type</key>
+				<string>एसी सीटर</string>
+				<key>brdingTime</key>
+				<string>06:55 AM</string>
+				<key>dropTime</key>
+				<string>10:20 AM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम मेट्रो स्टेशन</string>
+					<string>07:00 am</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>आईएनए मेट्रो स्टेशन</string>
+					<string>07:15 am</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>आश्रम चौक</string>
+					<string>07:25 am</string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>पंवार टूर एंड ट्रैवल्स</string>
+				<key>type</key>
+				<string>गैर एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>02:00 PM</string>
+				<key>dropTime</key>
+				<string>05:00 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आनंद विहार</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>कल्पना छुट्टी आनंद विहार के पास यात्रा</string>
+					<string>02:00 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string></string>
+					<string></string>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>आर एस यादव ट्रेवल्स</string>
+				<key>type</key>
+				<string>एसी स्लीपर सीटर</string>
+				<key>brdingTime</key>
+				<string>08:01 PM</string>
+				<key>dropTime</key>
+				<string>
+10:51 PM</string>
+				<key>brdingPoint1</key>
+				<array>
+					<string>आर के आश्रम</string>
+					<string>08:02 pm</string>
+				</array>
+				<key>brdingPoint2</key>
+				<array>
+					<string>अक्षरधाम</string>
+					<string>08:51 pm</string>
+				</array>
+				<key>brdingPoint3</key>
+				<array>
+					<string>विपरीत आनंद विहार मेट्रो</string>
+					<string>09:11 pm</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

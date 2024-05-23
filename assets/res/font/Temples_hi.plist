@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>बांके बिहारी मंदिर</string>
+		<key>description</key>
+		<string>इस बांके बिहारी मंदिर स्वामी हरिदास (द्वापर में ललिता सखी), प्रसिद्ध गायक तानसेन की एक गुरु द्वारा स्थापित किया गया था। एक बार अपने चेलों के अनुरोध पर स्वामी हरिदास जी वृंदावन में निधिवन में निम्नलिखित कविता गाया &quot;माई री सहज ज़ोरी प्रगट  भाई जू ना की बजी गौर श्याम घन दामिनी जैसें। प्रथम हुन आहुति एबी हुन आगें हुन रहिहाई तरिहाई टाइसैं .. आंग आंग की उजराीइ सुघराइ चतुराई सुंदरता आइसैं .. श्री हरिदास की स्वामी श्यामा कुंजबिहारी सैम की .. &quot;कविता स्वर्गीय दंपति श्यामा श्याम (राधा कृष्णा) उसे और उसके भक्तों के सामने और श्री स्वामी के अनुरोध पर दिखाई दिया गायन पर युगल जी एक में मिला दिया और बांके बिहारी की मूर्ति वहाँ (एक ही मूर्ति मंदिर में देखा है) दिखाई दिया। मूर्ति निधिवन में स्थापित किया गया था।</string>
+		<key>address</key>
+		<string>बिहारी जी गेट नहीं। 2 प्रवेश ( वापस डोर ), बांके बिहारी कॉलोनी , वृंदावन , उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.579822</real>
+		<key>longitude</key>
+		<real>77.6905139</real>
+		<key>summerM</key>
+		<string>07:55 am से  11:55 pm</string>
+		<key>summerE</key>
+		<string>05:30 pm से  09:30 pm</string>
+		<key>winterM</key>
+		<string>08:55 am से  12:55 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm से  08:30 pm</string>
+		<key>aarti</key>
+		<string>08:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_0</string>
+			<string>temple_1.jpg</string>
+			<string>temple_2.jpg</string>
+			<string>temple_3.jpeg</string>
+			<string>temple_4.jpg</string>
+			<string>temple_5.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_0.png</string>
+				<key>video</key>
+				<string>video_0.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_1.png</string>
+				<key>video</key>
+				<string>video_1.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>इस्कॉन वृंदावन</string>
+		<key>description</key>
+		<string>इस्कॉन (इस्कॉन) 1966 इस्कॉन में पश्चिम में उनकी देवी अनुग्रह एसी भक्तिवेदांत स्वामी (श्रील प्रभुपाद) द्वारा स्थापित किया गया था गौड़ीय वैष्णव के अंतर्गत आता है, एक भक्ति भगवद गीता की शिक्षाओं पर आधारित परंपरा (बंगाल को संदर्भित करता है) और श्रीमद भागवत -।
+उपदेशों और इस्कॉन की प्रथाओं सिखाया जाता है और 15 वीं सदी के संत और धार्मिक सुधारक श्री चैतन्य महाप्रभु (1486-1532), उसके भाई नित्यानंद प्रभु और उसके सिद्धांत छह अन्य सहयोगियों के द्वारा संहिताबद्ध किया गया, वृन्दावन (सनातन, रूपा, जीव, गोपाल के गोस्वामियों भट्टा, रघुनाथ दासा और रघुनाथ भट्टा।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, रमन reiti , वृंदावन , उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5720812</real>
+		<key>longitude</key>
+		<real>77.6774386</real>
+		<key>summerM</key>
+		<string>04:00 am से  12:45 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm से  08:30 pm</string>
+		<key>winterM</key>
+		<string>04:00 am से  12:45 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm से  08:15 pm</string>
+		<key>aarti</key>
+		<string>07:00 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_1</string>
+			<string>temple_2.jpg</string>
+			<string>temple_3.jpg</string>
+			<string>temple_4.jpg</string>
+			<string>temple_5.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_1.png</string>
+				<key>video</key>
+				<string>video_1.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_2.png</string>
+				<key>video</key>
+				<string>video_2.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>प्रेम मंदिर</string>
+		<key>description</key>
+		<string>प्रेम मंदिर में एक धार्मिक और आध्यात्मिक वृंदावन के बाहरी इलाके में एक 54 एकड़ साइट पर स्थित जटिल है, मथुरा श्री कृष्ण को समर्पित नवीनतम मंदिरों में से एक है । मंदिर के ढांचे आध्यात्मिक गुरु कृपालु महाराज द्वारा स्थापित किया गया था । मुख्य संगमरमर में निर्मित संरचना अविश्वसनीय रूप से सुंदर लग रहा है और एक शैक्षिक स्मारक है कि सनातन धर्म का सही इतिहास को दर्शाता है। श्री कृष्ण और उनके अनुयायियों भगवान के अस्तित्व के आसपास के महत्वपूर्ण घटनाओं का चित्रण के आंकड़े मुख्य मंदिर को कवर किया।
+नींव पत्थर जनवरी 2001 को रखी और उद्घाटन समारोह 17 को 15 फरवरी से जगह ले ली फरवरी 2012 मंदिर 17 फरवरी को जनता के लिए खोला गया था। लागत 150 करोड़ रूपए ( 23 मिलियन $ ) था। इष्टदेव श्री राधा गोविंद ( राधा ) और श्री सीता राम कर रहे हैं। एक 73,000 वर्ग फुट, स्तंभ कम, गुंबद के आकार का सत्संग हॉल प्रेम मंदिर, जो एक समय में 25,000 लोगों को समायोजित करेगा करने के लिए अगले निर्माण किया जा रहा है।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, रमन reiti , वृंदावन , उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5720522</real>
+		<key>longitude</key>
+		<real>77.67210609</real>
+		<key>summerM</key>
+		<string>08:30 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm से  08:30 pm</string>
+		<key>winterM</key>
+		<string>08:30 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm से  08:30 pm</string>
+		<key>aarti</key>
+		<string>11:45 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_2</string>
+			<string>temple_3.jpg</string>
+			<string>temple_4.JPG</string>
+			<string>temple_5.JPG</string>
+			<string>temple_6.jpg</string>
+			<string>temple_7.jpg</string>
+			<string>temple_8.jpg</string>
+			<string>temple_9.jpg</string>
+			<string>temple_10.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_2.png</string>
+				<key>video</key>
+				<string>video_2.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_3.png</string>
+				<key>video</key>
+				<string>video_3.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>वृंदावन चंद्रोदय मंदिर</string>
+		<key>description</key>
+		<string>वृंदावन चंद्रोदय मंदिर वृंदावन, मथुरा, भारत में निर्माणाधीन दुनिया का सबसे बड़ा मंदिर है। ₹ 300 करोड़ (US $ 45 मिलियन) की कीमत पर इस्कॉन द्वारा दुनिया में सबसे अधिक खर्च निर्मित मंदिर में से एक होगा। मंदिर के बारे में 5 एकड़ जमीन का एक निशान है और लगभग 700 फीट (213 मीटर या 70 मंजिलों) की ऊंचाई और 5,40,000 वर्ग। फुट का एक निर्मित क्षेत्र से उगता है। मंदिर त्योहारों और धार्मिक के साथ जीवंत करने की योजना है साल भर की गतिविधियों। एक हमशक्ल वृंदावन के सब्ज़ जंगलों के इस भव्य मंदिर के चारों ओर निर्मित किया जाएगा। यह रसीला वनस्पति, हरी चराई, फल असर पेड़ों की सुंदर खा़का, फूल लादेन पक्षी गाने द्वारा स्तुतिगान लताओं, साफ पानी झीलों की किस्मों के साथ एक विशाल 26 एकड़ में फैला हुआ होगा, यह ब्रज के बारह जंगलों (द्वादशकना) से मिलकर बनता है, सभी श्रीमदभागवतं और भगवान श्री कृष्ण के अन्य स्रोत पुस्तकों में वर्णन से निर्मित - - वृंदावन में कृष्ण के काल के लिए आगंतुकों के परिवहन के लिए कमल और गेंदे और झरने है कि छोटे कृत्रिम छोटी पहाड़ियों से हुई बात के साथ। परियोजना भूमि की 62 एकड़ जमीन में स्थापित किया जाता है और पार्किंग और एक हेलिपैड के लिए 12 एकड़ जमीन शामिल होंगे।
+            वृंदावन चंद्रोदय मंदिर सिर्फ ठोस, पत्थर और कांच का एक और पवित्र भवन नहीं है। यह परियोजना इस देश के भविष्य को आकार देने में एक बड़ी भूमिका निभाने के लिए समर्पित है। वृंदावन चंद्रोदय मंदिर केवल भगवान श्री कृष्ण की पूजा के लिए एक मंदिर के घर नहीं होगा, लेकिन यह भी भगवद गीता और श्रीमद भागवत का गहरा संदेश है, एक आधुनिक संदर्भ में दिया प्रसार के लिए एक केंद्र बन जाएगा। आधुनिक और पारंपरिक भारतीय मंदिर वास्तुकला का एक संलयन - - मंदिर परिसर का डिजाइन इस आकांक्षा का प्रतीक है, कृष्ण के स्रोत किताबों से शाश्वत ज्ञान पेश करने के लिए, एक ही रास्ता है कि आधुनिक दिन के लिए प्रासंगिक है।
+            वृंदावन चंद्रोदय मंदिर दुनिया में एक सबसे बड़ा मंदिर है और 300 करोड़ की लागत से निर्माण किया है। यह हिंदू मंदिर भारत में प्रसिद्ध हिंदू मंदिरों में से एक है। मंदिर की ऊंचाई 700 फीट है और क्षेत्र को कवर 5, 40000 वर्ग फीट है। के बारे में 5 एकड़ जमीन का पदचिह्न है। 26 एकड़ वनस्पति की विभिन्न किस्मों, हरी चराई, फल असर पेड़ों की सुंदर खा़का, फूल लादेन लताओं पक्षी गाने, कमल और गेंदे और झरने है कि छोटे कृत्रिम छोटी पहाड़ियों से हुई बात के साथ साफ पानी झीलों द्वारा स्तुतिगान के साथ बारह जंगलों से मिलकर बनता है।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, सुंरख बांगड़ , उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5677756</real>
+		<key>longitude</key>
+		<real>77.644932</real>
+		<key>summerM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm से  8:00 pm</string>
+		<key>winterM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm से  8:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_3</string>
+			<string>temple_4.jpg</string>
+			<string>temple_5.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_3.png</string>
+				<key>video</key>
+				<string>video_3.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>राधा रमन मंदिर</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी - रंगजी मंदिर रोड, केशी घाट, वृंदावन, उत्तर प्रदेश</string>
+		<key>description</key>
+		<string>राधा रमन श्रीमती राधा का प्रेमी ( रमण ) का अर्थ है । मंदिर 500 साल पहले गोपाल भट्ट गोस्वामी द्वारा स्थापित किया गया था । तीस की उम्र में, गोपाल भट्ट गोस्वामी वृन्दावन के लिए आया था । चैतन्य महाप्रभु के लापता होने के बाद गोपाल भट्ट गोस्वामी प्रभु से तीव्र जुदाई महसूस किया। जुदाई के कष्ट से अपने भक्त को राहत देने के लिए, भगवान ने स्वप्न में गोपाल भट्ट के निर्देश दिए &quot;तुम मेरे दर्शन तो नेपाल के लिए एक यात्रा करने के लिए चाहते हैं &quot;।</string>
+		<key>latitude</key>
+		<real>27.5855729</real>
+		<key>longitude</key>
+		<real>77.6991185</real>
+		<key>summerM</key>
+		<string>05:00 am से  12:15 pm</string>
+		<key>summerE</key>
+		<string>06:00 pm से  09:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am से  12:15 pm</string>
+		<key>winterE</key>
+		<string>06:00 pm से  09:00 pm</string>
+		<key>aarti</key>
+		<string>04:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_4</string>
+			<string>temple_5.jpg</string>
+			<string>temple_6.JPG</string>
+			<string>temple_7.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_4.png</string>
+				<key>video</key>
+				<string>video_4.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>5</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>पागल बाबा मंदिर</string>
+		<key>description</key>
+		<string>यह मंदिर एक संत देर पागल बाबा के अनुयायियों द्वारा बनाया गया था। भक्तों वे मंदिर जो इसके निर्माता की भावना की याद ताजा करती है भर में एक सकारात्मक खिंचाव महसूस कहते हैं। दस मंजिला उच्च पागल बाबा मंदिर वृंदावन में एक मील का पत्थर संरचना है। इसके चमकीला सफेद एक्सटीरियर जरूरत से ज्यादा सजी आंतरिक सज्जा के साथ पूरक हैं। मंदिर भूमि तल में अपनी कठपुतली प्रदर्शनी के लिए प्रसिद्ध है । कठपुतलियों भारत, महाभारत और रामायण के दो महान महाकाव्यों से अधिनियम दृश्यों खेलते हैं।</string>
+		<key>address</key>
+		<string>मथुरा-वृंदावन मार्ग, वात्सल्य ग्राम, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.559422</real>
+		<key>longitude</key>
+		<real>77.67956030000001</real>
+		<key>summerM</key>
+		<string>07:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm से  8:00 pm</string>
+		<key>winterM</key>
+		<string>07:00 am से  12:00 am</string>
+		<key>winterE</key>
+		<string>12:00 pm से  8:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_5</string>
+			<string>temple_6.jpg</string>
+			<string>temple_7.jpg</string>
+			<string>temple_8.JPG</string>
+			<string>temple_9.jpg</string>
+		</array>
+		<key>video</key>
+		<array>
+			<dict>
+				<key>thumb</key>
+				<string>video_5.png</string>
+				<key>video</key>
+				<string>video_5.mp4</string>
+			</dict>
+			<dict>
+				<key>thumb</key>
+				<string>video_6.png</string>
+				<key>video</key>
+				<string>video_6.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>6</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>श्री राधा दामोदर मंदिर</string>
+		<key>description</key>
+		<string>श्री श्री राधा दामोदर मंदिर एक प्राचीन मंदिर माधव गौड़ीय सम्प्रदाय द्वारा स्थापित किया गया है । यह वर्ष 1542 सी.ई. देवताओं यहाँ श्रील जीव गोस्वामी द्वारा परोसा गया में श्रील जीव गोस्वामी द्वारा स्थापित किया गया था । श्री राधा दामोदर देवताओं श्रील गोस्वामी, जो उन्हें अपने प्रिय शिष्य और सेवा और पूजा के लिए भतीजे - जीव गोस्वामी को दिया था द्वारा प्रकट किया गया। बाद में मुस्लिम राजा औरेंज़ेब , श्री राधा दामोदर कुछ समय और जब सामाजिक परिस्थितियां अनुकूल वर्ष में श्री धाम वृंदावन में वापस लाया गया था बन गया 1739 सी.ई. इन देवताओं यहाँ तब से परोसा गया है के लिए जयपुर के लिए रहे थे के आतंक की वजह से। जयपुर में हालांकि देवता का एक समकक्ष (प्रतिभु) स्थापित किया गया था।</string>
+		<key>address</key>
+		<string>परिक्रमा मार्ग , गौतम नगर, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.583743</real>
+		<key>longitude</key>
+		<real>77.695729</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_6</string>
+			<string>temple_7.jpg</string>
+			<string>temple_8.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>7</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>श्री रंगनाथ मंदिर</string>
+		<key>description</key>
+		<string>यह मंदिर , श्री रंगनाथ ( भगवान विष्णु ) को समर्पित के रूप में श्रीरंगम में प्रसिद्ध मंदिर है। इसके अलावा यहां की पूजा की लक्ष्मी , भगवान विष्णु की पत्नी है । वहाँ अल्वार्स (तमिलनाडु वैष्णव संतों) , सेसा - साई अनंत सायनाँ  भगवान विष्णु ने उस पर रिक्लाइनिंग के साथ, और तिरुपति बालाजी के लिए समर्पित लोगों सहित कई साइड मंदिर हैं।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी - रंगजी मंदिर रोड, केशी घाट, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5822443</real>
+		<key>longitude</key>
+		<real>77.7026398</real>
+		<key>summerM</key>
+		<string>05:00 am से  11:00 am</string>
+		<key>summerE</key>
+		<string>04:00 pm से  08:00 pm</string>
+		<key>winterM</key>
+		<string>05:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>03:00 pm से  07:00 pm</string>
+		<key>aarti</key>
+		<string>06:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_7</string>
+			<string>temple_8.jpg</string>
+			<string>temple_9.jpg</string>
+			<string>temple_10.jpg</string>
+			<string>temple_11.jpg</string>
+			<string>temple_12.jpg</string>
+			<string>temple_13.jpg</string>
+			<string>temple_14.jpg</string>
+			<string>temple_15.jpg</string>
+			<string>temple_16.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>8</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>गोविंदजी मंदिर</string>
+		<key>description</key>
+		<string>पाठक कोचिंग रोड, पत्थर पुरा, गोपीनाथ बाग, वृन्दावन खादर , उत्तर प्रदेश 281121 , भारत</string>
+		<key>address</key>
+		<string>श्री श्री राधा दामोदर मंदिर एक प्राचीन मंदिर माधव गौड़ीय सम्प्रदाय द्वारा स्थापित किया गया है । यह वर्ष 1542 सी.ई. देवताओं यहाँ श्रील जीव गोस्वामी द्वारा परोसा गया में श्रील जीव गोस्वामी द्वारा स्थापित किया गया था । श्री राधा दामोदर देवताओं श्रील गोस्वामी, जो उन्हें अपने प्रिय शिष्य और सेवा और पूजा के लिए भतीजे - जीव गोस्वामी को दिया था द्वारा प्रकट किया गया। बाद में मुस्लिम राजा औरेंज़ेब , श्री राधा दामोदर कुछ समय और जब सामाजिक परिस्थितियां अनुकूल वर्ष में श्री धाम वृंदावन में वापस लाया गया था बन गया 1739 सी.ई. इन देवताओं यहाँ तब से परोसा गया है के लिए जयपुर के लिए sifted रहे थे के आतंक की वजह से। जयपुर में हालांकि देवता का एक समकक्ष ( प्रतिभु ) स्थापित किया गया था।</string>
+		<key>latitude</key>
+		<real>27.581457</real>
+		<key>longitude</key>
+		<real>77.699529</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_8</string>
+			<string>temple_9.jpg</string>
+			<string>temple_10.jpg</string>
+			<string>temple_11.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>9</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>आस्था सखी मंदिर</string>
+		<key>description</key>
+		<string>मदन मोहन बांके बिहारी पथ, बांके बिहारी कॉलोनी , वृंदावन , उत्तर प्रदेश 281121 , भारत</string>
+		<key>address</key>
+		<string>मंदिर सदियों पुराना है और पहले भारतीय मंदिर है कि परमात्मा जोड़ी और उनके आष्टा सखी के लिए समर्पित है - राधा के आठ &apos;दोस्तों&apos; ने अच्छी तरह भगवान कृष्ण के साथ उसके प्यार खेलने में शामिल थे। आष्टा सखियों का उल्लेख रामायण और श्रीमद भागवत के प्राचीन ग्रंथों में पाए जाते हैं।
+
+मंदिर कहा जाता है - श्री राधा रास बिहारी अष्ट सखी मंदिर है और यह भगवान कृष्ण और राधारानी की दिव्य रास लीला के लिए घर है । यह बांके बिहारी मंदिर के बहुत पास में स्थित है।</string>
+		<key>latitude</key>
+		<real>27.5799502</real>
+		<key>longitude</key>
+		<real>77.6885319</real>
+		<key>summerM</key>
+		<string>05:30 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm से  08:30 pm</string>
+		<key>winterM</key>
+		<string>06:00 am से  12:30 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm से  08:30 pm</string>
+		<key>aarti</key>
+		<string>11:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_9</string>
+			<string>temple_10.JPG</string>
+			<string>temple_11.jpg</string>
+			<string>temple_12.jpg</string>
+			<string>temple_13.png</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>10</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>जयपुर मंदिर</string>
+		<key>description</key>
+		<string>राष्ट्रीय राजमार्ग 2 - भूतेश्वर रोड, किशोर पुरा, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>address</key>
+		<string>जयपुर मंदिर, वृंदावन वृंदावन में कई प्राथमिक आकर्षणों में से एक है । यह वृंदावन में सबसे लोकप्रिय मंदिरों में से एक है । वृंदावन में विभिन्न पवित्र स्थानों में से यह एक है जो भक्तों की एक बड़ी संख्या द्वारा अक्सर किया जाता है । लेकिन वृंदावन में नाम जयपुर मंदिर काफी बाजीगर है ; इसका कारण यह है कि, यह जयपुर के शहर में स्थित नहीं है लेकिन वृंदावन में स्थित है है ।</string>
+		<key>latitude</key>
+		<real>27.572492</real>
+		<key>longitude</key>
+		<real>77.69047500000001</real>
+		<key>summerM</key>
+		<string>05:05 am से  11:30 pm</string>
+		<key>summerE</key>
+		<string>05:40 pm से  09:30 pm</string>
+		<key>winterM</key>
+		<string>05:05 am से  11:30 pm</string>
+		<key>winterE</key>
+		<string>05:40 pm से  09:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_10</string>
+			<string>temple_11.jpg</string>
+			<string>temple_12.jpg</string>
+			<string>temple_13.jpg</string>
+			<string>temple_14.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>11</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>स्नेह बिहारी मंदिर</string>
+		<key>description</key>
+		<string>वृंदावन के दिल में स्थित एक प्रसिद्ध श्री राधा स्नेह बिहारी मंदिर, जो हरिदसिया संप्रधे पर आधारित है के रूप में जाना मंदिर है। लगभग 250 साल पहले वहाँ एक छोटा सा मंदिर हरिदसिया ग्रहस्ती परंपराओं, श्री स्नेहिलाल गोस्वामी, स्वामी श्री हरिदास की 10 वीं पीढ़ी गोस्वामी के एक विद्वान द्वारा स्थापित अस्तित्व। गोस्वामीजी एक सच्चे भक्त और विश्व प्रसिद्ध के एक अब्बास भोग सेवा अधिकारी, श्री बांके बिहारी मंदिर था।
+
+उसकी सेवा के दौरान एक दिन, वह एक मजबूत सिर्फ बिहारीजी की तरह एक बच्चे को प्राप्त करने की इच्छा थी। उसी रात, बिहारीजी अपने सपने में दिखाई दिया और उसकी गौशाला में एक क्षेत्र का पता लगाने के लिए कहा था। भूमि पर स्थित एक विशिष्ट काले रंग की गाय के नीचे एक क्षेत्र है। वहां उन्होंने कहा, वह एक बहुत ही विशेष आशीर्वाद जहां इन सभी भावनाओं को पूरा किया जाएगा मिल जाएगा। श्री स्नेहिलाल गोस्वामीजी जल्दी से उस स्थान पर चला गया और उसके आश्चर्य करने के लिए, कि बहुत से मौके पर, वह एक सुंदर &quot;श्री vigraha&quot; है कि श्री बांके बिहारीजी खुद के लिए समान था प्राप्त की। ठाकुर श्री राधा स्नेह बिहारीजी महाराज: इस दिव्य विग्रह नाम दिया गया था। इसके तुरंत बाद, एक छोटा सा मंदिर बनाया है और खुद को बिहारीजी के इस सुंदर रूप प्रतिष्ठापित करने के लिए उद्घाटन किया गया।
+
+श्री स्नेहिलाल गोस्वामीजी ठाकुरजी  की सेवा में कई वर्षों से रहते थे, दिन से दिन में उनकी कृपा का अनुभव। उन्होंने कहा कि एक दिन शांति से अपने शरीर को छोड़ दिया और एक उच्च निवास पर चला गया। इस बिंदु पर अपने भतीजे श्री गिरिधरलाल गोस्वामीजी महाराज, एक प्रसिद्ध संस्कृत विद्वान उसकी श्रीमद भागवत कथन के लिए मुख्य रूप से जाना जाता है। जिम्मेदारियों पर ले लिया मंदिर और भगवान की सेवा की निगरानी के लिए।</string>
+		<key>address</key>
+		<string>कालिया दाह बांके बिहारी रोड, बांके बिहारी कॉलोनी , वृंदावन , उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5787781</real>
+		<key>longitude</key>
+		<real>77.68969060000001</real>
+		<key>summerM</key>
+		<string>07:55 am से  11:55 pm</string>
+		<key>summerE</key>
+		<string>05:30 pm से  09:30 pm</string>
+		<key>winterM</key>
+		<string>08:55 am से  12:55 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm से  08:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_11</string>
+			<string>temple_12.JPG</string>
+			<string>temple_13.JPG</string>
+			<string>temple_14.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>12</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>शाह जी मंदिर</string>
+		<key>description</key>
+		<string>मंदिर भी शाह जी मंदिर के रूप में जाना जाता है, तेरा कम्बा (मुड़ स्तंभों ) मंदिर और साहा बिहारी लाल मंदिर .यह मुड़ खंभे मंदिर के रूप में जाना जाता है क्योंकि इस मंदिर में खंभे सुंदर सफेद मुड़ संगमरमर से बना रहे हैं। यह एक बहुत ही कलात्मक मंदिर है। यह उच्चतम गुणवत्ता सफेद संगमरमर से बना है। यह मंदिर 1835 में भाइयों द्वारा बनाया गया था: शाह कुंदन लाल और शाह फुंदन लाल ..</string>
+		<key>address</key>
+		<string>निधिवन मंदिर रोड, गौतम नगर, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5840535</real>
+		<key>longitude</key>
+		<real>77.6973778</real>
+		<key>summerM</key>
+		<string>08:00 am से  11:00 pm</string>
+		<key>summerE</key>
+		<string>05:30 pm से  07:30 pm</string>
+		<key>winterM</key>
+		<string>08:00 am से  11:00 pm</string>
+		<key>winterE</key>
+		<string>05:30 pm से  07:30 pm</string>
+		<key>aarti</key>
+		<string>05:30 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_12</string>
+			<string>temple_13.jpg</string>
+			<string>temple_14.jpg</string>
+			<string>temple_15.jpeg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>13</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>राधा वल्लभ मंदिर</string>
+		<key>description</key>
+		<string>राधा वल्लभ एक वैष्णव संप्रदाय जो वैष्णव धर्मशास्त्री हरिवंश महाप्रभु के साथ शुरू हुआ है । यह धर्मशास्त्र और हरिवंश के नेतृत्व राधा वल्लभ संप्रदाय बनाया। राधा वल्लभ धर्मशास्त्र राधारानी की भक्ति पर जोर दिया। श्री राधा वल्लभ वृन्दावन में जी मंदिर , मथुरा में एक ही उपदेश .इस मंदिर की एक बहुत प्रसिद्ध मंदिर है सबसे प्रसिद्ध 7 श्री राधा वल्लभ जी, श्री गोविन्द देव जी , श्री बांके बिहारी जी और चार अन्य लोगों सहित वृंदावन के ठाकुर के मंदिरों में से एक है । इस मंदिर में, वहाँ राधारानी का कोई देवता है, लेकिन एक ताज कृष्णा के बगल में रखा गया है उसकी उपस्थिति को दर्शाता है ।</string>
+		<key>address</key>
+		<string>राधा वल्लभ मंदिर रोड, गौतम नगर, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5806896</real>
+		<key>longitude</key>
+		<real>77.6915703</real>
+		<key>summerM</key>
+		<string>07:00 am से  12:00 am</string>
+		<key>summerE</key>
+		<string>06:30 pm से  09:00 pm</string>
+		<key>winterM</key>
+		<string>07:00 am से  12:00 am</string>
+		<key>winterE</key>
+		<string>06:30 pm से  08:30 pm</string>
+		<key>aarti</key>
+		<string>05:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_13</string>
+			<string>temple_14.jpg</string>
+			<string>temple_15.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>14</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>मदन मोहन मंदिर</string>
+		<key>description</key>
+		<string>मदन मोहन मंदिर के पास काली घाट मुल्तान के कपूर राम दास द्वारा बनाया गया था पर स्थित है। यह वृंदावन में सबसे पुराना मंदिर है। मंदिर निकट संत चैतन्य महाप्रभु के साथ जुड़ा हुआ है। भगवान मदन गोपाल की मूल छवि मुगल सम्राट औरंगजेब के शासन के दौरान सुरक्षित रखने के लिए राजस्थान में करौली को मंदिर से स्थानांतरित कर दिया गया था। आज, छवि की एक प्रतिकृति मंदिर में पूजा जाता है।
+अद्वैत आचार्य एक पुराने वात पेड़ के आधार पर मदन-मोहन की मूल देवता की खोज की, जब वह वृन्दावन का दौरा किया। उन्होंने अद्वैत वात, जो जगह है, जहां वह अपने भजन किया है पर इस देवता पाया। इस जगह सिर्फ पहाड़ी जिस पर मदन-मोहन मंदिर स्थित है नीचे है। उन्होंने कहा कि उनके शिष्य, पुरुसोत्तामा चौबे, जो तब सनातन गोस्वामी को देवता दिया मदन-मोहन की पूजा सौंपा। राधारानी और ललिता, जो पुरुसोत्तामा जेना, महाराजा प्रतापरुद्र के बेटे ने वृन्दावन के लिए भेजा गया हैं मदन-मोहन के साथ पूजा की। यह मंदिर बारीकी संत चैतन्य महाप्रभु के साथ जुड़ा हुआ है, एक साधु और 16 वीं सदी ... जो कलियुग के लौह युग में सुप्रीम भगवान कृष्ण के अवतार और पवित्र नामों का सामूहिक जप फैल रहा है में समाज सुधारक पूर्वी भारत में था।</string>
+		<key>address</key>
+		<string>परिक्रमा मार्ग , कालिया घाट, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5801855</real>
+		<key>longitude</key>
+		<real>77.68759849</real>
+		<key>summerM</key>
+		<string>06:00 am से  11:00 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm से  09:30 pm</string>
+		<key>winterM</key>
+		<string>07:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm से  08:00 pm</string>
+		<key>aarti</key>
+		<string>04:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_14</string>
+			<string>temple_15.jpg</string>
+			<string>temple_16.jpg</string>
+			<string>temple_17.jpg</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>15</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>राधा गोपीनाथ मंदिर</string>
+		<key>description</key>
+		<string>भक्तिवेदांत स्वामी - रंग जी मंदिर रोड, केशी घाट, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>address</key>
+		<string>औरंगजेब के उत्पीड़न के दौरान, गोपीनाथ जी, राधिका और जाह्नावा के मूल देवताओं को भी जयपुर के लिए एक साथ अन्य देवताओं के साथ रवाना हुए। प्रतिभु विग्रहस अब नंद कुमार वासु द्वारा निर्मित मंदिर में अध्यक्षता। जाह्नावा ठाकुरानी गोपीनाथ के बाईं ओर पर बैठा है, और ललिता सखी और राधिका के एक छोटे से देवता अपने अधिकार पर बैठे हैं। महाप्रभु श्री गौरसुन्दरा के देवता एक अलग कक्ष में है। 1632 ईस्वी में, मूल मंदिर रे सिंह, बीकानेर, राठौर वंश के महाराजा कल्याण माला के राजा के बेटे ने बनवाया था। औरंगजेब इस मंदिर को नष्ट कर दिया। प्रतिभु विग्रहस 1748 ईस्वी में स्थापित किए गए थे, और नए मंदिर 1819 ईस्वी में बनाया गया था। पूर्व करने के लिए नए मंदिर के पास मधु पंडिता की समाधि है। प्रसिद्ध वंशिवात के निकट, यमुना के तट पर श्री परमानंद भट्टाचार्य और मधु पंडिता चरम त्याग के साथ श्री राधा-कृष्ण युगाला पूजा करने के लिए इस्तेमाल किया।
+एक बार, यमुना की वर्तमान उसके बैंक और श्री गोपीनाथ का एक बहुत ही सुंदर देवता में कटौती रेत के नीचे से पता चला रहे थे। सुबह में, जब भक्त परमानंद स्नान करने के लिए यमुना के लिए आया था, वह इस असाधारण देवता है जो अपने दिल चुरा लिया पाया। उन्होंने कहा कि श्री मधु पंडिता के लिए श्री गोपीनाथ की सेवा सौंपा। सबसे पहले, श्री गोपीनाथ वंशिवात के पास रहते थे, लेकिन बाद में एक शानदार नए मंदिर पर कहीं निर्माण किया गया था और उनकी सेवा और पूजा वहां रहे।</string>
+		<key>latitude</key>
+		<real>27.5858634</real>
+		<key>longitude</key>
+		<real>77.6995513</real>
+		<key>summerM</key>
+		<string>05:00 am से  01:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm से  09:05 pm</string>
+		<key>winterM</key>
+		<string>08:55 am से  12:55 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm से  09:05 pm</string>
+		<key>aarti</key>
+		<string>05:30 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_15</string>
+			<string>temple_16.jpg</string>
+			<string>temple_17.jpg</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+			<string>temple_20.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>16</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>गरुड़ गोविंद जी मंदिर</string>
+		<key>description</key>
+		<string>गरुड़ भगवान विष्णु, कश्यप और अदिति (दक्ष की एक बेटी) का बेटा है, और इंद्र के छोटे भाई की सवारी है। गरुड़, जिसमें कृष्णा और सत्यभामा गरुड़ पर सवारी नरकासुर को मारने के लिए कृष्ण अवतार में एक महत्वपूर्ण भूमिका निभाता है। एक अन्य अवसर पर भगवान हरि भक्त हाथी गजेंद्र को बचाने के लिए गरुड़ पर सवार है।
+गरुड़ गोविंद मंदिर दुनिया . श्री गरुड़ गोविंद जी मां लक्ष्मी जी के साथ यहाँ है में भगवान कृष्ण के पवित्र और सबसे पुराने मंदिरों में से एक है। दोनों देवताओं 5000 साल पुराने हैं। भगवान गरुड़ गोविंद जी और मां लक्ष्मी जी के देवताओं बना दिया है और श्री गरगचर्या की दिशा में श्री वज़रणाभ द्वारा स्थापित किए गए थे। श्री वज़रणाभ भगवान कृष्ण के महान पोता था। भगवान गोविन्द जी &quot;बारह हथियार&quot; यहाँ का एक चमत्कार देखने के साथ गरुड़ जी की पीठ पर सवारी कर रहा है। यही कारण है कि ठाकुर जी &quot;श्री गरुड़ गोविंद जी&quot; के नाम से प्रसिद्ध है। श्री गरुड़ गोविंद मंदिर &quot;काल सर्प दोष अनुष्ठान&quot; के लिए विश्व प्रसिद्ध है।
+गरुड़ महर्षि कश्यप और विनता (दक्ष की एक बेटी) का बेटा है। इंद्र और विष्णु भी लेकिन अदिति से कश्यप के बेटे हैं। कश्यप की एक और पत्नी डीटी दैत्य को जन्म दिया। और फिर भी उसकी दूसरी पत्नी कद्रू नाग को जन्म दिया। यह ज्ञात होना चाहिए कि दक्ष कश्यप को अपने 13 बेटियों को शादी कर ली। विनता एक बेटा गरुड़ था, और कद्रू उसके बेटों के रूप में 60,000 नाग था।
+ऐतिहासिक गरुड़ गोविंद मंदिर वृंदावन में स्थित है और कृष्ण की एक असाधारण सुंदर प्रतिमा एक गरुड़ (ईगल) पर स्थापित किया गया है। यह हमें लगभग 5000 साल में वापस ले जाता है। पौराणिक कथाओं के अनुसार यह कहते हैं कि बच्चे कृष्णा यहां आए थे और छाती पूजन समारोह यहां आयोजित की गई थी। महान प्रभु के दोस्तों में से एक गरुड़ होगा और वह अपने कंधे पर चढ़ाई करेंगे।</string>
+		<key>address</key>
+		<string>NH2 , च्चतिकारा , उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5606053</real>
+		<key>longitude</key>
+		<real>77.6264055</real>
+		<key>summerM</key>
+		<string>06:30 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm से  05:30 pm</string>
+		<key>winterM</key>
+		<string>06:30 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm से  05:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_16</string>
+			<string>temple_17.jpg</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+			<string>temple_20.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>17</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>टेकरी रानी मंदिर</string>
+		<key>description</key>
+		<string>वृंदावन अपनी तीर्थयात्रा मूल्य के लिए अच्छी तरह से जाना जाता है के लिए हिन्दू धर्म सबसे प्रतिष्ठित स्थानों पर जो अपने धार्मिक पर्यटन के लिए बहुत अच्छी तरह से जाना जाता है में से एक के रूप में वर्गीकृत किया जाता है। जो भक्त भगवान कृष्ण और राधारानी की पूजा में हमेशा यह आते हैं और इस शांत और शहर के शांत माहौल यात्रा करने के लिए एक बिंदु बना। सभी भगवान कृष्ण और राधारानी के साहसी कहानियों सभी अपने जीवन केवल इस तीर्थ यात्रा शहर में प्रबल है कि एक पढ़ा है।
+            मथुरा रोड के पास स्थित है और बहुत ही बैंकों नदी के यमुना, टेकारी रानी मंदिर के पास कोई परिचय की जरूरत टेकारी रानी घाट के करीब। यह टेकारी की महारानी द्वारा बनाया गया था। यह वास्तव में जो राजस्थान वास्तुकला में बनाया गया था वृंदावन में बेहतरीन स्मारकों में से एक है। यह कथा यह है कि 200 साल पहले की है जब टेकारी की रानी अपने रास्ते पर था वृंदावन यात्रा करने के लिए वह कुछ डकैतों को लूटने उसके सामान की उसे चाहता था द्वारा हमला किया गया था।
+मंदिर का निर्माण जटिल विशाल और बेहद असाधारण है। यह भी मंदिर है जो महिलाओं के क्वार्टर से घिरा हुआ है के पास एक महल मौजूद है। भगवान कृष्ण और राधारानी के देवताओं के साथ एक चमकदार हॉल के साथ साथ विभिन्न पेड़ों की कई अपील बागानों मौजूद हैं।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5839584</real>
+		<key>longitude</key>
+		<real>77.7064383</real>
+		<key>summerM</key>
+		<string>04:30 am से  12:30 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm से  08:45 pm</string>
+		<key>winterM</key>
+		<string>04:30 am से  12:30 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm से  08:00 pm</string>
+		<key>aarti</key>
+		<string>04:30 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_17</string>
+			<string>temple_18.jpg</string>
+			<string>temple_19.jpg</string>
+			<string>temple_20.jpg</string>
+			<string>temple_21.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>18</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>सेवा कुंज</string>
+		<key>description</key>
+		<string>सेवा कुंज निकुंज भी वैन के रूप में जाना एक वैन (वन) है; यह श्री राधाकृष्ण के लिए एक मंदिर है। ऐसा नहीं है कि राधाकृष्ण यात्रा यहां हर रात माना जाता है। निज मंदिर उन्हें और यहां रात के लिए रखा सभी आवश्यक वस्तुओं के लिए सजाया गया है। इस छोटे से मंदिर की दीवारों जो बहुत सुंदर हैं पर चित्रित सभी लीलाओं के साथ सजाया है।
+इस पवित्र जगह सेवा कुंज के रूप में जाना जाता है क्योंकि यह माना जाता है श्री कृष्ण यहाँ श्रीमती राधारानी के लिए सेवा किया जाता है। इस लीला चित्रों जो बताते हैं श्री कृष्ण राधारानी के बालों में कंघी, उसे रास लीला के लिए तैयार हो जाओ मदद करने में दिखाया गया है।
+कुछ चित्रों को भी राधविहारिजी राधारानी के चरण की मालिश जब वह रास लीला के दौरान थक जाता दिखा। इन चित्रों श्लोक पवित्र हिंदू शास्त्रों में पाया से चित्रण कर रहे हैं।
+छोटे पेड़ के रूप में आप पिक्चर गैलरी में नोटिस जाएगा हमेशा जमीन की ओर बढ़ती है, जिसका अर्थ है कि वे हमेशा कुछ परमात्मा के लिए झुकने खड़े हो जाओ। दिन में हालांकि इस जगह बंदरों के साथ पानी भर गया है, जैसे ही यह शाम वे सभी जगह खाली छोड़| कोई जीवित क्षेत्र है जो रात के लिए पूरी तरह से बंद है में रहता जा रहा है।
+वहाँ एक कुंड यहां ललिता कुंड के रूप में जाना जाता है। वृंदावन धाम में निकुंज वान - यहाँ दिव्य सेवा कुंज के लिए मेरे कई यात्राओं से कुछ तस्वीरें हैं। मैं आप उन के माध्यम से जा रहे आनंद उम्मीद है।</string>
+		<key>address</key>
+		<string>सेवा कुंज रोड, गौतम नगर, वृंदावन, उत्तर प्रदेश 281121 , भारत</string>
+		<key>latitude</key>
+		<real>27.5824583</real>
+		<key>longitude</key>
+		<real>77.69494709</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_18</string>
+			<string>temple_19.JPG</string>
+			<string>temple_20.png</string>
+			<string>temple_21.png</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>19</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>निधिवन  मंदिर</string>
+		<key>description</key>
+		<string>निधिवन भारत के Paavan शहर है कि वृंदावन में सबसे प्रसिद्ध धार्मिक और रहस्यमय जगह में से एक है। यह कई रोचक कहानियों या मैथ्स। यह वैन (पार्क) सभी वैन के आसपास छोटे पेड़ के साथ घेर लिया और बंदरों के लिए घर है। !! जय श्री कृष्णा !! जब कुछ भी नहीं था; वहाँ हमेशा सर्वशक्तिमान ईश्वर की उपस्थिति थी। यहां तक ​​कि दुनिया आपदा के बाद; जब सब कुछ चाहा विलुप्त भगवान हमेशा वहाँ होगा और कहा कि एक नए युग की फिर से शुरुआत होगी।
+यह माना जाता है कि जल स्तर आदेश छोटा श्री कृष्ण के पवित्र पैर छूने में गुलाब। यह बारिश से भगवान की रक्षा के लिए तो एक बहुत बारिश हो रही थी; शेषनाग एक छतरी के रूप में दिखाई दिया। यह सब लीलाधर की लीला पापों से दुनिया को बचाने के लिए किया गया था।
+श्री कृष्ण दिखाया गया है अंधेरे या रंग में नीले है। चित्रों और मूर्तियों में उन्होंने एक बांसुरी और खाने मक्खन के साथ दिखाया गया है। मक्खन दूध श्री कृष्ण की पसंदीदा खाद्य था। मोर की एक सुंदर पंख उसके सिर पर वहाँ हमेशा होता है। वह हमेशा वहाँ पीले धोती में है; यही कारण है कि वह भी &quot;पीताम्बर&quot; नाम से जाना जाता है।
+&quot;निधिवन मंदिर&quot; वृंदावन में स्थित है जो बांके बिहारी का एक पवित्र मंदिर है। निधिवन मंदिर के पौष्टिक हिस्सा बहुत बड़ा जंगली जंगलों से घिरा हुआ है। नाम केवल एक ही शिलालेख के साथ किया गया है, निधि खजाना मतलब है और वैन वन का मतलब है। तो यह एक जगह है जो जंगल की तरह दिखता है, लेकिन इंसानों की दुनिया में सबसे बड़ा खजाना है इसका मतलब है।
+वृंदावन, रहस्यमय धार्मिक सेवा के धार्मिक शहर में एक बहुत ही पवित्र निधिवन । मान्यता है कि भगवान कृष्ण और आज श्रीराधा निधिवन अर्द्धरात्रि लोकसभा के भीतर रह रहे हैं। लोकसभा कोलिजियम निधिवन परिसर में स्थापित करने में सो रही के बाद। रंग महल प्रसाद आज (मक्खन कैंडी) प्रति दिन रखा जाता है। बिस्तर बिस्तर पर डाल दिया जाता है। सुबह बेड दृश्य दिखाई देता है कि पाठ्यक्रम आराम करने के लिए एक रात थी और प्रसाद भी ग्रहण किया है। लगभग दो आधा एकड़ पेड़ों की निधिवन खासियत को निर्देशित नहीं करेंगे ये पेड़ चड्डी और पेड़ों की शाखाओं और हाते नीचे एक मोड़ के किसी भी एक साथ बुना जा करने में फैले।</string>
+		<key>address</key>
+		<string>निधिवन मंदिर रोड, गौतम नगर, वृंदावन, उत्तर प्रदेश 281121, भारत</string>
+		<key>latitude</key>
+		<real>27.5842224</real>
+		<key>longitude</key>
+		<real>77.69852520000001</real>
+		<key>summerM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm से  08:00 pm</string>
+		<key>winterM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm से  08:00 pm</string>
+		<key>aarti</key>
+		<string>07:00 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_19</string>
+			<string>temple_20.jpg</string>
+			<string>temple_21.jpg</string>
+			<string>temple_22.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>20</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>इमलीतला मंदिर</string>
+		<key>description</key>
+		<string>इमली ताला इमली के पेड़ का मतलब है। यह वह जगह है जो भगवान राधा और कृष्ण के बीच अलगाव में गहन प्रेम का प्रतिनिधित्व करता है। वहाँ एक पुरानी इमली (इमली) द्वापर युग के बाद से जगह है, जब भगवान कृष्ण ने अपनी लीलाओं का प्रदर्शन किया पर पेड़ मौजूद है। पुराना इमली का पेड़ जल्दी 19 वीं सदी में निधन हो गया। अब केवल उस पेड़ की एक शाखा यहां बढ़ता है। पेड़ के नीचे एक छोटा सा मुद्रा ध्यान में चैतन्य महाप्रभु के देवता होने के मंदिर है।
+इमली ताला, संक्षेप में, जगह है जो राधा और कृष्ण के बीच अलगाव में तीव्र प्रेम के प्रतीक है। सरल अंग्रेजी भाषा में, इमली ताला इमली के पेड़ का मतलब है। इमली ताला जगह है, जहां श्रीमती राधारानी शरद पूर्णिमा रासा नृत्य छोड़ दिया, जुदाई की तीव्र भावनाओं में उसके लिए खोज कृष्णा जा रही है। इससे पहले इमली ताला यमुना के तट पर एक घाट के पास हुआ करता था लेकिन पिछले कुछ वर्षों में यमुना ने अपना रास्ता बदल गया है और अब से इमली ताला दूरी पर बह रहा है।</string>
+		<key>address</key>
+		<string>परिक्रमा मार्ग, गौतम नगर, वृंदावन, उत्तर प्रदेश 281121, भारत</string>
+		<key>latitude</key>
+		<real>27.5835424</real>
+		<key>longitude</key>
+		<real>77.6942718</real>
+		<key>summerM</key>
+		<string>05:30 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>04:00 pm से  08:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm से  08:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_20</string>
+			<string>temple_21.jpg</string>
+			<string>temple_22.jpg</string>
+			<string>temple_23.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>21</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>गोपेश्वर महादेव वृंदावन</string>
+		<key>description</key>
+		<string>यह वृंदावन में सबसे पुराना मंदिर है। गोपेसवरा महादेव भगवान शिव, जो वृंदावन के लिए आया था कृष्णा की एक गोपी बन गया है। यहाँ वृंदा देवी उसे आशीर्वाद दिया और उसे भगवान कृष्ण के रस नृत्य में प्रवेश करने की अनुमति दी। जब से, सभी वैसनावास उसकी दया के लिए पहले प्रार्थना गोपियों के सेवक का सेवक बनने के लिए। वज़रणभा, कृष्ण के परपोते, भी इस मंदिर में शिव-लिंग स्थापित किया। दोपहर से 4 बजे से हर सुबह, हजारों लोगों के लिंग के ऊपर यमुना पानी डालना। यह कहा जाता है कि बड़े पीपल के पेड़ यहाँ एक कलपरिक्सा पेड़ है और सभी इच्छाओं को पूरा करेगा।
+गोपेश्वर महादेव मंदिर, वृंदावन के सुंदर भूमि को पवित्र भगवान शिव के गोपेश्वर फार्म के लिए समर्पित है। मंदिर वृंदावन में वंशिवात के पास स्थित है। भक्तों की भारी संख्या प्रभु के लिए उनकी दण्डवत प्रणाम का भुगतान करने के लिए यहां आता है। जिस किसी ने भी आनंद को रास लीला उसे सखीभाव में उत्प्रेरण के लिए गोपेश्वर के लिए प्रार्थना करना चाहिए प्रदान करता है का अनुभव करना चाहती है।
+शहर में किंवदंतियों के अनुसार, भगवान शिव, पहले कभी वैष्णव और सभी गोपेसवरा वैसनावास वज़रणभा कलपरिक्सा वंशिवात सखीभाव वैष्नयस का गुरु माना जाता है क्योंकि वह भगवान विष्णु, जिनमें से भगवान कृष्ण एक अवतार है का भक्त है। वास्तव में, यह माना जाता है कि दोनों के बीच संबंध आपसी है। शिव विष्णु को समर्पित रहा है। विष्णु भी शिव का भक्त है। कुछ उच्च माना संतों का यह भी कहना है कि इन दोनों ही हैं। शिव और विष्णु एक ही ब्रह्मांड, निर्माता और विध्वंसक के दो बलों हैं। यह मंदिर भी दो यौन बलों का प्रतीक है, और उनके जुड़ा हुआ प्रकृति। इस मंदिर में भगवान शिव भक्तों का स्त्री रूप की पूजा करते हैं।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, केशी घाट, वृंदावन, उत्तर प्रदेश 281121, भारत</string>
+		<key>latitude</key>
+		<real>27.5853218</real>
+		<key>longitude</key>
+		<real>77.70309829</real>
+		<key>summerM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm से  09:00 pm</string>
+		<key>winterM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>04:30 pm से  09:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_21</string>
+			<string>temple_22.JPG</string>
+			<string>temple_23.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>22</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>जुगल किशोर मंदिर</string>
+		<key>description</key>
+		<string>जुगल किशोर मंदिर 1758 से 1778 के लिए अपने शासनकाल के दौरान राजा हिंदू पैट सिंह, पन्ना के चौथे बुंदेला राजा, द्वारा बनाया गया था।
+किंवदंतियों के अनुसार, मूर्ति इस हिंदू मंदिर के गर्भगृह में रखा ओरछा के माध्यम से वृंदावन से लाया गया है। गहने और प्रभु की पोशाक  बुंदेलखांडी शैली को प्रतिबिंबित। मंदिर एक नाट्य (नृत्य हॉल) मंडप, भोग मंडप और एक प्रदकष्णा पथ सहित बुंदेला मंदिरों के सभी स्थापत्य सुविधाओं की है।
+जुगल किशोर मंदिर (केसी घटा मंदिर) वृंदावन का सबसे पुराना मंदिर, 1627 में पूरा साल 1570 में वृंदावन को अकबर की यात्रा के बाद से एक है, वह चार मंदिरों के लिए अनुमति दे दी है गौड़ीय वैसनावास, जो मदन-मोहन थे द्वारा निर्माण किया जाना , गोविंदजी, गोपीनाथ और जुगल किशोर। यह कभी कभी, केसी घटा मंदिर कहा जाता है के रूप में यह इस घाट के बगल में स्थित है। केसी घाट एक जगह है जहां भगवान कृष्ण केसी, घोड़े दानव को मार डाला था।
+वृंदावन 1570 से गौड़ीय वैष्णव समुदाय में राजा अकबर के शासन के दौरान वृंदावन के कुछ मंदिरों की स्थापना के लिए अनुमति माँगी। मंडन मोहन मंदिर, गोविंद देव मंदिर, जुगल किशोर मंदिर और श्री गोपीनाथ मंदिर - राजा अकबर वृंदावन में चार मंदिरों की अनुमति दी। लेकिन राजा औरंगजेब पर बाद इन चार मंदिरों में से तीन पर हमला किया और मूल देवताओं कहीं और करने के लिए स्थानांतरित किया गया। केवल जुगल किशोर मंदिर अपने मूल मंदिर और मूल देवता के साथ वृंदावन में बने रहे।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, ललित बाग, वृंदावन, उत्तर प्रदेश 281121, भारत</string>
+		<key>latitude</key>
+		<real>27.5822658</real>
+		<key>longitude</key>
+		<real>77.7047056</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_22</string>
+			<string>temple_23.jpg</string>
+			<string>temple_24.jpg</string>
+			<string>temple_25.jpg</string>
+			<string>temple_26.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>23</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>श्री कृष्ण जन्मभूमि</string>
+		<key>description</key>
+		<string>श्री कृष्ण जन्मभूमि मंदिर सबसे मथुरा में भक्त केन्द्रों के बाद की मांग की है। अन्य पवित्र स्थानों पर इसका प्रबलता विश्वास है कि मंदिर उसी जगह जहां भगवान कृष्ण देवकी और वासुदेव को पैदा हुआ था पर खड़ा करने के कारण कर रहे हैं। अनेक लेख श्री कृष्णा&apos;a जन्म के दिग्गज कहानी के लिए साइट नंगे गवाही से खुदाई की। यह मंदिर न केवल मथुरा का एक महत्वपूर्ण मंदिर बल्कि भारत की है। 1814 में निर्मित इस मंदिर मथुरा के शहर के दिल में स्थित है। जन्मभूमि मंदिर है कि वर्तमान में वल्लभाचार्य संप्रदाय के अनुयायियों द्वारा प्रबंधित किया जाता है मथुरा में मंदिर सबसे का दौरा किया है। मथुरा के पूर्वी भाग में स्थित है, दूर नहीं यमुना नदी से, मंदिर वास्तुकला बहुत दिलचस्प है। इतिहासकारों के अनुसार, जेल सेल, लोकप्रिय &apos;के गर्भगृह&apos; (पवित्र स्थान ) जाना जाता है, मंदिर परिसर में सही जगह जहां भगवान कृष्ण का जन्म हुआ है। पत्थर दीवारों सेल राजा कंस की क्रूरता की याद ताजा करती है। कई प्रतिमाओं और बीते युग की मूर्तियां साइट खुदाई पर पाए गए। जेल की कोठरी में धीरे-धीरे उपस्थित सुंदर मंदिर में बदल गया था। लाखों श्रद्धालुओं जन्माष्टमी के दौरान मंदिर भीड़। उत्सव और समारोह के त्योहार के दौरान पूरे भारत में प्रसिद्ध है। समारोह भगवान कृष्ण के जन्म के साथ मध्य रात के दौरान शुरू करते हैं।</string>
+		<key>address</key>
+		<string>जन्म भूमि, मथुरा, उत्तर प्रदेश 281001, भारत</string>
+		<key>latitude</key>
+		<real>27.5047271</real>
+		<key>longitude</key>
+		<real>77.66967769</real>
+		<key>summerM</key>
+		<string>05.00 am से  12.00 pm</string>
+		<key>summerE</key>
+		<string>02.00 pm से  08.00 pm</string>
+		<key>winterM</key>
+		<string>05.00 am से  12.00 pm</string>
+		<key>winterE</key>
+		<string>02.00 pm से  08.00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_23</string>
+			<string>temple_24.jpg</string>
+			<string>temple_25.jpg</string>
+			<string>temple_26.jpg</string>
+			<string>temple_27.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_29.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>24</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>श्री द्वारिकाधीश जी मंदिर</string>
+		<key>description</key>
+		<string>मंदिर 1814 में निर्माण किया गया था और मथुरा के शहर में एक केंद्रीय स्थान पर स्थित है। यह सब साल भर है: 8:30 PM पर पोस्टेड करने के लिए 7:00 बजे के बीच का दौरा किया जा सकता है। मंदिर के इष्टदेव भगवान कृष्ण है। मथुरा में द्वारकाधीश मंदिर शहर में सबसे का दौरा मंदिरों में से एक माना जाता है। मंदिर की वास्तुकला खूबसूरत नक्काशी और चित्रों के साथ बहुत ही रोचक है। होली, जन्माष्टमी और दिवाली जैसे त्योहारों के मंदिर में धूमधाम से बहुत कुछ है और भव्यता के साथ मनाया जाता है। पर्यटकों का इन अवसरों के भार के दौरान मंदिर की यात्रा भगवान का आशीर्वाद प्राप्त करने के लिए। वर्तमान में प्रबंधन और मंदिर के प्रशासन वल्लभाचार्य संप्रदाय के अनुयायियों के बाद देखा जाता है।</string>
+		<key>address</key>
+		<string>द्वारिकाधीश की बज़ारिया, चौबे पैरा, मथुरा, उत्तर प्रदेश 281001</string>
+		<key>latitude</key>
+		<real>27.5052547</real>
+		<key>longitude</key>
+		<real>77.6848655</real>
+		<key>summerM</key>
+		<string>06:30 am से  10:30 am</string>
+		<key>summerE</key>
+		<string>04:00 pm से  7:30 pm</string>
+		<key>winterM</key>
+		<string>06:30 am से  11:00 am</string>
+		<key>winterE</key>
+		<string>03:30 pm से  7:00 pm</string>
+		<key>aarti</key>
+		<string>05:20 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_24</string>
+			<string>temple_25.jpg</string>
+			<string>temple_26.jpg</string>
+			<string>temple_27.png</string>
+			<string>temple_28.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>25</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>बिरला मंदिर (गीता मंदिर)</string>
+		<key>description</key>
+		<string>गीता मंदिर भारत, बिड़ला समूह (भी बिरला मंदिर के रूप में जाना जाता है) के लिए व्यापार के स्वामी द्वारा बनाया गया है और पवित्र शास्त्र गीता इसकी दीवारों पर खुदा के ग्रंथों है। मंदिर उत्कृष्ट शिल्प कौशल देवी देवताओं की अद्भुत चित्रों है कि का एक उदाहरण है। मंदिर के मुख्य कक्ष भगवान कृष्ण के एक अलंकृत मूर्ति से लक्ष्मी नारायण, राम और सीता के साथ है। मंदिर पूरे दिन के माध्यम से और जन्माष्टमी और होली के अवसर पर प्रार्थना की पेशकश के लिए खुला है, मंदिर भव्यता से सजाया जाता है और रोशन कर रहा है।</string>
+		<key>address</key>
+		<string>मथुरा-वृंदावन मार्ग, गौरव केन्द्र, मथुरा, उत्तर प्रदेश 281003।</string>
+		<key>latitude</key>
+		<real>27.528276</real>
+		<key>longitude</key>
+		<real>77.6746859</real>
+		<key>summerM</key>
+		<string>05:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm से  09:00 pm</string>
+		<key>winterM</key>
+		<string>05:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>05:00 pm से  09:00 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_25</string>
+			<string>temple_26.JPG</string>
+			<string>temple_27.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_29.jpg</string>
+			<string>temple_30.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>26</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>विश्राम घाट</string>
+		<key>description</key>
+		<string>विश्राम घाट एक घाट, एक स्नान और पूजा जगह, मथुरा, भारत में यमुना नदी के तट पर है। यह मथुरा के मुख्य घाट है और 25 अन्य घाटों के लिए केंद्रीय है। परंपरागत परिक्रमा शुरू होता है और विश्राम घाट पर समाप्त होता है। भगवान कृष्ण कंस को मारने के बाद इस जगह पर विश्राम किया है कहा जाता है। ऐसा नहीं है कि पारंपरिक परिक्रमा शुरू होता है और समाप्त होता विश्राम घाट पर है।
+
+विश्राम घाट सुंदर मंदिर के साथ तैयार है और मथुरा के सबसे महत्वपूर्ण धार्मिक स्थलों में से कुछ यहां पाए जाते हैं - मुकुट मंदिर, राधा-दामोदर, मुरली मनोहर, नीलकंतेश्वर, यमुना, कृष्णा, लंगली हनुमान और नरसिंह मंदिरों। महान वैष्णव, श्री चैतन्य की बैठक, के पास से भी है। आरती विश्राम घाट पर आयोजित एक शाम, याद करने के लिए नहीं है के लिए थोड़ा तेल के लैंप है कि नदी पर जारी कर रहे हैं एक बहुत बड़ी संख्या चंचल रोशनी के साथ शांत पानी निर्धारित किया है। इतिहास हमें बताता है कि इस महत्वपूर्ण स्थल तबाह और सदियों से बराबर मात्रा में संरक्षण दिया गया था, यह बुरी तरह से जल्दी हमलों लेकिन दो वैष्णव संतों के दौरान क्षतिग्रस्त हो गया था, केशव कश्मीरी और वल्लभाचार्य सिकन्दर लोधी के समय के दौरान अपनी पवित्रता बहाल। यह अकबर के सहिष्णु शासन के दौरान भव्य संरक्षण मिला जब मंदिरों समय की मरम्मत कर रहे थे और अलंकृत लेकिन फिर से और घटनाओं को अपने टोल ले लिया।</string>
+		<key>address</key>
+		<string>गोल पाडा, मथुरा, उत्तर प्रदेश 281001</string>
+		<key>latitude</key>
+		<real>27.504857</real>
+		<key>longitude</key>
+		<real>77.6863369</real>
+		<key>summerM</key>
+		<string>12:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm से  12:00 am</string>
+		<key>winterM</key>
+		<string>12:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm से  12:00 am</string>
+		<key>aarti</key>
+		<string>07:00 pm</string>
+		<key>Image</key>
+		<array>
+			<string>temple_26</string>
+			<string>temple_27.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_28.jpg</string>
+			<string>temple_29.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>28</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>केशव देव मंदिर</string>
+		<key>description</key>
+		<string>भगवान श्री कृष्ण को प्रणाम भुगतान के लिए एक भव्य मंदिर उनकी पवित्र माँ, श्रीमती की स्मृति में सेठ राम कृष्ण जी डालमिया द्वारा निर्माण किया गया था। जदया देवी डालमिया। यह भक्तों कि लंबे बालों वाले केशव देव जी, जो विष्णु, रासा और प्रेम की पूरी अवतार है के दर्शन, भगवान के आशीर्वाद से कमा सकते हैं माना जाता है। यह उनका अटूट विश्वास है कि भगवान केशव देव जी के दर्शन इच्छाओं को पूरा करने और भक्तों के पापों को धो सकता है। आज यह मंदिर भारत और विदेशों से आगंतुकों के लिए आकर्षण का केंद्र बन गया है।</string>
+		<key>address</key>
+		<string>जनम भूमि मार्ग, जन्म भूमि, मथुरा, उत्तर प्रदेश 281003, भारत</string>
+		<key>latitude</key>
+		<real>27.5055368</real>
+		<key>longitude</key>
+		<real>77.6684683</real>
+		<key>summerM</key>
+		<string>05:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm से  09:30 pm</string>
+		<key>winterM</key>
+		<string>05:30 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm से  08:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_28</string>
+			<string>temple_29.JPG</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>29</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>पुत्र कुंद</string>
+		<key>description</key>
+		<string>एक खूबसूरती से बनाया गया है और अच्छी तरह से बनाए रखा पानी भारत, पोत्रा कुंड की पुरातत्व सर्वेक्षणद्वारा संरक्षित टैंक एक लाल बालू पत्थर टैंक कृष्ण जन्मभूमि के बगल में स्थित संरचना है।
+स्थानीय मान्यता के अनुसार, पोत्रा कुंड एक हिस्सा राजा कंस की जेल में हुआ करते थे और स्नान और कपड़े धोने के लिए भगवान कृष्ण (वासुदेव और देवकी मां) के जैविक माता-पिता द्वारा इस्तेमाल किया गया था (कपड़े भी स्थानीय स्तर पर बृज क्षेत्र में पोत्रा कहा जाता है)। बाद में उस पर विभिन्न धार्मिक और मंदिर गतिविधियों के लिए मंदिर पानी की टंकी के रूप में इस्तेमाल किया गया था।
+पोत्रा कुंड लाल बलुआ पत्थर और एक कदम संरचना, जहां आगंतुकों टैंक के अंदर नीचे प्राप्त कर सकते हैं और अपनी सुंदरता और शांति महसूस कर सकते हैं साथ किया जाता है। एएसआई और मथुरा नगर प्रशासन वर्तमान में सुशोभित और यह अपने खोए गौरव को बहाल करने की मरम्मत के लिए योजना बना रहे हैं।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, ललित बाग, वृंदावन, उत्तर प्रदेश 281121, भारत</string>
+		<key>latitude</key>
+		<real>27.5042093</real>
+		<key>longitude</key>
+		<real>77.66775029</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_29</string>
+			<string>temple_30.jpg</string>
+			<string>temple_31.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>30</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>अंतिम केवली दिगम्बर जैन मंदिर</string>
+		<key>description</key>
+		<string>मथुरा चौरासी एक जैन मंदिर है और जो जैन संस्कृति और धर्म के लिए समर्पित है मथुरा में पूजा के कुछ स्थानों में से एक है।
+
+मध्यालोक उत्सरपिणी और अवसार्पिणी के भरत और ऐरावत क्षेत्र के बीच विभिन्न हलकों में इस समय बनाता है। पहले केवली जो चतुरता काल में वर्तमान युग के मोक्ष परम्परा शुरू की अनंतवीर्या भगवान भौबाली था। तो 24 तीर्थंकरों मुक्ति पथ ली और निर्वाण प्राप्त पालन किया। जम्बू स्वामी चतुरता काल के अंतिम केवली जो महावीर को गंधार सुंधर्माचर्या का शिष्य बन गया था। केवल वैश्य वंशिया जंबुकुमार जो उस समय घने जंगलों से घिरा हुआ था 84 उत्तर प्रदेश मथुरा के रूप में जाना के हरे भरे जगह में 84 साल की उम्र में परम निर्वाण प्राप्त किया। जिस दिन से यह चौरासी के रूप में जाना जाता है और पवित्र भूमि जैन धर्म के सभी के लिए पवित्र हो गया।</string>
+		<key>address</key>
+		<string>राष्ट्रीय राजमार्ग 2, कृष्णा नगर, मथुरा, उत्तर प्रदेश 281004</string>
+		<key>latitude</key>
+		<real>27.5050246</real>
+		<key>longitude</key>
+		<real>77.65468629</real>
+		<key>summerM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>12:00 pm से  09:30 pm</string>
+		<key>winterM</key>
+		<string>06:00 am से  12:00 pm</string>
+		<key>winterE</key>
+		<string>12:00 pm से  09:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_30</string>
+			<string>temple_31.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>31</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>गोवर्धन परिक्रमा</string>
+		<key>description</key>
+		<string>गोवर्धन पवित्र गोवर्धन पर्वत के लिए मशहूर इस शहर हरिदेव मंदिर, दान-घाटी मंदिर और मुखर्बिंद में कई मंदिर हैं। मंदिर भगवान भगवान कृष्ण का दूसरा रूप है। शहर में भी अपनी 21 किलोमीटर एक बहुत पुरानी गोवर्धन बुलाया पहाड़ी की लंबी परिक्रमा के लिए प्रसिद्ध है। परिक्रमा जुलूस बहुत अधिक धार्मिक विश्वास में आयोजित किया जाता है।</string>
+		<key>address</key>
+		<string>च्चता गोवर्धन रोड, डीग अड्डा, गोवर्धन, उत्तर प्रदेश 281502, भारत</string>
+		<key>latitude</key>
+		<real>27.4948669</real>
+		<key>longitude</key>
+		<real>77.4630044</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_31</string>
+			<string>temple_32.jpg</string>
+			<string>temple_33.jpg</string>
+			<string>temple_34.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>32</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>गिरिराज मंदिर</string>
+		<key>description</key>
+		<string>दान-घाटी गोवर्धन में दो मुख्य मंदिर के ढांचे, मथुरा, भारत के पास से एक है। अन्य मंदिर के ढांचे दस्विसा कहा जाता है।
+
+दान घाटी मंदिर है, जहां एक देवता एक चट्टान के रूप में वास्तव में है। देवता हर साल कुछ मिलीमीटर से पृथ्वी में नीचे जा रहा होने के लिए कहा है। स्थानीय लोग हैं जो इस बात की पुष्टि इस तथ्य है, हालांकि वहां उसी के लिए कोई वैज्ञानिक सबूत है साक्षी की है।
+
+समय के साथ, इस मंदिर धीरे-धीरे शहर के मुख्य मंदिर के स्थान पर ले लिया है। इस तथ्य को जोड़ा गया, वहाँ काफी मंदिर के ढांचे के व्यावसायीकरण का एक सा हो गया है। जगह की बढ़ती पर्यटक महत्व के साथ, वाणिज्यिक हितों से बढ़ रहे हैं और कई बार संघर्ष के रूप में अच्छी तरह से।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग, ललित बाग, वृंदावन, उत्तर प्रदेश 281121, भारत</string>
+		<key>latitude</key>
+		<real>27.509133</real>
+		<key>longitude</key>
+		<real>77.668615</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_32</string>
+			<string>temple_33.jpg</string>
+			<string>temple_34.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>33</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>श्री राधा कुंड</string>
+		<key>description</key>
+		<string>श्री राधा कुंड, जो पवित्र स्थलों में से सबसे पवित्र और राधा और कृष्ण की दिव्य लीलाओं का विशेष दृश्य होने के लिए कहा है। हजारों लोग राधाकुंड के लिए आए दो पवित्र कुंड (राधा कुंड और श्याम कुंड) और प्रकाश दीपक जो सब उन दोनों के चारों ओर रखा जाता है स्नान करने के लिए</string>
+		<key>address</key>
+		<string>राधाकुंड, उत्तर प्रदेश 281504, भारत</string>
+		<key>latitude</key>
+		<real>27.525278</real>
+		<key>longitude</key>
+		<real>77.491389</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_33</string>
+			<string>temple_34.jpg</string>
+			<string>temple_35.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>34</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>मानसी गंगा</string>
+		<key>description</key>
+		<string>मन &quot;मन&quot; का मतलब है और गंगा गंगा नदी का दूसरा नाम है। मानसी गंगा कुंदा परंपरागत रूप से शुरू करने और गोवर्धन हिल की परिक्रमा के समाप्त होने के बिंदु है। मथुरा-महात्म्य में यह सिफारिश की है कि मानसी गंगा में एक स्नान और फिर यहाँ की शुरुआत से पहले हरिदेव के दर्शन को ले लो। इस कुण्ड, एक लाख बार गंगा नदी से अधिक शक्तिशाली माना जाता है क्योंकि गंगा नदी में स्नान करके मुक्ति हो जाता है और यहाँ स्नान एक हो जाता है &quot;कृष्णा प्रेमा,&quot; कृष्ण के प्रेम के द्वारा किया जाता है।
+
+यह एक अच्छा आकार गोवर्धन के शहर में स्थित झील है। यह गोवर्धन हिल के केंद्र में है। मानसी गंगा एक बहुत बड़ी झील हुआ करते थे, लेकिन जैसा कि गोवर्धन हिल छोटी हो रही है, मानसी गंगा भी उसी अनुपात में छोटी हो रही है।</string>
+		<key>address</key>
+		<string>गोवर्धन, उत्तर प्रदेश 281502</string>
+		<key>latitude</key>
+		<real>27.4979319</real>
+		<key>longitude</key>
+		<real>77.46528619</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_34</string>
+			<string>temple_35.jpg</string>
+			<string>temple_36.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>35</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>कुसुम सरोवर</string>
+		<key>description</key>
+		<string>कुसुमा सरोवर, एक सुंदर बलुआ पत्थर स्मारक, राधाकुंड से 25 मिनट की दूरी पर है। कुसुमा &quot;फूल&quot; का मतलब है और यहाँ गोपियों कृष्णा के लिए फूल ले जाएगा। कुसुमा सरोवर ब्रज में सबसे अच्छी तैराकी स्थल है। आप राधाकुंड करने के लिए जाने के बाद आप यहां एक आराम घंटे खर्च कर सकते हैं। यह एक शांतिपूर्ण जगह है, जो कई लोगों को नहीं यात्रा है। भगवान चैतन्य के समय के दौरान इस जगह सुमनः सरोवर के रूप में जाना जाता था। यह चैतन्य करितंृता कि भगवान चैतन्य यहां स्नान ले लिया में कहा गया है। इस कुण्ड पर घाट और कुण्ड के ऊपर इमारतों अपने पिता राजा सूरज मॉल के सम्मान में जावा हीर सिंह, 1764 के आसपास भरतपुर के राजा द्वारा बनाया गया था। सूरज मॉल दिल्ली के मुगल राजा पर हमला किया और लड़ाई में मारा गया था। उनके पुत्र जावा हीर सिंह तो दिल्ली पर हमला किया और मुगल राजा को मार डाला। ऊपरी स्तर पर तीन कब्रों हैं। राजा सूरज मॉल की मुख्य कब्र कृष्ण की लीलाओं का चित्रण अपनी छत पर सुंदर चित्रों है और कृष्ण के कमल पैर फर्श पर उत्कीर्ण। वहाँ भी अपनी अदालत में राजा सूरज मॉल के कुछ चित्र हैं। अन्य कब्रों उसकी दो रानियों, किशोरी और घाट के हैं। इन दो कब्रों की छत पर सुंदर चित्र हैं। वहाँ भी एक गिरिराज मंदिर यहाँ है।</string>
+		<key>address</key>
+		<string>गोवर्धन ब्राह्मंन, उत्तर प्रदेश 281504, भारत</string>
+		<key>latitude</key>
+		<real>27.5120117</real>
+		<key>longitude</key>
+		<real>77.47826360000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_35</string>
+			<string>temple_36.jpg</string>
+			<string>temple_37.jpg</string>
+			<string>temple_38.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>36</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>राधा रानी मंदिर</string>
+		<key>description</key>
+		<string>श्रीजी, राधा, इस देश और कृष्ण के अंतरंग साथी की बेटी के लिए एक प्यारी नाम। यह बरसाना में सबसे पुराने मंदिरों में जो भानगढ़ पहाड़ी की चोटी पर 5000 साल पहले का निर्माण किया जाना अनुमानित है में से एक है। मंदिर की एक और नाम लाड़ली लाल जी मंदिर प्रेमिका राधा के मंदिर का मतलब है। यह लाल पत्थर मंदिर का जीर्णोद्धार और नारायण भट्ट, एक वैष्णव द्वारा बहाल किया गया। मंदिर अकबर के शासनकाल जो धर्मनिरपेक्ष राजा था, धर्मों की समानता में विश्वास करता है के दौरान बनाया गया था। इस प्रकार यह मंदिर वास्तुकला मुगल काल वास्तुकला का एक स्पष्ट छाया देता है। मंदिर की विशिष्टताओं मंदिर और मंदिर की दीवारों पर शानदार चित्रों के अंदर मूर्ति हैं। राधा वृषभानु जिसका मंदिर के रास्ते मंदिर पहाड़ी की चोटी पर, शुरुआत में बनाया गया है की बेटी थी। श्रीजी मंदिर मथुरा पर्यटन जो हर भक्त को पार करना चाहिए की एक ऐतिहासिक स्थल है।</string>
+		<key>address</key>
+		<string>बरसाना मथुरा, उत्तर प्रदेश 281405, भारत</string>
+		<key>latitude</key>
+		<real>27.6463577</real>
+		<key>longitude</key>
+		<real>77.3768099</real>
+		<key>summerM</key>
+		<string>05:00 am से  02:30 pm</string>
+		<key>summerE</key>
+		<string>05:00 pm से  09:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am से  02:30 pm</string>
+		<key>winterE</key>
+		<string>05:00 pm से  08:30 pm</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_36</string>
+			<string>temple_37.jpg</string>
+			<string>temple_38.jpg</string>
+			<string>temple_39.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>37</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>मान मंदिर</string>
+		<key>description</key>
+		<string>जगह है जहां श्रीमती राधारानी कृष्ण के प्रति उनकी दिव्य प्यार गुस्से में तनहाई में जाना होगा। मान मंदिर कृष्णा रोते और एक भिखारी की तरह रोता है उनकी प्रिय श्रीमती राधारानी के पक्ष हासिल करने के लिए। मंदिर के भीतर, वहाँ एक छोटे से एक अंधेरे कक्ष जो जगह है, जहां जाने के लिए और राधारानी बैठते थे होने के लिए कहा जाता है के लिए अग्रणी सुरंग है।</string>
+		<key>address</key>
+		<string>बरसाना मथुरा, उत्तर प्रदेश 281405, भारत</string>
+		<key>latitude</key>
+		<real>27.6433899</real>
+		<key>longitude</key>
+		<real>77.3653954</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_37</string>
+			<string>temple_38.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>38</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>डेन बिहारी मंदिर</string>
+		<key>description</key>
+		<string>नाम का सुझाव है, बिहारी, दान दान के लिए खड़ा है और बिहारी कृष्णा के लिए खड़ा है, मंदिर एक प्रसिद्ध दान के साथ जुड़े कहानी है। एक बार एक गरीब ब्राह्मण अपनी बेटी के शादी के लिए पैसे की व्यवस्था है और दु:ख में कृष्णा याद नहीं कर सके। श्री कृष्ण राधा के वजन के बराबर सोना व्यवस्था की और गरीब ब्राह्मण को दान कर दी।</string>
+		<key>address</key>
+		<string>बरसाना मथुरा, उत्तर प्रदेश 281405, भारत</string>
+		<key>latitude</key>
+		<real>27.6463789</real>
+		<key>longitude</key>
+		<real>77.3700625</real>
+		<key>summerM</key>
+		<string>07.45 a.m से  12.00 p.m</string>
+		<key>summerE</key>
+		<string>05.30 p.m से  09.30 p.m</string>
+		<key>winterM</key>
+		<string>08.45 a.m से  01.00 p.m</string>
+		<key>winterE</key>
+		<string>04.30 p.m से  08.30 p.m</string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_38</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>39</integer>
+		<key>cid</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>कुशल बिहारी मंदिर</string>
+		<key>description</key>
+		<string>कुशल बिहारी का सुंदर मंदिर एक राजपूत राजा जो राधा-कृष्ण के प्रबल भक्त था द्वारा बनाया गया था। मंदिर के अंदर मूर्ति स्लिंकी और सुंदर डिजाइनों होने बलुआ पत्थर से बाहर खुदी हुई है। श्री राधा की एक सुंदर और सुंदर मूर्ति परिसर के केंद्र में रखा जा रहा है। मंदिर का उद्घाटन करने से पहले, यह माना जाता है कि राधा राजा के सपने में आए और उससे पूछा कि उद्घाटन के साथ आगे बढ़ने के लिए नहीं के रूप में यह मूल जगह है जो राधा या लाड़ली जी के अंतर्गत आता नहीं है। इस प्रकार, राजा मूल के उसके घर पर लाड़ली जी या राधा जी के लिए एक और मंदिर का निर्माण किया और कुशाल बिहारी मंदिर में अब भी आप कृष्ण, राधा और सुंदर आसन में अपने सहयोगियों के सुंदर मूर्तियों को देख सकते हैं। यह मथुरा पर्यटन के क्षेत्र में सबसे अलबेला स्थानों में से एक है और एक बरसाना के दौरे के दौरान यह यात्रा करनी चाहिए।</string>
+		<key>address</key>
+		<string>बरसाना मथुरा, उत्तर प्रदेश 281405, भारत</string>
+		<key>latitude</key>
+		<real>27.6469919</real>
+		<key>longitude</key>
+		<real>77.3702395</real>
+		<key>summerM</key>
+		<string>04:30 am से  12:00 pm</string>
+		<key>summerE</key>
+		<string>04:30 pm से  09:00 pm</string>
+		<key>winterM</key>
+		<string>05:30 am से  12:30 pm</string>
+		<key>winterE</key>
+		<string>04:00 pm से  08:00 pm</string>
+		<key>aarti</key>
+		<string>12:00 am</string>
+		<key>Image</key>
+		<array>
+			<string>temple_39</string>
+			<string>temple_40.jpg</string>
+			<string>temple_41.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>40</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>श्री ठकुरानी घाट</string>
+		<key>description</key>
+		<string>ठकुरानी घाट गोकुल में एक लोकप्रिय घाट जहां श्री वल्लभाचार्य श्री यमुना महारानी का दर्शन प्राप्त किया है। भगवान विष्णु के अनुयायियों के लिए विशेष रूप से वल्लभ सम्प्रदाय से उन लोगों के लिए आज भी बहुत उच्च संबंध में इस जगह को पकड़ो।</string>
+		<key>address</key>
+		<string>गोकुल, महावान बांगड़, उत्तर प्रदेश 281303, भारत</string>
+		<key>latitude</key>
+		<real>27.4390954</real>
+		<key>longitude</key>
+		<real>77.7181743</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_40</string>
+			<string>temple_41.jpg</string>
+			<string>temple_42.jpg</string>
+			<string>temple_43.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>41</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>नंद भवन गोकुल</string>
+		<key>description</key>
+		<string>दिव्य वास्तुकार विश्वकर्मा भवन नंदा 5000 साल पहले बनाया गया था। एक पहाड़ी पर स्थित है, यह नंदा, भगवान कृष्ण के पालक पिता के घर गया था। यह इस घर में था कि एक युवा कृष्णा और उनके भाई बलराम लाया गया जबकि उसके जन्म के माता पिता वृंदावन में राजा कंस ने कैद कर लिया गया</string>
+		<key>address</key>
+		<string>गोकुल, महावान बांगड़, उत्तर प्रदेश 281303, भारत</string>
+		<key>latitude</key>
+		<real>27.4381752</real>
+		<key>longitude</key>
+		<real>77.71759803</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_41</string>
+			<string>temple_42.jpg</string>
+			<string>temple_43.jpg</string>
+			<string>temple_44.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>42</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>रमण रेती गोकुल</string>
+		<key>description</key>
+		<string>रमन रेती रेत, जिसमें भगवान कृष्ण एक बच्चे के रूप में खेला जाता है। हाल के समय में, लगभग 200 साल पहले, प्रसिद्ध संत स्वामी ज्ञान दास जी रमन रेती पर एक गंभीर तपस्या 12 साल के लिए किया था। उसकी भक्ति से प्रसन्न, भगवान उसके सामने प्रकट हुए और आज आप उस स्थान पर एक रमन बिहारी जी मंदिर पा सकते हैं। आज श्रद्धालु यहां रेत पर रोल और भगवान कृष्ण का आशीर्वाद लेने।</string>
+		<key>address</key>
+		<string>महावान खादर, उत्तर प्रदेश 281305, भारत</string>
+		<key>latitude</key>
+		<real>27.427686</real>
+		<key>longitude</key>
+		<real>77.7282041</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_42</string>
+			<string>temple_43.jpg</string>
+			<string>temple_44.jpg</string>
+			<string>temple_45.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>43</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>विट्ठल नाथ मंदिर</string>
+		<key>description</key>
+		<string>विट्ठल नाथ गोकुल के प्रमुख मंदिरों में से एक है। गोकुल भक्ति आंदोलन के एक अभिन्न हिस्सा था और वल्लभाचार्य प्रमुख नेता, जो भगवान कृष्ण के एक दृश्य था। उन्होंने गोकुल दौरा भक्ति के मार्ग पर लोगों का मार्गदर्शन करने के लिए और खुद के लिए जगह के साथ प्यार में गिर गई। वह घंटों यमुना के तट पर बैठे और पढ़ने श्रीमद भागवतम बिताया।</string>
+		<key>address</key>
+		<string>गोकुल, महावान बांगड़, उत्तर प्रदेश 281303, भारत</string>
+		<key>latitude</key>
+		<real>27.4361785</real>
+		<key>longitude</key>
+		<real>77.72088530000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_43</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>44</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>ब्रह्माण्ड घाट</string>
+		<key>description</key>
+		<string>यह वह जगह है जहां भगवान कृष्ण ने अपने पालक मां यशोदा को उसके मुंह के अंदर पूरे ब्रह्मांड दिखाने का उसका शगल प्रदर्शन किया है। पौराणिक कथा के अनुसार, एक बार सभी गोपाल मां यशोदा के पास आया और उसे बताया कि उसके बेटे कृष्णा कीचड़ खाया है। माता यशोदा कृष्ण के कर्म पर गुस्सा आ गया और वह जगह है जहां कृष्णा खेल रहा था, के रूप में तो उसे डाँटने के लिए गोपाल के साथ थे। पहुंचने पर वह कृष्णा से पूछा कि अगर वह कीचड़ खाया है लेकिन कृष्णा कह रही है कि सभी गोपाल झूठ बोल रहे हैं और वह कीचड़ कभी नहीं खाया से इनकार किया। तब यशोदा जो पुष्टि की है कि कृष्णा कीचड़ खाया था भगवान बलराम से सच पूछा। पूछने पर कृष्णा फिर से इनकार किया है कि वह कीचड़ नहीं खाया था। सच्चाई साबित करने के लिए, यशोदा उसके मुंह खोलने के और दिखाने के लिए अगर वह कीचड़ नहीं खाया है कृष्णा से पूछा। जब कृष्ण ने अपने छोटे मुंह खोला, मां यशोदा पूरे ब्रह्मांड कृष्ण के मुंह के अंदर घूमने की नजर में दंग रह गया था। उसकी कृष्ण के मुंह के अंदर इस तरह के एक दृष्टि के मद्देनजर होने के बाद वह अपने होश खो दिया है। एक सुंदर मंदिर इस शगल के उपलक्ष्य में इस घाट के तट पर बनाया गया है और ब्रह्माण्ड बिहारी मंदिर के रूप में नामित किया गया है।</string>
+		<key>address</key>
+		<string>गोकुल, महावान बांगड़, उत्तर प्रदेश 281303, भारत</string>
+		<key>latitude</key>
+		<real>27.4361785</real>
+		<key>longitude</key>
+		<real>77.72088530000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_44</string>
+			<string>temple_45.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>45</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>गोकुलनाथ मंदिर</string>
+		<key>description</key>
+		<string>गोकुल नाथ सबसे महत्वपूर्ण मंदिर गोकुल में यात्रा करने के लिए है। मंदिर की सेवा श्री Gosaini जी द्वारा गोकुल जी को सौंप दिया गया। यह मंदिर गोसाई विट्ठल जी और आचार्य महाप्रभु के विभिन्न संपत्ति ऐसी शॉल, हार, हस्ताक्षर और चप्पल आदि के रूप में यहाँ संरक्षित है</string>
+		<key>address</key>
+		<string>गोकुल, महावान बांगड़, उत्तर प्रदेश 281303, भारत</string>
+		<key>latitude</key>
+		<real>27.4361785</real>
+		<key>longitude</key>
+		<real>77.72088530000001</real>
+		<key>summerM</key>
+		<string></string>
+		<key>summerE</key>
+		<string></string>
+		<key>winterM</key>
+		<string></string>
+		<key>winterE</key>
+		<string></string>
+		<key>aarti</key>
+		<string></string>
+		<key>Image</key>
+		<array>
+			<string>temple_45</string>
+			<string>temple_46.jpg</string>
+			<string>temple_47.jpg</string>
+		</array>
+		<key>video</key>
+		<array/>
+	</dict>
+</array>
+</plist>

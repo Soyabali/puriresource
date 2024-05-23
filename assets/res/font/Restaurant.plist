@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>400</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Ammaji&apos;s Restaurant</string>
+		<key>description</key>
+		<string>A wide range of culinary delights from Indian Thali to snacks from around the world, Italian pizza and pasta to German bread and sandwiches, from homemade ice cream to coffee, tea and cake. Everything made with love, giving you the taste of home away from home! Know what you eat with our organic range and just take a break from busy Indian life!</string>
+		<key>address</key>
+		<string>Parikrama Marg | Shree Bindu Sewa Sansthan, Vrindavan 281121, India</string>
+		<key>contact</key>
+		<string>+919997710000</string>
+		<key>latitude</key>
+		<real>27.56656</real>
+		<key>longitude</key>
+		<real>77.693123</real>
+		<key>ratings</key>
+		<real>4</real>
+		<key>image</key>
+		<array>
+			<string>resto_0</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>401</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>MVT Restaurant</string>
+		<key>description</key>
+		<string>MVT Restaurant offers a great variety of Pure Vegetarian Cuisine. The interior of the MVT Restaurant is rustically styled with a backdrop of the beautiful gardens of the MVT property. MVT Restaurant offers Breakfast 8.30 AM to 10.00 AM, Lunch 12.30 PM to 3.30 PM and Dinner 6.30 PM to 9.30 PM between the months of August through April. MVT Restaurant is closed for the summer months between May and July. Come and enjoy the best and cleanest cuisine in Vrindavan at the MVT Restaurant.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg | Raman Reti, Vrindavan 281121, India</string>
+		<key>contact</key>
+		<string>+919997738666</string>
+		<key>latitude</key>
+		<real>27.5735024</real>
+		<key>longitude</key>
+		<real>77.678318</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>resto_1</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>402</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>New Govinda</string>
+		<key>description</key>
+		<string>Govinda is a name for krishna which means “he who gives pleasure to senses “New Govinda Restaurant is one of more than 150 ISKCON Restaurants around the world which promotes Pure vegetarianism by serving delicious PRASADAM .</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg | Raman reiti, Vrindavan, India</string>
+		<key>contact</key>
+		<string>05652540728</string>
+		<key>latitude</key>
+		<real>27.56656</real>
+		<key>longitude</key>
+		<real>77.693123</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_2</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>403</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Nidhivan Sarovar Portico</string>
+		<key>description</key>
+		<string>One of the most prized features is its pure vegetarian restaurant &apos;Tripti&apos; offering the finest delicacies of North Indian, South Indian, Chinese and Continental cuisines. Not to miss home-cooked style pure vegetarian food with fresh and authentic ingredients.</string>
+		<key>address</key>
+		<string>Gopalgarh Tehra Road | Khasra 797, Vrindavan 281121, India</string>
+		<key>contact</key>
+		<string>+915653037000</string>
+		<key>latitude</key>
+		<real>27.5649905</real>
+		<key>longitude</key>
+		<real>77.65570150000001</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_3</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>404</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Bharti Vyanjan Restaurant</string>
+		<key>description</key>
+		<string>&quot;Bharti Mithaiwala&apos; is a well known name among the Food and Sweets lovers since last 40 years in and around Vrindavan! Going ahead, we have recently inaugurated &apos;BHARTI VYANJAN&apos;, a Pure Veg Multi-cuisine Restaurant where we served Multi Cuisines with Indian, South India, Chinese and Continental food that will satisfy the deepest desires of your palate. </string>
+		<key>address</key>
+		<string>Tehra Road | Hotel The Royal Bharti, Rukmani Vihar, Vrindavan 281121, India</string>
+		<key>contact</key>
+		<string>+917055520201</string>
+		<key>latitude</key>
+		<real>27.564305</real>
+		<key>longitude</key>
+		<real>77.65608400000001</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_4</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>405</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Dasaprakash Restaurant Vrindavan</string>
+		<key>description</key>
+		<string>Dasaprakash is one of most renowned south Indian restaurants chain in the country, having its branches in various cities. Located inside the Kridha Residency hotel in Vrindavan, the restaurant serves a wide variety of flavoursome Indian delicacies from the south and north. The entire restaurant is tastefully done and the walls are adorned with some beautiful paintings of Lord Krishna that adds to its beauty. The restaurant is also known for its mouth-melting desserts. Sundays served here are highly recommended.</string>
+		<key>address</key>
+		<string>Chattikara Road | Bhaktivedanta Swami Marg, Near Axis Bank, Vrindavan 281121, India</string>
+		<key>contact</key>
+		<string>05652540151</string>
+		<key>latitude</key>
+		<real>27.5698335</real>
+		<key>longitude</key>
+		<real>77.6657767</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_5</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>405</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Bansal Foods Restaurant</string>
+		<key>description</key>
+		<string>Bansal Foods Restaurant, located in the heart of Mathura in Krishna Nagar area, is another prominent multi-cuisine restaurant. This pure veg restaurant is known for using exotic spices and herbs in its dishes. The menu includes a wide assortment of south Indian, north Indian and Chinese dishes. The variety of chaats, beverages and other snacks served here are also a must try. Food here is cooked to order and high level of hygiene and quality is maintained at all times. To relish a range of freshly prepared dishes and for an unforgettable dining experience, do visit Bansal Foods Restaurant.</string>
+		<key>address</key>
+		<string>Bhuteshwar Road, Krishna Nagar, Mathura, Uttar Pradesh 281001</string>
+		<key>contact</key>
+		<string>05652421946</string>
+		<key>latitude</key>
+		<real>27.500904</real>
+		<key>longitude</key>
+		<real>77.655427</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_6</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>407</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Taj Family Restaurant</string>
+		<key>description</key>
+		<string>Taj Family Restaurant, located on Daresi Road, is known for serving delectable vegetarian and non-vegetarian delicacies in Mathura. Those craving for some meaty delights can visit here and order their chicken specialties which are absolutely delicious. Decent, hygienic and prompt service make this restaurant a must visit. As there are not many places in the holy city of Mathura dishing out non-veg delicacies, Taj Family restaurant is visited by a number of meat lovers.</string>
+		<key>address</key>
+		<string>Daresi Road, Manoharpura, Mathura, Uttar Pradesh 281001</string>
+		<key>contact</key>
+		<string>05652401786</string>
+		<key>latitude</key>
+		<real>27.5027684</real>
+		<key>longitude</key>
+		<real>77.6752327</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_7</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>408</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Gokul Restaurant</string>
+		<key>description</key>
+		<string>-</string>
+		<key>address</key>
+		<string>Masani Rd, Garravkendra, Mathura, Uttar Pradesh 281121</string>
+		<key>contact</key>
+		<string>+919368083854</string>
+		<key>latitude</key>
+		<real>27.5295976</real>
+		<key>longitude</key>
+		<real>77.6599657</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>409</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Basera Restaurant</string>
+		<key>description</key>
+		<string>Located at an ideal location, Basera Restaurant is one of the suitable places to dine in Mathura. Guests can savour delicious delicacies at this homely restaurant. Also, those with a sweet tooth can try some desserts at this restaurant. </string>
+		<key>address</key>
+		<string>C 64, Shri Radha Puram, Vishwalaxmi Nagar Mathura, Uttar Pradesh 281004</string>
+		<key>contact</key>
+		<string>+919412278120</string>
+		<key>latitude</key>
+		<real>27.5094716</real>
+		<key>longitude</key>
+		<real>77.6528598</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_9</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>410</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Dosa Plaza Mathura</string>
+		<key>description</key>
+		<string>&quot;Bharti Mithaiwala&apos; is a well known name among the Food and Sweets lovers since last 40 years in and around Vrindavan! Going ahead, we have recently inaugurated &apos;BHARTI VYANJAN&apos;, a Pure Veg Multi-cuisine Restaurant where we served Multi Cuisines with Indian, South India, Chinese and Continental food that will satisfy the deepest desires of your palate. </string>
+		<key>address</key>
+		<string>Deeg gate - Masani Road, Opposite Roopam cinema, Mathura, Uttar Pradesh 281001</string>
+		<key>contact</key>
+		<string>05652500090</string>
+		<key>latitude</key>
+		<real>27.509189</real>
+		<key>longitude</key>
+		<real>77.671593</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_10</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>411</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Hotel Ganpati Palace</string>
+		<key>description</key>
+		<string>Welcome to Hotel Ganpati Palace Mathura to enjoy the art of hospitality. The property is an urban haven of refined service and understated elegance. This fine property is located at &apos;Braj Bhoomi&apos; Lord Krishna&apos;s birth place-tourist destination with the ultimate in world class service and facilities, combined with the group&apos;s traditional reputation for genuine hospitality experience.</string>
+		<key>address</key>
+		<string>Near I.O.C.L. Petrol Pump, Bhuteshwar Road, Manoharpura, Mathura, Uttar Pradesh 281001</string>
+		<key>contact</key>
+		<string>+919458406203</string>
+		<key>latitude</key>
+		<real>27.49664715</real>
+		<key>longitude</key>
+		<real>77.67097011</real>
+		<key>ratings</key>
+		<real>2</real>
+		<key>image</key>
+		<array>
+			<string>resto_11</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>412</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Bansuri Vyanjan</string>
+		<key>description</key>
+		<string>-</string>
+		<key>address</key>
+		<string>Govardhan Brahmnan, Uttar Pradesh</string>
+		<key>contact</key>
+		<string>+919720064999</string>
+		<key>latitude</key>
+		<real>27.4961817</real>
+		<key>longitude</key>
+		<real>77.4691339</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_12</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>413</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Hotel Gitanjali</string>
+		<key>description</key>
+		<string>-</string>
+		<key>address</key>
+		<string>Near of Lathokari mahadev, Mathura road, Govardhan</string>
+		<key>contact</key>
+		<string>+918439262595</string>
+		<key>latitude</key>
+		<real>27.4915109</real>
+		<key>longitude</key>
+		<real>77.4752896</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>414</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Ghanshyam Bhojnalaya &amp; Family Restaurant</string>
+		<key>description</key>
+		<string>-</string>
+		<key>address</key>
+		<string>Near Bus Stand, Gokul barrage Rd, Mathura, Uttar Pradesh 281303</string>
+		<key>contact</key>
+		<string>+918755225200</string>
+		<key>latitude</key>
+		<real>27.4410911</real>
+		<key>longitude</key>
+		<real>77.7214122</real>
+		<key>ratings</key>
+		<real>2</real>
+		<key>image</key>
+		<array>
+			<string>resto_14</string>
+		</array>
+	</dict>
+</array>
+</plist>

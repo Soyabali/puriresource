@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>100</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Kridha Residency</string>
+		<key>description</key>
+		<string>A Boutique Hotel nestled in the heart of Mathura Vrindavan city which is symbol of love and allegiance towards Lord Krishna and Goddess Radha. Hotel is geographically located on the Bhaktivedanta Road close to Prem Mandir which is not too far from any of the prominent temples or places of interests. Each of 35 rooms/suites at KRIDHA RESIDENCY have been very tastefully appointed with much exquisite details. We can proudly say that our entire range of furniture is comparable to any of the international 5 star hotel chains. To give you a feel of Krishna’s abode - Vrindavan &amp; Brij - we have used a unique element in each of the rooms with inspirational paintings of Krishna &amp; Radha in different moods which gives a breathtaking feel of Bhakti to the guests. So don’t be surprised if your room is different from the one next to you!! You shall be delighted to know that Hotel Kridha Residency proudly boasts of the MOST SPACIOUS ROOMS in the entire Vrindavan-Mathura region. The staff at KRIDHA RESIDENCY believes in the age old Indian philosophy of “Athithi Devo Bhava&quot; which means we welcome and serve our guests as God with much dedication. The ambience in the hotel premises will make you feel closer to the divine Krishna and Radha with our traditional yet impeccable service. Moment you enter KRIDHA RESIDENCY you can feel the spiritualism in the air, we greet our guests with folded hands “RADHE- RADHE” a local Vrindavan WELCOME. Kridha Residency proudly boasts of –DASAPRAKASH: widely acclaimed renowned Vegetarian Restaurant serving Pure Vegetarian North &amp; South Indian cuisine! The food at our restaurant is hygienically prepared &amp; served and we follow strict measures to maintain quality standard. Best quality raw material is used to maintain the standards; our management provides timely training to the staff of the restaurant.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg | opp Prem Mandir, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5696983</real>
+		<key>longitude</key>
+		<real>77.665851</real>
+		<key>rate</key>
+		<real>2267</real>
+		<key>maxRate</key>
+		<real>3400</real>
+		<key>ratings</key>
+		<real>3.2</real>
+		<key>image</key>
+		<array>
+			<string>hotel_0</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>101</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Nidhivan Sarovar Portico Vrindavan</string>
+		<key>description</key>
+		<string>Nidhivan&apos; literally meaning a &apos;forest of treasures&apos; is a perfect luxurious base to discover Vrindavan, the spellbinding land of Lord Krishna. Ideally located in the calm environs of the city and close to ISCON Temple, it is indeed a blessing for all those looking for a hassle free, heightened, self contained place of stay. The hotel blends a fine modern and comfortable feel offering 68 elegant rooms, multiple banqueting and conferencing facilities and health centre. The focus is on lavish yet natural care hence rooms are equipped with all the modern amenities and herbal products. Besides its exclusive location, the hotel is known for its contemporary dining options and the city&apos;s largest banquet facilities. One of the most prized features is its pure vegetarian restaurant &apos;Tripti&apos; offering the finest delicacies of North Indian, South Indian, Chinese and Continental cuisines. Not to miss home-cooked style pure vegetarian food with fresh and authentic ingredients. Relax, unwind, spend a good weekend away from the city, as you are not in a hotel but a home-stay. Let the flow of spirituality be the essence of your calm and comfortable retreat. Then only you will cherish the sights and sounds of Vrindavan, the homeland of Lord Krishna.</string>
+		<key>address</key>
+		<string>Khasra No. 797, Gopalgarh Tehra Road, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5649905</real>
+		<key>longitude</key>
+		<real>77.65570150000001</real>
+		<key>rate</key>
+		<real>4333</real>
+		<key>maxRate</key>
+		<real>4733</real>
+		<key>ratings</key>
+		<real>4</real>
+		<key>image</key>
+		<array>
+			<string>hotel_1</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>102</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hare Krishna Orchid</string>
+		<key>description</key>
+		<string>We are please to inform you that we have an amazing property of 100 rooms, named hare Krishna Orchid with other facilities like swimming pool, Multi Gym,Sauna bath, Steam bath, Kids Park, Marriage Lawn, Open Air Theater, Parking, veg Restaurant, in Vrindavan near by all famous temple in vrindavan.</string>
+		<key>address</key>
+		<string>Sunrukh Road | behind Prem Temple, Near NRI Green, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5776762</real>
+		<key>longitude</key>
+		<real>77.6670665</real>
+		<key>rate</key>
+		<real>1800</real>
+		<key>maxRate</key>
+		<real>4200</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_2</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>103</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>MVT Guesthouse &amp; Restaurant</string>
+		<key>description</key>
+		<string>Experience the magic and charm of India&apos;s spiritual culture while residing in the comfort and security of Vrindavan&apos;s most beautifully designed fully serviced guesthouse. Visit hundreds of pilgrimage sites in Lord Krishna&apos;s holy land.</string>
+		<key>address</key>
+		<string>Bhaktivedanta Swami Marg | Raman-Reti, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5735024</real>
+		<key>longitude</key>
+		<real>77.678318</real>
+		<key>rate</key>
+		<real>1700</real>
+		<key>maxRate</key>
+		<real>3000</real>
+		<key>ratings</key>
+		<real>4.6</real>
+		<key>image</key>
+		<array>
+			<string>hotel_3</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>104</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Basera Vrindavan</string>
+		<key>description</key>
+		<string>Hotel Basera Vrindavan, Mathura is a fusion of comfort and spirituality. The warm hospitality services along with modern day amenities attract the guests for a relaxed stay. Spic and span room along with delicious dishes churned out in the in-house restaurant make it an ideal destination among leisure travellers.
+With moderate facilities and warm hospitality, Hotel Basera Vrindavan ensures a pleasant stay. The basic amenities assured to the guests during the stay are room service, internet, 24-hour front desk, parking, travel desk, 24-hour security and doctor on call. Guests can avail wedding services and banquet facilities while organising any social events. Corporate travellers for a smooth flow during meetings, seminars and corporate events can avail business services during the stay. The multi- cuisine in-house restaurant serves sumptuous food which guests can indulge in. Guests can also savour delectable food in the comfort of their rooms with the help of 24-hours in-room food service.</string>
+		<key>address</key>
+		<string>Raman Reti Marg opp. Fogla Ashram, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5712979</real>
+		<key>longitude</key>
+		<real>77.6650661</real>
+		<key>rate</key>
+		<real>1800</real>
+		<key>maxRate</key>
+		<real>3666</real>
+		<key>ratings</key>
+		<real>3.2</real>
+		<key>image</key>
+		<array>
+			<string>hotel_4</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>105</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Krishnam</string>
+		<key>address</key>
+		<string>Raman Reti Marg, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>description</key>
+		<string>At Hotel Krishnam all the needs are taken care of meticulously with a warm welcome. The blend of contemporary comfort, traditional hospitality makes the hotel an excellent destination for the city visitor.
+
+We offer luxurious rooms &amp; services with all prerequisite facilities and amenities to ensure the feel of home, away from home. The hotel features elegantly decorated suites and rooms, which have tastefully decorated interiors, encompassing all the modern trends. In all, every staff at the hotel brings forth the best to provide you the lifetime memories to cherish.
+
+Located in the heart of city Vrindavan, the property holds a stunning position, strategically located to add ease and convenience to your stay. It is 500 meters away from the famous Banke Bihari Temple and 700 meters from the ISKCON Temple. Hotel Krishnam has a 56 Delight&apos;s Multi Cuisine Restaurant, a Banquet and a Conference Hall.
+
+A team of skilled personnel is dedicated to delight you and will ensure that you receive personalized service and care.
+
+We want your experience at Krishnam to blow your mind, so go ahead . . . browse our website and book a room, and be prepared to fall in love.
+
+“This vacation let the romanticism within, win hearts at the Heritage city. Enrobe your vacation in the mystical milieu of love at Hotel Krishnam in Vrindavan.”</string>
+		<key>latitude</key>
+		<real>27.5750452</real>
+		<key>longitude</key>
+		<real>77.685728</real>
+		<key>rate</key>
+		<real>2733</real>
+		<key>maxRate</key>
+		<real>3733</real>
+		<key>ratings</key>
+		<real>3.2</real>
+		<key>image</key>
+		<array>
+			<string>hotel_5</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>106</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Shubham Majesty</string>
+		<key>description</key>
+		<string>Hotel Shubham Majesty provides centrally air- conditioned rooms and restaurant. Hotel with complete power backup. Elegantly furnished rooms with rich decors. Basement Parking for your cars. All rooms with Large Screen LCD TVs, western styled toilets, writing desk, individual temperature controls, sofa chair, luggage rack and cupboard.</string>
+		<key>address</key>
+		<string>3-4 Gandhi Marg, Vidyapeeth Crossing, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.576449</real>
+		<key>longitude</key>
+		<real>77.6893115</real>
+		<key>rate</key>
+		<real>1533</real>
+		<key>maxRate</key>
+		<real>2267</real>
+		<key>ratings</key>
+		<real>0</real>
+		<key>image</key>
+		<array>
+			<string>hotel_6</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>107</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel The Royal Bharti</string>
+		<key>description</key>
+		<string>Hotel Royal Bharti in Vrindavan, well-known for its quality and its excellence in hotel industry, business facilities, interiors, and customized service. We are the premier hotel service provider in this region. Our location is very near to historical and pilgrim centres. It is with special pride that we have invite you to be our honoured guest at Vrindavan, wherever the Hotel Royal Bharti setting benchmarks for an impressive expertise in hotel industry. We feel pleasure in introducing ourselves as a progressive firm in guest service, with our slogan best services for you. We are within the main business market of Vrindavan, our building is simply couple of minutes distance from the rail-road terminal, terminus and main Business Arcade and also the illustrious temples of Vrindavan.</string>
+		<key>address</key>
+		<string>Gopalgarh Tehra Road, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.564154</real>
+		<key>longitude</key>
+		<real>77.6565059</real>
+		<key>rate</key>
+		<real>3133</real>
+		<key>maxRate</key>
+		<real>4466</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>hotel_7</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>108</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel The Shubham</string>
+		<key>description</key>
+		<string>Hotel The Shubham is the very first hotel in Vrindavan furnished with all the modern facilities to make your stay comfortable. Centrally located in the heart of the city the hotel is at close proximity with all the important places in the city, like Bankey Bihari Temple, ISKCON Temple, Bus Stand etc.</string>
+		<key>address</key>
+		<string>Vidyapeeth Crossing | Gandhi Nagar, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5771437</real>
+		<key>longitude</key>
+		<real>77.6905192</real>
+		<key>rate</key>
+		<real>1067</real>
+		<key>maxRate</key>
+		<real>1533</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>hotel_8</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>109</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Dev Residency</string>
+		<key>description</key>
+		<string>Newly constructed Grade A hotel in Vrindavan called Hotel Dev Residency, awaits your arrival at the most amazing place in Vrindavan Uttar Pradesh, India. 36 beautifully appointed deluxe rooms and suites, each with all modern amenities like LCD TV with entertainment channels, telephone, Wi-Fi Internet access, and magnificent views. Courtesy services to and from city are also available.</string>
+		<key>address</key>
+		<string>150, Bankey Bihari Colony | Raman Reti Road, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.575915</real>
+		<key>longitude</key>
+		<real>77.6871079</real>
+		<key>rate</key>
+		<real>1533</real>
+		<key>maxRate</key>
+		<real>2267</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>hotel_9</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>110</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Shubham Holidays</string>
+		<key>description</key>
+		<string>Hotel Shubham Holidays is centrally located and is furnished with all modern facilities to make your stay comfortable. Hotel is at close proximity with all the important places in the city, like Bankey Bihari Temple, ISKCON Temple, Bus Stand etc.</string>
+		<key>address</key>
+		<string>Gandhi Marg, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.57642204</real>
+		<key>longitude</key>
+		<real>77.689716739</real>
+		<key>rate</key>
+		<real>1200</real>
+		<key>maxRate</key>
+		<real>1533</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>hotel_10</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>111</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Santosh Dham</string>
+		<key>description</key>
+		<string>For travelers who want to take in the sights and sounds of Mathura, Hotel Santosh Dham is the perfect choice. From here, guests can enjoy easy access to all that the lively city has to offer. With its convenient location, the hotel offers easy access to the city&apos;s must-see destinations.
+
+Hotel Santosh Dham offers impeccable service and all the essential amenities to invigorate travelers. Top features of the hotel include free Wi-Fi in all rooms, 24-hour security, daily housekeeping, laundromat, postal service.
+
+Step into one of 42 inviting rooms and escape the stresses of the day with a wide range of amenities such as additional toilet, additional bathroom, air conditioning, heating, in room safe which can be found in some rooms. Besides, the hotel&apos;s host of recreational offerings ensures you have plenty to do during your stay. Whatever your purpose of visit, Hotel Santosh Dham is an excellent choice for your stay in Mathura.</string>
+		<key>address</key>
+		<string>70 Ashram Vihar Chhatikara Road | Near by Prem Mandir, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5692418</real>
+		<key>longitude</key>
+		<real>77.6577723</real>
+		<key>rate</key>
+		<real>1867</real>
+		<key>maxRate</key>
+		<real>2933</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>hotel_11</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>112</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Vrinda Palace Seva Dham</string>
+		<key>description</key>
+		<string>Designed for both business and leisure travel, Hotel Vrinda Palace Seva Dham is ideally situated in Mathura; one of the city&apos;s most popular locales. The excitement of the city center is only 1 km away. With its convenient location, the hotel offers easy access to the city&apos;s must-see destinations.
+
+Offering hotel guests superior services and a broad range of amenities, Hotel Vrinda Palace Seva Dham is committed to ensuring that your stay is as comfortable as possible. The hotel offers access to a vast array of services, including free Wi-Fi in all rooms, 24-hour security, 24-hour front desk, 24-hour room service, Wi-Fi in public areas.
+
+All guest accommodations feature thoughtful amenities to ensure an unparalleled sense of comfort. Besides, the hotel&apos;s host of recreational offerings ensures you have plenty to do during your stay. Discover an engaging blend of professional service and a wide array of features at Hotel Vrinda Palace Seva Dham.</string>
+		<key>address</key>
+		<string>S-2/174-175 | Chaitanya Vihar, Phase - 2, Near Prem Mandir, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5629444</real>
+		<key>longitude</key>
+		<real>77.6766329</real>
+		<key>rate</key>
+		<real>1333</real>
+		<key>maxRate</key>
+		<real>1933</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>hotel_12</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>113</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Ananda Krishna Van</string>
+		<key>description</key>
+		<string>Ananda Krishna Van features apartments with a kitchenette and free private parking. Located in Vrindavan, known for its many sacred temples, the property is 400 metres from Prem Mandir (Temple of Love). The air-conditioned apartments feature a satellite TV, seating area and wardrobe. It includes a kitchenette with microwave and refrigerator. Private bathroom comes with free toiletries and a shower. Ananda Krishna Van is a 5-minute walk to Ikson Temple and 800 metres from Banke Bihari Temple. It is 1.8 km from Vrindavan Railway Station and 10 km from Mathura Railway Station. Guests can learn yoga, meditate or go for a herbal beauty treatment at the Ayurvedic centre. Massage services are also available. Ananda Bhoj Restaurant serves only vegetarian dishes cooked in Indian and Chinese styles.</string>
+		<key>address</key>
+		<string>Sunrakh Road, Parikrama Marg, Near Iskcon, Madhuvan Colony, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5748411</real>
+		<key>longitude</key>
+		<real>77.6737684</real>
+		<key>rate</key>
+		<real>1400</real>
+		<key>maxRate</key>
+		<real>1867</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_13</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>114</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Krishna International Hotel</string>
+		<key>description</key>
+		<string>Hotel Krishna International Vrindavan is a Three Star Hotel with a Latest facilities. Set in a Span of beautifully landscaped acres, the building has an imposing yet serene presence, a resort like ambience. Service is the key word at Hotel Krishna International where warm and personalized service is a tradition. This fine property is located at &apos;Braj Bhoomi&apos; in Vrindavan place-tourist destination with the ultimate in world class service and facilities, combined with the group&apos;s traditional reputation for genuine hospitality experience. It is characterized by long corridors and walkways, lush-green lawns, banquets and theme parties.</string>
+		<key>address</key>
+		<string>MVT - Bhaktivedanta Asharm, Bhaktivedanta Swami Marg, Near MVT Iskcon Temple, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.573088</real>
+		<key>longitude</key>
+		<real>77.67836</real>
+		<key>rate</key>
+		<real>2084</real>
+		<key>maxRate</key>
+		<real>3500</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_14</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>115</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Yamuna Dham</string>
+		<key>description</key>
+		<string>Yamuna Dham, a relatively new hotel offering a pleasant stay in Raman Reti. We are offering budget stay at this place. This is a more modern setup and would serve as a delightful option to stay. Situated on Raman Reti Road, and very close (1km) to Isckon Temple. This hotel offers you a pleasant and budget stay at a location from where you can reach almost all the temples in and around Vrindavan.</string>
+		<key>address</key>
+		<string>Raman Reti Road | Near Hari Nikunj Chauraha, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.576438</real>
+		<key>longitude</key>
+		<real>77.687657</real>
+		<key>rate</key>
+		<real>667</real>
+		<key>maxRate</key>
+		<real>1000</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_15</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>116</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Vrindavan Garden</string>
+		<key>description</key>
+		<string>Hotel Vrindavan Garden is located at a distance of 10 km from the Old Bus Stand. This hotel offers internet (chargeable) facility to its guests. This hotel offers 25 spacious and comfortable rooms for accommodation in Mathura. Each room is equipped with amenities like air conditioner, television, separate sitting area, wardrobe, toiletries and attached bathroom with hot &amp; cold running water.
+Guests can dine at on-site restaurant during their stay. The hotel has a banquet and garden within the premises. Hotel Vrindavan Garden offers 24-hour room service, laundry, safe deposit locker, doctor-on-call, foreign exchange and tour arrangements to all its patrons. Major Tourist attractions for the guests include Prem Mandir (3.5 km), Mathura (10 km), Govardhan (26 km) and Barshana (47 km). This hotel is located at a distance of 11 km from the Mathura Railway Station and 165 km from the Indira Gandhi International Airport.</string>
+		<key>address</key>
+		<string>Near Jaipur Mandir, Mathura Road, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.57198</real>
+		<key>longitude</key>
+		<real>77.692018</real>
+		<key>rate</key>
+		<real>800</real>
+		<key>maxRate</key>
+		<real>1667</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_16</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>117</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Bhakti Dhama</string>
+		<key>description</key>
+		<string>The hotel Bhakti Dhama Residency was quite nice and it was overall a very positive experience. The hotel was located quite near to ISKCON temple and so it was quite easy to go there and have good spent of time. The hotel rooms were quite clean and all during stay we did not had any issue with service. It is a best place to stay at Vrindavan Hotel BHAKTI DHAMA residency, very peaceful, comfortable and homely. This is the place where you can relax and self realization yourself. There are modern facility available. Building elevation with Rajasthani style. It is very safe place at night. All rooms are air-condition.</string>
+		<key>address</key>
+		<string>Behind Iskcon Temple, Raman Reti, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.57347</real>
+		<key>longitude</key>
+		<real>77.67712</real>
+		<key>rate</key>
+		<real>1733</real>
+		<key>maxRate</key>
+		<real>1800</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_17</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>118</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Priya Palace </string>
+		<key>description</key>
+		<string>By keeping in mind, the varying needs and requirements of travelers, we at Hotel Priya Palace strive hard to give you the perfect amalgamation of convenience and opulence. As one of the most popular budget hotels in Vrindavan, Hotel Priya Palace balances luxury with comfort and that too at very competent rates.
+With decades of experience in the hospitality industry, our team is there to give you the best of the best services. It is a common notion in people that if they are staying at a budget hotel they would have to compromise with the services. Nevertheless, with Priya Palace Hotel, you get unparalleled services. Wi-Fi, gym, station transfers, laundry service and 24 hours room service are some of the prime services that we offer. Offering restaurant and banquet facilities to all its guests, Priya Palace is at 0.5 km from the Prem Mandir. This accommodation in Vrindavan is accessible from the Vrindavan Railway Station (3 km). Rooms are equipped with TVs, wardrobes, makeup mirrors, water, and bottle openers. All rooms have an attached bathroom with hot and cold running water. This hotel in Vrindavan provides laundry and room services to its guests. Front desk assistance is also provided. Priya Palace is at a distance of 10 km from the Sri Krishna Janmasthan, the Government Museum Mathura, the Vishram Ghat, and the Bhuteshwar Mahadev Temple. The Masani Bus Stand is at 9 km and the Kheria Airport is at 75 km from this hotel. It offers airport pick and drop facility to its guests.</string>
+		<key>address</key>
+		<string>In Front of Prem Mandir, Bhaktivedanta Swami Marg, Chaitanya Vihar, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.5707254</real>
+		<key>longitude</key>
+		<real>77.6712316</real>
+		<key>rate</key>
+		<real>867</real>
+		<key>maxRate</key>
+		<real>1200</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_18</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>119</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Bharti Guest House</string>
+		<key>description</key>
+		<string>A perfect place for comfortable stay during your pilgrimage to Vrindavan. This guest house is the best accomodation solution in terms of peace, comfort and safety, providing comfort to lakhs of devotees since 1986. Situated next to famous Bankey Bihari Temple, this guest house ensures hassle free darshan at all times to the temples. Another major factor that will drive you to this place is the budget rates and cleanliness.</string>
+		<key>address</key>
+		<string>Near Sneh Bihari Temple, Dusayat, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.58111</real>
+		<key>longitude</key>
+		<real>77.692339</real>
+		<key>rate</key>
+		<real>667</real>
+		<key>maxRate</key>
+		<real>867</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_19</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>120</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hotel Basera Brij Bhoomi </string>
+		<key>description</key>
+		<string>Hotel Basera Brij Bhoomi is perfectly located for both business and leisure guests in Mathura. The hotel offers a wide range of amenities and perks to ensure you have a great time. 24-hour security, daily housekeeping, taxi service, ticket service, 24-hour front desk are there for guest&apos;s enjoyment. Comfortable guestrooms ensure a good night&apos;s sleep with some rooms featuring facilities such as non smoking rooms, air conditioning, heating, wake-up service, desk. The hotel offers various recreational opportunities. Discover all Mathura has to offer by making Hotel Basera Brij Bhoomi your base.</string>
+		<key>address</key>
+		<string>Atalla Chungi Vrindavan, Vrindavan, Mathura, Uttar Pradesh 281121</string>
+		<key>latitude</key>
+		<real>27.568392</real>
+		<key>longitude</key>
+		<real>77.689127</real>
+		<key>rate</key>
+		<real>1600</real>
+		<key>maxRate</key>
+		<real>2467</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_20</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>121</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Brijwasi Lands Inn</string>
+		<key>description</key>
+		<string>Brijwasi Lands Inn is a secure oasis of peace and tranquility, a luxurious place to stay, efficiently backed by decades of experience in personalized service. Away from the commotion and congestion of the city, yet offering you each &amp; every modern comfort set in a beautiful, clean, noise-free environment, it is only 2 minutes drive from the Delhi-Agra NH-2 and only 10 minutes from the Birth Place of Lord Krishna.Rooms &amp; Suits – With far more space than a common hotel room, our hotel provides the guest with the choice of 30 luxurious and 02 suit rooms to stretch out and relax. Rooms &amp; Suites-With choice of a suit room, Business travelers won’t have to make their bedroom their office. Our spacious living rooms include a desk and are an ideal place to hold small meetings or socialize with co-workers. Parents, imagine being able to tuck their kids into bed, and having some quiet time of their own to enjoy a movie or to have a romantic evening in a separate room. Aura Restaurant with a capacity of 96 cover with elevated landscape view offering a wide range of multi cuisines pure veg. specialty dishes with exquisite taste. Aura welcomes you to its one of a kind live restaurant in the city. Mahiki– The first and only lounge in city welcomes all glass mates to experience endless blends of alcoholic and non-alcoholic beverages with un-ending snacks platters and thump of music.</string>
+		<key>address</key>
+		<string>Masani Link Road, Bypass, Mathura 281003, India</string>
+		<key>latitude</key>
+		<real>27.5228069</real>
+		<key>longitude</key>
+		<real>77.6659665</real>
+		<key>rate</key>
+		<real>3274</real>
+		<key>maxRate</key>
+		<real>4811</real>
+		<key>ratings</key>
+		<real>4</real>
+		<key>image</key>
+		<array>
+			<string>hotel_21</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>122</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Hotel Spiti</string>
+		<key>description</key>
+		<string>Hotel Spiti is a Premium Budget hotel with based in mathura. Come in &amp; relax in our sprawling garden &amp; enjoy home made vegetarian food from our kitchen. All of our rooms have luxurious king size bed , free wifi, shower, tea maker &amp; other amenities. Also, the hotel is located on the delhi-agra highway and its in the radius of the main city which makes it convenient to visit all the major tourist attractions &amp; drive out in the morning to Delhi or agra avoiding city traffic jams.</string>
+		<key>address</key>
+		<string>Opposite Highway Plaza, NH-2, Mathura 281004, India</string>
+		<key>latitude</key>
+		<real>27.491614</real>
+		<key>longitude</key>
+		<real>77.653852</real>
+		<key>rate</key>
+		<real>1670</real>
+		<key>maxRate</key>
+		<real>2806</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_22</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>123</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>The Radha Ashok</string>
+		<key>description</key>
+		<string>The Radha Ashok is an excellent choice by travelers &amp; tour Operators alike for Elegantly well appointed Spotless &amp; Clean rooms, High Quality food in its Restaurant, Smiling Staff and Value for Money Services. It is a priority choice of all visitors &amp; tour operators for their Mathura – Vrindavan itinerary.</string>
+		<key>address</key>
+		<string>Masani Bypass Road,NH-2, Mathura 281001, India</string>
+		<key>latitude</key>
+		<real>27.5266985</real>
+		<key>longitude</key>
+		<real>77.6620885</real>
+		<key>rate</key>
+		<real>3341</real>
+		<key>maxRate</key>
+		<real>4543</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>hotel_23</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>124</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>MMN Resort</string>
+		<key>description</key>
+		<string>Offering a spa and wellness centre, a massage parlour and a fitness centre, MMN Resort is located in Mathura.
+
+The property is 3 km from ISCKON Temple and 10 km from Krishna Janma Bhoomi. The Local Bus Station is 10 km. The Mathura Junction Railway Station is 15 km while Agra Air Force Station is 70 km.
+
+The accommodation will provide you with a TV, air conditioning and a seating area. There is also an electric kettle. Featuring a shower, private bathrooms also come with free toiletries. Extras include cable channels.
+
+At MMN Resort you will find a 24-hour front desk. Other facilities offered at the property include meeting facilities, a tour desk and luggage storage.
+
+Guests can relish their Indian and Continental favourites from The Annapurna Restaurant. 24-hour room service is available.</string>
+		<key>address</key>
+		<string>Mathura Vrindavan Marg | Vatsalya Gram, Mathura 281001, India</string>
+		<key>latitude</key>
+		<real>27.5200713</real>
+		<key>longitude</key>
+		<real>77.6731722</real>
+		<key>rate</key>
+		<real>869</real>
+		<key>maxRate</key>
+		<real>1136</real>
+		<key>ratings</key>
+		<real>2</real>
+		<key>image</key>
+		<array>
+			<string>hotel_24</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>125</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Hotel Mukund Palace</string>
+		<key>description</key>
+		<string>Hotel Mukund Palace is 60 kms from the Kheria Airport at Agra and just a km away from the bus terminus and the railway station of Mathura.
+
+Hotel Mukund Palace is a Government approved hotel. The hotel is closely located near the bus terminus and the railway station making it easily accessible. Good boarding option, dining facilities and warm service are its selling points. 
+
+This government recognized economy hotel has 32 guestrooms in store for you. The rooms are beautiful and cozy. On retiring into any of the rooms, you will feel heavenly bliss as they are self-contained with every modern comfort and amenity that makes stay in Mathura easy and enjoyable. Of them attached baths, television and telephone deserve special mention.
+
+There is a pool table in this hotel. If you are a game freak then do try your hands at this. Besides, you can also go for an excursion tour in the city. The efficient travel desk of this hotel is ever ready to extend its valuable help to you.</string>
+		<key>address</key>
+		<string>Junction Road, Sonkh Adda, Mathura 281001, India</string>
+		<key>latitude</key>
+		<real>27.4917459</real>
+		<key>longitude</key>
+		<real>77.6776582</real>
+		<key>rate</key>
+		<real>802</real>
+		<key>maxRate</key>
+		<real>2606</real>
+		<key>ratings</key>
+		<real>2</real>
+		<key>image</key>
+		<array>
+			<string>hotel_25</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>126</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Clarks Inn Mathura</string>
+		<key>description</key>
+		<string>Clarks Inn, Mathura is committed to provide a world-class hotel experience, accessible to the value - conscious travelers all around the world. With a vision of redefining what Inns have come to mean in India, we are single - mindedly focused on providing luxurious services with tremendous quality.
+Our hotels provide services like Executive rooms, Banquet hall, and Restaurant for Casual Dinners. We take special care of every aspect of guest services and experience and a feedback is very important to us. The hotel offers a range of amenities and unparallel hospitality. A complimentary breakfast buffet awaits you each morning at our coffee shop.</string>
+		<key>address</key>
+		<string>H-4 Krishna Puram | near Birla Temple, Mathura 281001, India</string>
+		<key>latitude</key>
+		<real>27.5266118</real>
+		<key>longitude</key>
+		<real>77.6746515</real>
+		<key>rate</key>
+		<real>2338</real>
+		<key>maxRate</key>
+		<real>3474</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_26</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>127</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Hotel Duke Palace</string>
+		<key>description</key>
+		<string>Hotel Duke Palace, Mathura, is well-suited for business as well as leisure travellers. Well-connected by all means of transport, the hotel is an ideal destination to explore the temple city. The hotel offers well-appointed rooms, essential amenities and a friendly ambience for a memorable stay. </string>
+		<key>address</key>
+		<string>Saraswati Kund Masani Bye Pass Link Road Mathura | Uttar Pradesh, Mathura 281003, India</string>
+		<key>latitude</key>
+		<real>27.5241713</real>
+		<key>longitude</key>
+		<real>77.6656258</real>
+		<key>rate</key>
+		<real>1537</real>
+		<key>maxRate</key>
+		<real>2539</real>
+		<key>ratings</key>
+		<real>2</real>
+		<key>image</key>
+		<array>
+			<string>hotel_27</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>128</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Hotel Govardhan Palace</string>
+		<key>description</key>
+		<string>Hotel Govardhan Palace Mathura is a Three Star Govt Approved hotel with difference. Set in an expanse of 4 beautifully landscaped acres, the building has an imposing yet serene presence, a resort like ambiance. It is characterized by long corridors and walkways, lush-green lawns ideal for weddings, banquets and theme parties, can host up to 2500 people.</string>
+		<key>address</key>
+		<string>Masani Link Road, Bypass, Mathura 281003, India</string>
+		<key>latitude</key>
+		<real>27.4617806</real>
+		<key>longitude</key>
+		<real>77.6738344</real>
+		<key>rate</key>
+		<real>2138</real>
+		<key>maxRate</key>
+		<real>5679</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_28</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>129</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Sheetal Regency Hotel</string>
+		<key>description</key>
+		<string>Sheetal Regency, Mathura, is a three star deluxe hotel situated in the heart of the Mathura city, 1.5 km, from Mathura railway station, 1 km from mathura bus stand. Hotel offers each and every modern comfort, set in beautiful environment within the Hotel complex.</string>
+		<key>address</key>
+		<string>Opp. Roopam Talkies, Near Krishna Janam Bhoomi | Deeg Gate Masani Road, Mathura 281001, India</string>
+		<key>latitude</key>
+		<real>27.5228069</real>
+		<key>longitude</key>
+		<real>77.6659665</real>
+		<key>rate</key>
+		<real>2472</real>
+		<key>maxRate</key>
+		<real>3207</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_29</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>130</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Wingston Hotel</string>
+		<key>description</key>
+		<string>Mathura, the land hallowed by the aura of Shri Krishna, now offers you the most luxurious and modern comfort that your senses can imagine. Situated approximately 150 kms. Away from Delhi on the banks of the river Yamuna. Mathura abounds in places of religious and historic interest. All year round, a number of festivals and fairs dot the landscape; that makes it an ideal year long tourist an relaxation spot. Once in Mathura, you would like to surround yourself with luxurious settings with a touch of home; we have provided you with just that. A retreat that sticks to the purest quality in all round services; you will find yourself bowled over in the magnificent surroundings and the warmth of our personalize attention to your needs.</string>
+		<key>address</key>
+		<string>Delhi-Masani Bypass Road | Link Road, Mathura 281001, India</string>
+		<key>latitude</key>
+		<real>27.5246498</real>
+		<key>longitude</key>
+		<real>77.6653219</real>
+		<key>rate</key>
+		<real>2606</real>
+		<key>maxRate</key>
+		<real>3875</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_30</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>131</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Hotel Wingston</string>
+		<key>description</key>
+		<string>At Hotel Wingston you will find dry cleaning, ironing service and laundry facilities at a surcharge. Other facilities offered at the property include a tour desk and luggage storage. The property offers free parking.
+
+The property is located within 4.4 km from Sri Giridhari Gaudiya Math and Manasi Ganga. It is 6.5 km from the Govardhan Station, 27.5 km from the Mathura Railway Station and 83.3 km from the Agra Airport. The Indira Gandhi International Airport is 160 km away.
+
+The in-house restaurant serves multi-cuisine dishes. Packed lunches can be requested. Room service is available.</string>
+		<key>address</key>
+		<string>Radha Kund Road Govardhan Uttar Pradesh, 281502 Govardhan, India</string>
+		<key>latitude</key>
+		<real>27.4944677</real>
+		<key>longitude</key>
+		<real>77.4689073</real>
+		<key>rate</key>
+		<real>3274</real>
+		<key>maxRate</key>
+		<real>4811</real>
+		<key>ratings</key>
+		<real>4</real>
+		<key>image</key>
+		<array>
+			<string>hotel_31</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>132</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Shri Radha Brij Vasundhara Resort &amp; Spa</string>
+		<key>description</key>
+		<string>Shri Radha Brij Vasundhara Resort &amp; Spa is 24 km from Mathura Railway Station. Agra, where Taj Mahal is located, is 75 km away from the hotel.
+
+Rooms each come with air-conditioning and heating. A flat-screen TV and telephone with direct dial function is provided. Views of greenery are available from each room.
+
+Billiards and tennis facilities are offered in the hotel. A business centre and tour desk are provided for convenience. Children can play in the kids’ room. Guests can enjoy a pampering spa at Anubhuti.
+
+Guests can enjoy a variety of international cuisine in the restaurant. Room service is also available.</string>
+		<key>address</key>
+		<string>Aanyor Parikrama Marg, Govardhan, 281502 Govardhan, India</string>
+		<key>latitude</key>
+		<real>27.480234</real>
+		<key>longitude</key>
+		<real>77.453101</real>
+		<key>rate</key>
+		<real>4241</real>
+		<key>maxRate</key>
+		<real>7331</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>hotel_32</string>
+		</array>
+	</dict>
+</array>
+</plist>

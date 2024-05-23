@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>500</string>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>सुलभ</string>
+		<key>distancefrom</key>
+		<string>पागल बाबा मंदिर से 150 मीटर</string>
+		<key>address</key>
+		<string>अट्ताला चुंगी वृंदावन, मथुरा-वृंदावन मार्ग, वृंदावन, उत्तर प्रदेश 281121</string>
+		<key>latitude</key>
+		<real>27.568393</real>
+		<key>longitude</key>
+		<real>77.689127</real>
+	</dict>
+</array>
+</plist>

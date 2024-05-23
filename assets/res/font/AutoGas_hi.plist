@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>100</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>वृंदावन पेट्रोल पम्प</string>
+		<key>address</key>
+		<string>मथुरा-वृन्दावन मार्ग, वृन्दावन, उत्तर प्रदेश - 281121</string>
+		<key>latitude</key>
+		<real>27.56296509</real>
+		<key>longitude</key>
+		<real>77.68434753</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>101</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>इंडियन ऑयल पेट्रोल पंप</string>
+		<key>address</key>
+		<string>भूतेश्वर रोड, मनोहरपुर, मथुरा, उत्तर प्रदेश - 281004</string>
+		<key>latitude</key>
+		<real>27.496509</real>
+		<key>longitude</key>
+		<real>77.670644</real>
+		<key>image</key>
+		<array>
+			<string>indianOil_101</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>102</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>जगदीश सर्विस स्टेशन</string>
+		<key>address</key>
+		<string>549, एनएच2, कृष्णा नगर, मथुरा, उत्तर प्रदेश - 281004</string>
+		<key>latitude</key>
+		<real>27.49759111</real>
+		<key>longitude</key>
+		<real>77.65296411</real>
+		<key>image</key>
+		<array>
+			<string>autoges_102</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>103</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>बीपीसीएल चतुर्वेदी स्टेशन भरने</string>
+		<key>address</key>
+		<string>NH2, चौधरी दिगंबर सिंह नगर, मथुरा, उत्तर प्रदेश 281004</string>
+		<key>latitude</key>
+		<real>27.4683023</real>
+		<key>longitude</key>
+		<real>77.66022479</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>104</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>भारत पेट्रोलियम पेट्रोल पम्प</string>
+		<key>address</key>
+		<string>एनएच2, चौधरी दिगंबर सिंह नगर, मथुरा, उत्तर प्रदेश - 281004</string>
+		<key>latitude</key>
+		<real>27.46739253</real>
+		<key>longitude</key>
+		<real>77.66051989</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>105</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>नंद सर्विस स्टेशन</string>
+		<key>address</key>
+		<string>NH2, रिफाइनरी नगर, रोंची खादर, उत्तर प्रदेश 281006</string>
+		<key>latitude</key>
+		<real>27.42719068</real>
+		<key>longitude</key>
+		<real>77.69698519000001</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>106</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>एचपी पेट्रोल पम्प</string>
+		<key>address</key>
+		<string>एनएच2, भूतेश्वर रोड, चौक बाजार, मथुरा, उत्तर प्रदेश - 281003</string>
+		<key>latitude</key>
+		<real>27.5120997</real>
+		<key>longitude</key>
+		<real>77.67300356</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>107</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>एचपी पेट्रोल पम्प - भूरे लाल चंद फिल्लिंग स्टेशन</string>
+		<key>address</key>
+		<string>गोवर्धन ब्राह्मणं सोनख सड़क, गोवर्धन, उत्तर प्रदेश - 281502</string>
+		<key>latitude</key>
+		<real>27.489147</real>
+		<key>longitude</key>
+		<real>77.4665629</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>108</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>एचपी पेट्रोल पम्प</string>
+		<key>address</key>
+		<string>एमडीआर 143डब्ल्यू, गोवर्धन ब्राह्मणं, उत्तर प्रदेश - 281502</string>
+		<key>latitude</key>
+		<real>27.48923623</real>
+		<key>longitude</key>
+		<real>77.46684764</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>109</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>एचपी पेट्रोल पम्प - एचपी सर्वेश्वर फिल्लिंग स्टेशन</string>
+		<key>address</key>
+		<string>यमुना माता गोवर्धन रोड पर, आगरा, उत्तर प्रदेश - 281502</string>
+		<key>latitude</key>
+		<real>27.48983048</real>
+		<key>longitude</key>
+		<real>77.49683775</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+</array>
+</plist>

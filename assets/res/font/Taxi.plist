@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>400</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>image</key>
+		<string>text_0</string>
+		<key>name</key>
+		<string>Tata Indigo (AC)</string>
+		<key>seat</key>
+		<string>4</string>
+		<key>fare</key>
+		<real>12</real>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>401</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>image</key>
+		<string>text_1</string>
+		<key>name</key>
+		<string>Swift Dzire (AC)</string>
+		<key>seat</key>
+		<string>4</string>
+		<key>fare</key>
+		<real>13</real>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>402</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>image</key>
+		<string>text_2</string>
+		<key>name</key>
+		<string>WagonR (AC)</string>
+		<key>seat</key>
+		<string>4</string>
+		<key>fare</key>
+		<real>10</real>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>404</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>image</key>
+		<string>text_3</string>
+		<key>name</key>
+		<string>Toyota Innova (AC)</string>
+		<key>seat</key>
+		<string>6</string>
+		<key>fare</key>
+		<real>15</real>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>405</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>image</key>
+		<string>text_4</string>
+		<key>name</key>
+		<string>Tempo Traveller (AC)</string>
+		<key>seat</key>
+		<string>11</string>
+		<key>fare</key>
+		<real>18</real>
+	</dict>
+</array>
+</plist>

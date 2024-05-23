@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>400</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>अम्मा के रेस्तरां</string>
+		<key>description</key>
+		<string></string>
+		<key>address</key>
+		<string>परिक्रमा मार्ग | श्री बिंदु सेवा संस्थान, वृंदावन, उत्तर प्रदेश - 281121</string>
+		<key>contact</key>
+		<string>+919997710000</string>
+		<key>latitude</key>
+		<real>27.56656</real>
+		<key>longitude</key>
+		<real>77.693123</real>
+		<key>ratings</key>
+		<real>4</real>
+		<key>image</key>
+		<array>
+			<string>resto_0</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>401</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>एमवीटी रेस्तरां</string>
+		<key>description</key>
+		<string>एमवीटी रेस्तरां शुद्ध शाकाहारी भोजन के एक महान विविधता प्रदान करता है। एमवीटी रेस्तरां के इंटीरियर रुस्तिकललय एमवीटी संपत्ति का सुंदर उद्यान की एक पृष्ठभूमि के साथ स्टाइल है। एमवीटी रेस्तरां अप्रैल के माध्यम से 3.30 बजे और रात का खाना 6.30 बजे 9.30 अगस्त के महीने के बीच प्रधानमंत्री को 10.00 बजे, दोपहर के भोजन दोपहर 12.30 बजे तक नाश्ता सुबह 8.30 AM प्रदान करता है। एमवीटी रेस्तरां मई और जुलाई के बीच गर्मियों के महीनों के लिए बंद कर दिया है। आओ और एमवीटी रेस्तरां में वृंदावन में सबसे अच्छा और साफ व्यंजनों का आनंद लें।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग | रमन रेती, वृंदावन, उत्तर प्रदेश - 281121</string>
+		<key>contact</key>
+		<string>+919997738666</string>
+		<key>latitude</key>
+		<real>27.5735024</real>
+		<key>longitude</key>
+		<real>77.678318</real>
+		<key>ratings</key>
+		<real>3.5</real>
+		<key>image</key>
+		<array>
+			<string>resto_1</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>402</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>न्यू गोविंदा</string>
+		<key>description</key>
+		<string>गोविंदा जिसका मतलब न्यू गोविंदा रेस्तरां दुनिया जो स्वादिष्ट प्रसाद की सेवा करके शुद्ध शाकाहार को बढ़ावा देता है चारों ओर 150 से अधिक इस्कॉन रेस्तरां में से एक है &quot;वह जो होश खुशी देता है&quot; कृष्णा के लिए एक नाम है।</string>
+		<key>address</key>
+		<string>भक्तिवेदांत स्वामी मार्ग | रमन रेती, वृंदावन, उत्तर प्रदेश - 281121</string>
+		<key>contact</key>
+		<string>05652540728</string>
+		<key>latitude</key>
+		<real>27.56656</real>
+		<key>longitude</key>
+		<real>77.693123</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_2</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>403</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>निधिवन सरोवर पोर्टिको</string>
+		<key>description</key>
+		<string>बेशकीमती सुविधाओं में से एक अपने शुद्ध शाकाहारी रेस्तरां &apos;तृप्ति&apos; उत्तर भारतीय, दक्षिण भारतीय, चीनी और महाद्वीपीय व्यंजनों के बेहतरीन व्यंजनों की पेशकश है। ताजा और प्रामाणिक सामग्री के साथ घर-पकाया शैली शुद्ध शाकाहारी भोजन को याद नहीं।</string>
+		<key>address</key>
+		<string>गोपालगढ़ ठहरा रोड | खसरा 797, वृंदावन, उत्तर प्रदेश - 281121</string>
+		<key>contact</key>
+		<string>+915653037000</string>
+		<key>latitude</key>
+		<real>27.5649905</real>
+		<key>longitude</key>
+		<real>77.65570150000001</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_3</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>404</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>भारतीय रेस्तरां व व्यंजन</string>
+		<key>description</key>
+		<string>&quot;भारती मिठाईवाला &apos;में और वृंदावन के आसपास पिछले 40 सालों से भोजन और मिठाई प्रेमियों के बीच एक प्रसिद्ध नाम है! आगे जा रहे हैं, हम हाल ही में उद्घाटन किया है&quot; भारती व व्यंजन&apos;, एक शुद्ध शाकाहारी बहु व्यंजन रेस्तरां है, जहां हम भारतीय व्यंजनों के साथ मल्टी कार्य किया दक्षिण भारत, चीनी और महाद्वीपीय खाना है कि अपने स्वाद के गहरे इच्छाओं को पूरा करेंगे।</string>
+		<key>address</key>
+		<string>ठहरा रोड | होटल दा रॉयल भर्ती, रुक्मणि विहार, वृंदावन, उत्तर प्रदेश - 281121</string>
+		<key>contact</key>
+		<string>+917055520201</string>
+		<key>latitude</key>
+		<real>27.564305</real>
+		<key>longitude</key>
+		<real>77.65608400000001</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_4</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>405</integer>
+		<key>cid</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>दासप्रकाश रेस्तरां वृंदावन</string>
+		<key>description</key>
+		<string>दासप्रकाश देश में सबसे प्रसिद्ध दक्षिण भारतीय रेस्तरां श्रृंखला में से एक, विभिन्न शहरों में इसकी शाखाएं हो रही है। वृंदावन में कृिंदा रेजीडेंसी होटल के अंदर स्थित है, रेस्तरां दक्षिण और उत्तर से स्वादिष्ट भारतीय व्यंजनों की एक विस्तृत विविधता में कार्य करता है। पूरे रेस्तरां सुरुचिपूर्ण ढंग से किया जाता है और दीवारों भगवान कृष्ण की कुछ खूबसूरत चित्रों है कि अपनी सुंदरता के लिए कहते हैं के साथ सजी हैं। रेस्तरां भी अपने मुंह पिघलने डेसर्ट के लिए जाना जाता है। रविवार को यहाँ पर परोसे जाने अत्यधिक की सिफारिश कर रहे हैं।</string>
+		<key>address</key>
+		<string>छटीकरा रोड | भक्तिवेदांत स्वामी मार्ग, एक्सिस बैंक के पास, वृंदावन, उत्तर प्रदेश - 281121</string>
+		<key>contact</key>
+		<string>05652540151</string>
+		<key>latitude</key>
+		<real>27.5698335</real>
+		<key>longitude</key>
+		<real>77.6657767</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_5</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>405</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>बंसल फूड्स रेस्तरां</string>
+		<key>description</key>
+		<string>बंसल फूड्स भोजनालय, कृष्णा नगर इलाके में मथुरा के दिल में स्थित है, एक और प्रमुख बहु व्यंजन रेस्तरां है। यह शुद्ध शाकाहारी रेस्तरां अपने व्यंजनों में विदेशी मसाले और जड़ी बूटियों के प्रयोग करने के लिए जाना जाता है। मेनू दक्षिण भारतीय, उत्तर भारतीय और चीनी व्यंजनों की एक विस्तृत वर्गीकरण भी शामिल है। chaats, पेय पदार्थ और यहाँ पर परोसे अन्य नाश्ते की विविधता भी एक कोशिश करनी चाहिए रहे हैं। यहाँ खाना ऑर्डर करने के लिए पकाया जाता है और स्वच्छता और गुणवत्ता के उच्च स्तर पर हर समय बनाए रखा है। हौसले से तैयार व्यंजनों की एक श्रृंखला स्वाद के लिए और एक अविस्मरणीय अनुभव भोजन के लिए, यात्रा करते हैं बंसल फूड्स रेस्तरां।</string>
+		<key>address</key>
+		<string>भूतेश्वर रोड, कृष्णा नगर, मथुरा, उत्तर प्रदेश - 281001</string>
+		<key>contact</key>
+		<string>05652421946</string>
+		<key>latitude</key>
+		<real>27.500904</real>
+		<key>longitude</key>
+		<real>77.655427</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_6</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>407</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>ताज परिवार रेस्तरां</string>
+		<key>description</key>
+		<string>ताज परिवार रेस्तरां, डारेसी रोड पर स्थित, मथुरा में मनोरम शाकाहारी और मांसाहारी व्यंजनों की सेवा के लिए जाना जाता है। कुछ भावपूर्ण प्रसन्न करने के लिए उन तरस यहाँ की यात्रा और उनके चिकन विशेषता है जो बिल्कुल स्वादिष्ट आदेश कर सकते हैं। सभ्य, स्वच्छ और त्वरित सेवा कर, यह रेस्टोरेंट का दौरा करना चाहिए। वहाँ मथुरा के पवित्र शहर में कई स्थानों पर मांसाहारी व्यंजनों बाहर dishing नहीं कर रहे हैं, ताज परिवार रेस्तरां मांस प्रेमियों के एक नंबर के द्वारा दौरा किया है।</string>
+		<key>address</key>
+		<string>दरेसी रोड, मनोहरपुरा, मथुरा, उत्तर प्रदेश - 281001</string>
+		<key>contact</key>
+		<string>05652401786</string>
+		<key>latitude</key>
+		<real>27.5027684</real>
+		<key>longitude</key>
+		<real>77.6752327</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_7</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>408</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>गोकुल रेस्टोरेंट</string>
+		<key>description</key>
+		<string></string>
+		<key>address</key>
+		<string>मसानी रोड, गररवकेंद्र, मथुरा, उत्तर प्रदेश - 281121</string>
+		<key>contact</key>
+		<string>+919368083854</string>
+		<key>latitude</key>
+		<real>27.5295976</real>
+		<key>longitude</key>
+		<real>77.6599657</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>409</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>बसेरा रेस्तरां</string>
+		<key>description</key>
+		<string>एक आदर्श स्थान पर स्थित है, बसेरा रेस्तरां उपयुक्त स्थानों मथुरा में भोजन करने से एक है। इस घरेलू रेस्तरां में स्वादिष्ट व्यंजनों का स्वाद ले सकते हैं। इसके अलावा, एक मिठाई दाँत के साथ लोगों के इस रेस्तरां में कुछ डेसर्ट कोशिश कर सकते हैं।</string>
+		<key>address</key>
+		<string>C 64, श्री राधा पुरम, विश्वलष्मी नगर, मथुरा, उत्तर प्रदेश 281004</string>
+		<key>contact</key>
+		<string>+919412278120</string>
+		<key>latitude</key>
+		<real>27.5094716</real>
+		<key>longitude</key>
+		<real>77.6528598</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_9</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>410</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>डोसा प्लाजा मथुरा</string>
+		<key>description</key>
+		<string>&quot;भारती मिठाईवाला &apos;में और वृंदावन के आसपास पिछले 40 सालों से भोजन और मिठाई प्रेमियों के बीच एक प्रसिद्ध नाम है! आगे जा रहे हैं, हम हाल ही में उद्घाटन किया है&quot; भारती व व्यंजन&apos;, एक शुद्ध शाकाहारी बहु व्यंजन रेस्तरां है, जहां हम भारतीय व्यंजनों के साथ मल्टी कार्य किया दक्षिण भारत, चीनी और महाद्वीपीय खाना है कि अपने स्वाद के गहरे इच्छाओं को पूरा करेंगे।</string>
+		<key>address</key>
+		<string>डीग गेट - मसानी रोड, रूपम सिनेमा के सामने, मथुरा, उत्तर प्रदेश - 281001</string>
+		<key>contact</key>
+		<string>05652500090</string>
+		<key>latitude</key>
+		<real>27.509189</real>
+		<key>longitude</key>
+		<real>77.671593</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_10</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>411</integer>
+		<key>cid</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>होटल गणपति पैलेस</string>
+		<key>description</key>
+		<string>होटल गणपति पैलेस मथुरा में आपका स्वागत आतिथ्य की कला का आनंद लें। संपत्ति परिष्कृत सेवा और महत्व लालित्य के एक शहरी स्वर्ग है। यह ठीक संपत्ति विश्व स्तर की सेवा और सुविधाओं में परम के साथ &apos;ब्रज भूमि&apos; भगवान कृष्ण के जन्म स्थान-पर्यटन स्थल है, असली आतिथ्य अनुभव के लिए समूह के पारंपरिक प्रतिष्ठा के साथ संयुक्त पर स्थित है।</string>
+		<key>address</key>
+		<string>ई.ओ.सी.ल. पेट्रोल पंप के पास, भूतेश्वर रोड, मनोहरपुरा, मथुरा, उत्तर प्रदेश - 281001</string>
+		<key>contact</key>
+		<string>+919458406203</string>
+		<key>latitude</key>
+		<real>27.49664715</real>
+		<key>longitude</key>
+		<real>77.67097011</real>
+		<key>ratings</key>
+		<real>2</real>
+		<key>image</key>
+		<array>
+			<string>resto_11</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>412</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>बांसुरी व्यंज्ञान</string>
+		<key>description</key>
+		<string>-</string>
+		<key>address</key>
+		<string>गोवर्धन ब्राह्मणं, उत्तर प्रदेश</string>
+		<key>contact</key>
+		<string>+919720064999</string>
+		<key>latitude</key>
+		<real>27.4961817</real>
+		<key>longitude</key>
+		<real>77.4691339</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string>resto_12</string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>413</integer>
+		<key>cid</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>होटल गीतांजलि</string>
+		<key>description</key>
+		<string>-</string>
+		<key>address</key>
+		<string>लथोकरी महादेव के पास, मथुरा रोड, गोवर्धन</string>
+		<key>contact</key>
+		<string>+918439262595</string>
+		<key>latitude</key>
+		<real>27.4915109</real>
+		<key>longitude</key>
+		<real>77.4752896</real>
+		<key>ratings</key>
+		<real>3</real>
+		<key>image</key>
+		<array>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>414</integer>
+		<key>cid</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>घनश्याम भोजनालय और परिवार रेस्तरां</string>
+		<key>description</key>
+		<string>-</string>
+		<key>address</key>
+		<string>बस स्टैंड के पास, गोकुल बैराज रोड, मथुरा, उत्तर प्रदेश - 281303</string>
+		<key>contact</key>
+		<string>+918755225200</string>
+		<key>latitude</key>
+		<real>27.4410911</real>
+		<key>longitude</key>
+		<real>77.7214122</real>
+		<key>ratings</key>
+		<real>2</real>
+		<key>image</key>
+		<array>
+			<string>resto_14</string>
+		</array>
+	</dict>
+</array>
+</plist>
